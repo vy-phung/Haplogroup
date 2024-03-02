@@ -1,7 +1,9 @@
-import saveFile, openFile
+from DataWrangling import *
+from Dataset2_3 import *
+import os
 def removeControlReg(country):
   saveFile('country.txt',country)
-  #!file=country.txt;for i in `cat $file`; do cat /content/drive/MyDrive/RetrieveData/Dataset1/$i/$i*seq_name.txt | grep "control region" > $i.txt; cp -r /content/drive/MyDrive/RetrieveData/Dataset2/$i/fasta /content/drive/MyDrive/RetrieveData/Dataset3/$i/fasta; done
+  os.system('file=country.txt;for i in `cat $file`; do cat /content/drive/MyDrive/RetrieveData/Dataset1/$i/$i*seq_name.txt | grep "control region" > $i.txt; cp -r /content/drive/MyDrive/RetrieveData/Dataset2/$i/fasta /content/drive/MyDrive/RetrieveData/Dataset3/$i/fasta; done')
   if len(openFile(country + '.txt')) > 0:
     # create remove list
     removeList = ''
@@ -16,6 +18,6 @@ def removeControlReg(country):
             for val in `cat $DataList`; do rm $val; done'''
     # run bash
     saveFile('remove.sh',bash)
-    # fix this command line
-    '''! bash remove.sh
-    ! rm country.txt'''
+    # command line
+    os.system('''bash remove.sh
+    rm country.txt''')

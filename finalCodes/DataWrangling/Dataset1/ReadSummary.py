@@ -1,4 +1,6 @@
-import openFile, saveFile
+from DataWrangling import *
+from Dataset1 import *
+import os
 def ReadSummary(file): # making the reference name (Kutanan et al. (2017)) and get isolate
   summary = openFile(file)
   isolate,author,title,year,pubID,organism = '','','','','',''
@@ -6,15 +8,15 @@ def ReadSummary(file): # making the reference name (Kutanan et al. (2017)) and g
   # getting author and title and isolate
   authors = summary.split('AUTHORS')[1].split('\n')[0].split()
   title = ' '.join(summary.split('TITLE')[1].split('\n')[0].split())
-  # fix the command line 
-  #!ls /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed > pubList.txt
+  # command line 
+  os.system("ls /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed > pubList.txt")
   # list in pubmed
   if 'PUBMED' in summary: # PubmedID.title.isolate.refName
     pubID = summary.split('PUBMED')[1].split()[0]
     if pubID not in openFile('pubList.txt'):
       saveFile('pubmed.txt',pubID)
-      # fix the command line
-      #!file=pubmed.txt;for id in `cat $file`; do ${HOME}/edirect/esummary -db pubmed -id $id | grep "PubDate" | head -n1 > /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/$id.txt; done
+      # command line
+      os.system('file=pubmed.txt;for id in `cat $file`; do ${HOME}/edirect/esummary -db pubmed -id $id | grep "PubDate" | head -n1 > /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/$id.txt; done')
       if pubID not in temporaryMem:
         year = openFile('/content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/' + pubID + '.txt').split('<PubDate>')[1].split()[0]
         temporaryMem[pubID] = year
@@ -24,8 +26,8 @@ def ReadSummary(file): # making the reference name (Kutanan et al. (2017)) and g
           year = temporaryMem[pubID]
         else:
           saveFile('pubmed.txt',pubID)
-          # fix the command line
-          #!file=pubmed.txt;for id in `cat $file`; do ${HOME}/edirect/esummary -db pubmed -id $id | grep "PubDate" | head -n1 > /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/$id.txt; done
+          # command line
+          os.system('file=pubmed.txt;for id in `cat $file`; do ${HOME}/edirect/esummary -db pubmed -id $id | grep "PubDate" | head -n1 > /content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/$id.txt; done')
           if pubID not in temporaryMem:
             year = openFile('/content/drive/MyDrive/OUCRUwork/RetrieveData/others/pubmed/' + pubID + '.txt').split('<PubDate>')[1].split()[0]
             temporaryMem[pubID] = year

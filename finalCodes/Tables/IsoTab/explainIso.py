@@ -1,11 +1,12 @@
-import transCode
+from Tables import *
 from DataWrangling import saveFile, openFile
 import pandas as pd
+import os
 # country, isolate, explanation, ethnicity, language, language family
 def explainIso(country):
   saveFile('country.txt',country)
-  # fix this command line
-  #!file=country.txt;for i in `cat $file`; do ls /content/drive/MyDrive/OUCRUwork/RetrieveData/Dataset3/$i/fasta > list.txt; done
+  # command line
+  os.system('file=country.txt;for i in `cat $file`; do ls /content/drive/MyDrive/OUCRUwork/RetrieveData/Dataset3/$i/fasta > list.txt; done')
   isolate, accnum, accIso = '','', ''
   refName = openFile('/content/drive/MyDrive/OUCRUwork/RetrieveData/Dataset1/'+country+'/'+country+'_refname.txt')
   output = ''

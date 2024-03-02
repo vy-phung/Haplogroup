@@ -1,8 +1,9 @@
-import openFile,saveFile
+from DataWrangling import *
+from Dataset2_3 import *
+import os
 # fix the haplogroup file name
-'''Nếu là D-loop, thì lấy tên Haplogroup theo tên họ đã tìm thấy và đặt ra trước,
-không cần chạy lên trên haplogrep nữa. Còn nếu không phải D-loop thì lấy tên chạy lại trên
-haplogrep cho chính xác'''
+'''If it is D-loop sequence, take the already existed name of haplogroup from the papers instead of 
+running again Haplogrep. If it is not D-loop which means the haplogroups' names are not known yet, then run haplogrep'''
 def haplogroup(country):
   haplo, isolate, newName, newSeq = '','','',''
   DLoop = openFile('/content/drive/MyDrive/RetrieveData/Dataset1/' + country + '/' + country + '_seq_name.txt').split('\n')
@@ -19,13 +20,13 @@ def haplogroup(country):
         oldFile = openFile('/content/drive/MyDrive/RetrieveData/Dataset1/'+country+'/fasta/'+line+'.fasta').split('\n')
         newSeq = '>' + newName + '\n' + '\n'.join(oldFile[1:])
         saveFile('name.txt','/content/drive/MyDrive/RetrieveData/Dataset1/'+country+'/fasta/'+line+'.fasta')
-        # fix this command line
-        '''!file=name.txt;for i in `cat $file`; do rm $i; done
-        ! rm name.txt'''
+        # command line
+        os.system('''file=name.txt;for i in `cat $file`; do rm $i; done
+        ! rm name.txt''')
         saveFile('/content/drive/MyDrive/RetrieveData/Dataset1/'+country+'/fasta/'+newName+'.fasta',newSeq)
         # write a bash to remove the old file
-        #bash = '''#!/bin/bash
+        bash = '''#!/bin/bash
         #for val in "/content/drive/MyDrive/RetrieveData/Dataset1/''' + country + "/fasta/" + line + '''.fasta"; do rm $val;done'''
-        #saveFile('remove.sh',bash)
-        #! bash remove.sh
-        #! rm remove.sh'''
+        saveFile('remove.sh',bash)
+        os.system("bash remove.sh")
+        os.system("rm remove.sh")

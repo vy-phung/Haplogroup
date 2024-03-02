@@ -1,9 +1,11 @@
-import saveFile,openFile
+from DataWrangling import *
+from Dataset2_3 import *
+import os
 # remove mRNA, D-loop, non homo sapiens
 def remove(countryFolder, country):
   saveFile('country.txt',countryFolder)
-  # fix this command line
-  #!file=country.txt; for i in `cat $file`; do ls $i > output.txt; done
+  # command line
+  os.system=('file=country.txt; for i in `cat $file`; do ls $i > output.txt; done')
   file = openFile('output.txt')
   removeList = []
   for line in file.split('\n'):
@@ -28,6 +30,7 @@ def remove(countryFolder, country):
     do rm $val
     done'''
   saveFile('dataset2.sh',script)
-  #fix this command line
-  #! bash dataset2.sh
+  #command line
+  os.system('bash dataset2.sh')
+  os.system('rm dataset2.sh')
   print('finish')

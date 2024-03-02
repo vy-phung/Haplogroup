@@ -1,5 +1,6 @@
-import saveFile
-import openFile
+from DataWrangling import *
+from Dataset1 import *
+import os 
 ''' This is a function that splits a big country fasta file including multiple sequences into each fasta file containing only 1 sequence.
 When splitting, it also labels, and figures out if there is any sequence doesnt have haplogroup and run
 haplogrep for that unhaplogroup sequence, save it and then move on to next sequence until there is no sequence in that country fasta file.'''
@@ -11,8 +12,8 @@ def SplitSeq(nameFile, country,seqFolder,seqNameFolder,newCountryFasta, exist):
   refName, accnum = '', ''
   if exist == 'Yes':
     saveFile('seqFolder.txt',seqFolder)
-    # fix this code here into python instead of command line
-    #!file=seqFolder.txt;for i in `cat $file`; do ls $i > Seqlist.txt; done
+    # command line
+    os.system("file=seqFolder.txt;for i in `cat $file`; do ls $i > Seqlist.txt; done")
   else: saveFile('Seqlist.txt','')
   for seq in seqs:
     if len(seq) > 0:
@@ -25,7 +26,7 @@ def SplitSeq(nameFile, country,seqFolder,seqNameFolder,newCountryFasta, exist):
         ref,isolate,organism = ReadSummary('/content/drive/MyDrive/OUCRUwork/RetrieveData/others/AccessNumber/' + AccNum + '.txt')
       else:
         AccNum, ethnic, haplo, ref, organism = createName(name)
-        # Vietnam.Ethnic(nếu có).Accessnumber.Haplogroup
+        # Vietnam.Ethnic(if know).Accessnumber.Haplogroup
         if haplo == '':
           if organism not in ['Homo sapiens', 'Homo Sapiens']:
             haplo = 'nonHomoSapiens'

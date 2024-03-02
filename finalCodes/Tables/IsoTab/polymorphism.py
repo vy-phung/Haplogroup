@@ -1,5 +1,6 @@
 from DataWrangling import saveFile, openFile
 import pandas as pd
+import os
 def polymorphism(Input): # the dataset 3: 4932 seq and put them in a 4932-table
   listInput = ','.join(openFile(Input).split('\n')[:-1])
   saveFile('listInput.txt',listInput)
@@ -11,8 +12,8 @@ def polymorphism(Input): # the dataset 3: 4932 seq and put them in a 4932-table
     do ./haplogrep classify --in $val --format fasta --extend-report --output $val.txt
     done'''
   saveFile('/content/drive/MyDrive/OUCRUwork/RetrieveData/others/codes/4932polymorphism.sh',script)
-  # fix this command line
-  #! bash /content/drive/MyDrive/OUCRUwork/RetrieveData/others/codes/4932polymorphism.sh
+  # command line
+  os.system('bash /content/drive/MyDrive/OUCRUwork/RetrieveData/others/codes/4932polymorphism.sh')
 
 def tablePoly(inputFile):
   df = {'AccessionNumber':[],'Polymorphism':[]}

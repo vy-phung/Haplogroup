@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 from DataWrangling import openFile, saveFile
-import ham_dis, noIso
+from Tables import *
 # ref \n Country: Isolate1: explanation1; Isolate2: explanation2 (signal: location, population, ethnic, language)
 # isolate name (ex: , method (take all means doing nothing))
 # no isolate (replace with accnum)
