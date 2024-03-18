@@ -1,6 +1,6 @@
 from DataWrangling import saveFile, openFile
 import pandas as pd
-import os
+import os, re
 def polymorphism(Input): # the dataset 3: 4932 seq and put them in a 4932-table
   listInput = ','.join(openFile(Input).split('\n')[:-1])
   saveFile('listInput.txt',listInput)
@@ -24,4 +24,28 @@ def tablePoly(inputFile):
     df['AccessionNumber'].append(accNum)
     df['Polymorphism'].append(poly)
   output = pd.DataFrame(df)
+  return output
+
+def groupHaplo(table):
+  table = table.sort_index()
+  data = {'Haplogroup':[], 'Haplo':[]}
+  haplo = ''
+  for h in list(table.index):
+    Cap = re.findall('[A-Z]+',h)[0]
+    if len(Cap) > 1:
+    # 1>Cap (len2-3)
+      haplo = Cap
+    else:  # 1Cap
+      CapNum = re.findall('[A-Z]+\d*',h)[0]
+      if len(CapNum) == 2:
+    # 1 Cap + 1Num + 1Let (len3)
+        haplo = re.findall('[A-Z]+\d+[a-z]{0,1}',h)[0]
+      else:
+    # 1Cap + >1Num (len3-4) or 1Cap
+        haplo = CapNum
+    data['Haplogroup'].append(h)
+    data['Haplo'].append(haplo)
+  # create table
+  output = pd.DataFrame(data)
+  output = output.set_index(['Haplogroup'])
   return output
