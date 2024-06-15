@@ -1,0 +1,74 @@
+GQ119010
+                     /country="Indonesia"
+GQ119011
+                     /country="Indonesia"
+GQ119012
+                     /country="Indonesia"
+GQ119013
+                     /country="Indonesia"
+GQ352636
+                     /country="Indonesia"
+GQ352635
+                     /country="Indonesia"
+GQ119018
+                     /country="Philippines"
+GQ119019
+                     /country="Philippines"
+GQ119020
+                     /country="Philippines"
+GQ119021
+                     /country="Philippines"
+GQ119022
+                     /country="Philippines"
+GQ119023
+                     /country="Philippines"
+GQ119024
+                     /country="Philippines"
+GQ119025
+                     /country="Philippines"
+GQ119026
+                     /country="Philippines"
+GQ119027
+                     /country="Philippines"
+GQ119029
+                     /country="Philippines"
+GQ119030
+                     /country="Philippines"
+GQ119031
+                     /country="Philippines"
+GQ119033
+                     /country="Philippines"
+GQ119034
+                     /country="Philippines"
+GQ119035
+                     /country="Philippines"
+GQ119036
+                     /country="Philippines"
+GQ119037
+                     /country="Philippines"
+GQ119038
+                     /country="Philippines"
+GQ119039
+                     /country="Philippines"
+GQ119040
+                     /country="Philippines"
+GQ119041
+                     /country="Philippines"
+GQ119042
+                     /country="Philippines"
+GQ119043
+                     /country="Philippines"
+GQ119044
+                     /country="Philippines"
+GQ119045
+                     /country="Philippines"
+GQ119046
+                     /country="Philippines"
+GQ119047
+                     /country="Philippines"
+GQ119028
+                     /country="Philippines"
+GQ119032
+                     /country="Philippines"
+GQ119017
+                     /country="Viet Nam"

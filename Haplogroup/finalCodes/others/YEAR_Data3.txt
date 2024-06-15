@@ -1,0 +1,4933 @@
+LOCUS       KT587350               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587351               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587352               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587353               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587354               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587355               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587356               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587357               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587358               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587359               16563 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587360               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587361               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587362               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587363               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587364               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587365               16575 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587366               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587367               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587368               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587369               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587370               16562 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587371               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587372               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587373               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587374               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587375               16576 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587376               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587377               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587378               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587379               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587380               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587381               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587382               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587383               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587384               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587385               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587386               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587387               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587388               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587389               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587390               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587391               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587392               16558 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587393               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587394               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587395               16558 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587396               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587397               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587398               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587399               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587400               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587401               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587402               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587403               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587404               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587405               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587406               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587407               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587408               16572 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587409               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587410               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587411               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587412               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587413               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587414               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587415               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587416               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587417               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587418               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587419               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587420               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587421               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587422               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587423               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587424               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587425               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587426               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587427               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587428               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587429               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587430               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587431               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587432               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587433               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587434               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587435               16574 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587436               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587437               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587438               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587439               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587440               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587441               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587442               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587443               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587444               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587445               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587446               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587447               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587448               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587449               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587450               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587451               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587452               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587453               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587454               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587455               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587456               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587457               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587458               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587459               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587460               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587461               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587462               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587463               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587464               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587465               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587466               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587467               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587468               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587469               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587470               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587471               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587472               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587473               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587474               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587475               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587476               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587477               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587478               16574 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587479               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587480               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587481               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587482               16572 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587483               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587484               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587485               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587486               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587487               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587488               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587489               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587490               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587491               16572 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587492               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587493               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587494               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587495               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587496               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587497               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587498               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587499               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587500               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587501               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587502               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587503               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587504               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587505               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587506               16562 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587507               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587508               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587509               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587510               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587511               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587512               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587513               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587514               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587515               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587516               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587517               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587518               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587519               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587520               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587521               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587522               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587523               16558 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587524               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587525               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587526               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587527               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587528               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587529               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587530               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587531               16565 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587532               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587533               16565 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587534               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587535               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587536               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587537               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587538               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587539               16558 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587540               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587541               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587542               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587543               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587544               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587545               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587546               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587547               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587548               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587549               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587550               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587551               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587552               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587553               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587554               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587555               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587556               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587557               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587558               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587559               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587560               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587561               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587562               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587563               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587564               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587565               16563 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587566               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587567               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587568               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587569               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587570               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587571               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587572               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587573               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587574               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587575               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587576               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587577               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587578               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587579               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587580               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587581               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587582               16573 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587583               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587584               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587585               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587586               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587587               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587588               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587589               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587590               16565 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587591               16557 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587592               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587593               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587594               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587595               16571 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587596               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587597               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587598               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587599               16565 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587600               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587601               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587602               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587603               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587604               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587605               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587606               16557 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587607               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587608               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587609               16572 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587610               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587611               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587612               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587613               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587614               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587615               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587616               16577 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587617               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587618               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587619               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587620               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587621               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587622               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587623               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587624               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587625               16559 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587626               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587627               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587628               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587629               16572 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587630               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587631               16561 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587632               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587633               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587634               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587635               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587636               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587637               16569 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587638               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587639               16558 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587640               16564 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587641               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587642               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587643               16560 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587644               16568 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587645               16567 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587646               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587647               16570 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       KT587648               16566 bp    DNA     circular PRI 30-DEC-2018
+LOCUS       EF446784               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       EF488201               16572 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       HM436816               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       MK128798               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128814               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128893               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128820               16565 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128860               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128821               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128894               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128832               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128840               16560 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128861               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128875               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128822               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128867               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128801               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128825               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128862               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128815               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128868               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128866               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128896               16571 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128807               16565 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128812               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128835               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128833               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128813               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128890               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128887               16571 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128864               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128808               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128834               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128802               16558 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128852               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128836               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128810               16566 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128865               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128886               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128876               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128799               16566 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128803               16566 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128843               16557 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128827               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128873               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128804               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128853               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128880               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128842               16563 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128870               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128888               16571 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128826               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128895               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128845               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128809               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128828               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128855               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128829               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128805               16566 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128847               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128823               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128841               16560 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128878               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128830               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128806               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128837               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128879               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128869               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128882               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128889               16571 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128856               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128816               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128859               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128854               16560 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128849               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128850               16560 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128891               16566 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128800               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128883               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128844               16560 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128892               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128824               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128863               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128881               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128846               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128831               16562 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128884               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128874               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128871               16567 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128851               16555 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128885               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128858               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128819               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128817               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128877               16568 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128811               16563 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128818               16569 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128872               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128838               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128857               16570 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128839               16561 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       MK128848               16559 bp    DNA     circular PRI 19-FEB-2019
+LOCUS       HM436820               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       HM436817               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       MW366904               16572 bp    DNA     circular PRI 27-JAN-2021
+LOCUS       KF631317               16560 bp    DNA     circular PRI 11-SEP-2013
+LOCUS       HM436815               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       HM436819               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       HM436818               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       HM436814               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048455               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048456               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048457               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048458               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048459               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048460               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048461               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048462               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       JN048463               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       KR025151               16569 bp    DNA     circular PRI 16-MAY-2015
+LOCUS       ON792208               16568 bp    DNA     circular PRI 14-SEP-2022
+LOCUS       MH571405               16571 bp    DNA     circular PRI 11-JUL-2018
+LOCUS       HM804484               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       HQ259121               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       KR074250               16571 bp    DNA     circular PRI 30-JUN-2016
+LOCUS       KR074251               16569 bp    DNA     circular PRI 30-JUN-2016
+LOCUS       JX390633               16569 bp    DNA     circular PRI 24-JUL-2012
+LOCUS       KF006361               16570 bp    DNA     circular PRI 25-MAY-2013
+LOCUS       MT832322               16568 bp    DNA     circular PRI 31-AUG-2020
+LOCUS       MK590045               16561 bp    DNA     circular PRI 13-MAR-2019
+LOCUS       MN053904               16569 bp    DNA     circular PRI 17-JUL-2019
+LOCUS       KU752565               16569 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752561               16569 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752562               16567 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752564               16557 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752558               16557 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752559               16557 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752560               16557 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KU752563               16559 bp    DNA     circular PRI 18-APR-2016
+LOCUS       KY615006               16570 bp    DNA     circular PRI 01-MAR-2017
+LOCUS       EU330890               16569 bp    DNA     circular PRI 26-JUL-2016
+LOCUS       MN006845               16560 bp    DNA     linear   PRI 01-APR-2020
+LOCUS       MN006846               16560 bp    DNA     linear   PRI 01-APR-2020
+LOCUS       MN006847               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       OQ731946               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731947               16567 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731948               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731949               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731950               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731951               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731952               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731953               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731954               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731955               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731956               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731957               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731958               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731959               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731960               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731961               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731962               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731963               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731964               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731965               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731966               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731967               16569 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731968               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       MN006856               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006857               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006858               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006859               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006860               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       OQ731969               16569 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731970               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731971               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731972               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731973               16570 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731974               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731975               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731976               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731977               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731978               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731979               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731980               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731981               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731982               16569 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731983               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731984               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731985               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731986               16569 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731987               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731988               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731989               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731990               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       OQ731991               16568 bp    DNA     circular PRI 08-MAY-2023
+LOCUS       GU810006               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810011               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810012               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810013               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810014               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810015               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810016               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810017               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810018               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810019               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810020               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810021               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810022               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810007               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810023               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810024               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810025               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810026               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810027               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810028               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810029               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810008               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810009               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810010               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810005               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       MN006861               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006862               16520 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006863               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006864               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006865               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006866               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       GU810061               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810062               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810063               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810064               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810065               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810066               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810067               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810068               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810069               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810070               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810071               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810072               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810073               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810074               16568 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810075               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810076               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810077               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810055               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810078               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810079               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810056               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810057               16559 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810058               16575 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810059               16561 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810060               16560 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810032               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810036               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810037               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810038               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810039               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810040               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810041               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810042               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810043               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810044               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810045               16566 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810046               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810047               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810048               16569 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810049               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810050               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810051               16561 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810052               16567 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810053               16571 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810054               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810030               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810031               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810033               16570 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810034               16561 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       GU810035               16572 bp    DNA     circular PRI 25-JUL-2016
+LOCUS       MN006870               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006871               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006872               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006873               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006874               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       MN006875               16568 bp    DNA     circular PRI 01-APR-2020
+LOCUS       DQ834254               16566 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834253               16557 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834255               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834259               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834261               16557 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834260               16566 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834256               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834257               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ834258               16568 bp    DNA     circular PRI 14-JUL-2016
+LOCUS       DQ826448               16568 bp    DNA     circular PRI 14-JUL-2016
+
+PUBDATE	KU131308	2016-Mar
+PUBDATE	KU521436	2016-Apr
+PUBDATE	KU521409	2016-Apr
+PUBDATE	KU131310	2016-Mar
+PUBDATE	KU521483	2016-Apr
+PUBDATE	KU131309	2016-Mar
+PUBDATE	KU521445	2016-Apr
+PUBDATE	KU521484	2016-Apr
+PUBDATE	AY963572	2005-May-13
+PUBDATE	KC505116	2013
+PUBDATE	KC505070	2013
+PUBDATE	KC505071	2013
+PUBDATE	KC505072	2013
+PUBDATE	KC887472	2013
+PUBDATE	KC887473	2013
+PUBDATE	KC505073	2013
+PUBDATE	KC505112	2013
+PUBDATE	KC887475	2013
+PUBDATE	KC505067	2013
+PUBDATE	KC505117	2013
+PUBDATE	KC505093	2013
+PUBDATE	KC505074	2013
+PUBDATE	KC887456	2013
+PUBDATE	KC505103	2013
+PUBDATE	KC887457	2013
+PUBDATE	KC887458	2013
+PUBDATE	KC887459	2013
+PUBDATE	KC505108	2013
+PUBDATE	KC505113	2013
+PUBDATE	KC505094	2013
+PUBDATE	KC505089	2013
+PUBDATE	KC505122	2013
+PUBDATE	KC505109	2013
+PUBDATE	KC505105	2013
+PUBDATE	KC505102	2013
+PUBDATE	KC505120	2013
+PUBDATE	KC887491	2013
+PUBDATE	KC887492	2013
+PUBDATE	KC505097	2013
+PUBDATE	KC505121	2013
+PUBDATE	KC505118	2013
+PUBDATE	KC505111	2013
+PUBDATE	KC887494	2013
+PUBDATE	KC887495	2013
+PUBDATE	KC887496	2013
+PUBDATE	KC887497	2013
+PUBDATE	KC505075	2013
+PUBDATE	KC505076	2013
+PUBDATE	KC505077	2013
+PUBDATE	KC505078	2013
+PUBDATE	KC505106	2013
+PUBDATE	KC887476	2013
+PUBDATE	KC887477	2013
+PUBDATE	KC505079	2013
+PUBDATE	KC505115	2013
+PUBDATE	KC505080	2013
+PUBDATE	KC505081	2013
+PUBDATE	KC505082	2013
+PUBDATE	KC505083	2013
+PUBDATE	KC505095	2013
+PUBDATE	KC505096	2013
+PUBDATE	KC887463	2013
+PUBDATE	KC887464	2013
+PUBDATE	KC887465	2013
+PUBDATE	KC887466	2013
+PUBDATE	KC505091	2013
+PUBDATE	KC887467	2013
+PUBDATE	KC887468	2013
+PUBDATE	KC887469	2013
+PUBDATE	KC505084	2013
+PUBDATE	KC887470	2013
+PUBDATE	KC887471	2013
+PUBDATE	KC887474	2013
+PUBDATE	KC505068	2013
+PUBDATE	KC505085	2013
+PUBDATE	KC505110	2013
+PUBDATE	KC505098	2013
+PUBDATE	KC505099	2013
+PUBDATE	KC505119	2013
+PUBDATE	KC887484	2013
+PUBDATE	KC505100	2013
+PUBDATE	KC505086	2013
+PUBDATE	KC505101	2013
+PUBDATE	KC505087	2013
+PUBDATE	KC887490	2013
+PUBDATE	KC887493	2013
+PUBDATE	KC505088	2013
+PUBDATE	KC887485	2013
+PUBDATE	KC505114	2013
+PUBDATE	KC887486	2013
+PUBDATE	KC887487	2013
+PUBDATE	KC505090	2013
+PUBDATE	KC887488	2013
+PUBDATE	KC887489	2013
+PUBDATE	KC887460	2013
+PUBDATE	KC887461	2013
+PUBDATE	KC505092	2013
+PUBDATE	KC887462	2013
+PUBDATE	KC505104	2013
+PUBDATE	KC505069	2013
+PUBDATE	KC887478	2013
+PUBDATE	KC887479	2013
+PUBDATE	KC505107	2013
+PUBDATE	KC887480	2013
+PUBDATE	KC887481	2013
+PUBDATE	KC887482	2013
+PUBDATE	KC887483	2013
+PUBDATE	KU521479	2016-Apr
+PUBDATE	KU521443	2016-Apr
+PUBDATE	KU131313	2016-Mar
+PUBDATE	KU521480	2016-Apr
+PUBDATE	KU131314	2016-Mar
+PUBDATE	KU521406	2016-Apr
+PUBDATE	HQ873554	2011-Feb-11
+PUBDATE	HQ873550	2011-Feb-11
+PUBDATE	HQ873546	2011-Feb-11
+PUBDATE	HQ873552	2011-Feb-11
+PUBDATE	EF185794	2008-Jun
+PUBDATE	EF185808	2008-Jun
+PUBDATE	KU131315	2016-Mar
+PUBDATE	KU521444	2016-Apr
+PUBDATE	EF185799	2008-Jun
+PUBDATE	EF185796	2008-Jun
+PUBDATE	KU521394	2016-Apr
+PUBDATE	HQ873538	2011-Feb-11
+PUBDATE	EF185797	2008-Jun
+PUBDATE	HQ873545	2011-Feb-11
+PUBDATE	KU131316	2016-Mar
+PUBDATE	HQ873556	2011-Feb-11
+PUBDATE	EF185798	2008-Jun
+PUBDATE	HQ873544	2011-Feb-11
+PUBDATE	EF185795	2008-Jun
+PUBDATE	KU521487	2016-Apr
+PUBDATE	EF185809	2008-Jun
+PUBDATE	HM596644	2011
+PUBDATE	HM596645	2011
+PUBDATE	HM596646	2011
+PUBDATE	HM596647	2011
+PUBDATE	HM596648	2011
+PUBDATE	HM596649	2011
+PUBDATE	HM596650	2011
+PUBDATE	HM596651	2011
+PUBDATE	HM596652	2011
+PUBDATE	HM596653	2011
+PUBDATE	HM596654	2011
+PUBDATE	HM596655	2011
+PUBDATE	HM596656	2011
+PUBDATE	HM596657	2011
+PUBDATE	HM596658	2011
+PUBDATE	HM596659	2011
+PUBDATE	HM596660	2011
+PUBDATE	HM596661	2011
+PUBDATE	HM596662	2011
+PUBDATE	HM596663	2011
+PUBDATE	HM596664	2011
+PUBDATE	HM596665	2011
+PUBDATE	HM596666	2011
+PUBDATE	HM596667	2011
+PUBDATE	HM596668	2011
+PUBDATE	HM596669	2011
+PUBDATE	HM596670	2011
+PUBDATE	HM596671	2011
+PUBDATE	HM596672	2011
+PUBDATE	HM596673	2011
+PUBDATE	HM596674	2011
+PUBDATE	HM596675	2011
+PUBDATE	HM596676	2011
+PUBDATE	HM596677	2011
+PUBDATE	HM596678	2011
+PUBDATE	HM596679	2011
+PUBDATE	HQ873559	2011-Feb-11
+PUBDATE	GQ119010	2010-Jan
+PUBDATE	GQ119011	2010-Jan
+PUBDATE	JX987450	2016-Mar
+PUBDATE	JX987451	2016-Mar
+PUBDATE	JX987452	2016-Mar
+PUBDATE	JX987453	2016-Mar
+PUBDATE	JX987454	2016-Mar
+PUBDATE	GQ119012	2010-Jan
+PUBDATE	GQ119013	2010-Jan
+PUBDATE	HQ873532	2011-Feb-11
+PUBDATE	GQ352636	2010-Jan
+PUBDATE	GQ352635	2010-Jan
+PUBDATE	EF185812	2008-Jun
+PUBDATE	EF185813	2008-Jun
+PUBDATE	EF185811	2008-Jun
+PUBDATE	EF185800	2008-Jun
+PUBDATE	MN849490	2020-Oct
+PUBDATE	MN849491	2020-Oct
+PUBDATE	MN849492	2020-Oct
+PUBDATE	KU521492	2016-Apr
+PUBDATE	KU521493	2016-Apr
+PUBDATE	MN849493	2020-Oct
+PUBDATE	MN849494	2020-Oct
+PUBDATE	MN849495	2020-Oct
+PUBDATE	MN849496	2020-Oct
+PUBDATE	MN849497	2020-Oct
+PUBDATE	MN849498	2020-Oct
+PUBDATE	MN849499	2020-Oct
+PUBDATE	MN849500	2020-Oct
+PUBDATE	MN849501	2020-Oct
+PUBDATE	MN849502	2020-Oct
+PUBDATE	MN849503	2020-Oct
+PUBDATE	MN849504	2020-Oct
+PUBDATE	MN849505	2020-Oct
+PUBDATE	MN849506	2020-Oct
+PUBDATE	MN849507	2020-Oct
+PUBDATE	MN849508	2020-Oct
+PUBDATE	MN849509	2020-Oct
+PUBDATE	EF185801	2008-Jun
+PUBDATE	HQ873555	2011-Feb-11
+PUBDATE	KU521431	2016-Apr
+PUBDATE	EF185802	2008-Jun
+PUBDATE	HQ873541	2011-Feb-11
+PUBDATE	HQ873493	2011-Feb-11
+PUBDATE	KU131317	2016-Mar
+PUBDATE	DQ981468	2006-Dec
+PUBDATE	KU521494	2016-Apr
+PUBDATE	EF185803	2008-Jun
+PUBDATE	HQ873548	2011-Feb-11
+PUBDATE	HQ873540	2011-Feb-11
+PUBDATE	HQ873553	2011-Feb-11
+PUBDATE	MN849510	2020-Oct
+PUBDATE	MN849511	2020-Oct
+PUBDATE	MN849512	2020-Oct
+PUBDATE	MN849513	2020-Oct
+PUBDATE	MN849514	2020-Oct
+PUBDATE	MN849515	2020-Oct
+PUBDATE	MN849516	2020-Oct
+PUBDATE	MN849517	2020-Oct
+PUBDATE	MN849518	2020-Oct
+PUBDATE	MN849519	2020-Oct
+PUBDATE	MN849520	2020-Oct
+PUBDATE	MN849521	2020-Oct
+PUBDATE	MN849522	2020-Oct
+PUBDATE	MN849523	2020-Oct
+PUBDATE	MN849524	2020-Oct
+PUBDATE	MN849525	2020-Oct
+PUBDATE	MN849526	2020-Oct
+PUBDATE	MN849527	2020-Oct
+PUBDATE	MN849528	2020-Oct
+PUBDATE	MN849529	2020-Oct
+PUBDATE	MN849530	2020-Oct
+PUBDATE	MN849531	2020-Oct
+PUBDATE	MN849532	2020-Oct
+PUBDATE	MN849533	2020-Oct
+PUBDATE	MN849534	2020-Oct
+PUBDATE	MN849535	2020-Oct
+PUBDATE	MN849536	2020-Oct
+PUBDATE	MN849537	2020-Oct
+PUBDATE	MN849538	2020-Oct
+PUBDATE	MN849539	2020-Oct
+PUBDATE	MN849540	2020-Oct
+PUBDATE	MN849541	2020-Oct
+PUBDATE	MN849542	2020-Oct
+PUBDATE	MN849543	2020-Oct
+PUBDATE	MN849544	2020-Oct
+PUBDATE	MN849545	2020-Oct
+PUBDATE	MN849546	2020-Oct
+PUBDATE	MN849547	2020-Oct
+PUBDATE	MN849548	2020-Oct
+PUBDATE	MN849549	2020-Oct
+PUBDATE	MN849550	2020-Oct
+PUBDATE	MN849551	2020-Oct
+PUBDATE	MN849552	2020-Oct
+PUBDATE	MN849553	2020-Oct
+PUBDATE	MN849554	2020-Oct
+PUBDATE	MN849555	2020-Oct
+PUBDATE	MN849556	2020-Oct
+PUBDATE	MN849557	2020-Oct
+PUBDATE	MN849558	2020-Oct
+PUBDATE	MN849559	2020-Oct
+PUBDATE	MN849560	2020-Oct
+PUBDATE	MN849561	2020-Oct
+PUBDATE	MN849562	2020-Oct
+PUBDATE	MN849563	2020-Oct
+PUBDATE	MN849564	2020-Oct
+PUBDATE	MN849565	2020-Oct
+PUBDATE	MN849566	2020-Oct
+PUBDATE	MN849567	2020-Oct
+PUBDATE	MN849568	2020-Oct
+PUBDATE	MN849569	2020-Oct
+PUBDATE	MN849570	2020-Oct
+PUBDATE	MN849571	2020-Oct
+PUBDATE	MN849572	2020-Oct
+PUBDATE	MN849573	2020-Oct
+PUBDATE	MN849574	2020-Oct
+PUBDATE	MN849575	2020-Oct
+PUBDATE	MN849576	2020-Oct
+PUBDATE	MN849577	2020-Oct
+PUBDATE	MN849578	2020-Oct
+PUBDATE	MN849579	2020-Oct
+PUBDATE	MN849580	2020-Oct
+PUBDATE	MN849581	2020-Oct
+PUBDATE	MN849582	2020-Oct
+PUBDATE	MN849583	2020-Oct
+PUBDATE	MN849584	2020-Oct
+PUBDATE	MN849585	2020-Oct
+PUBDATE	MN849586	2020-Oct
+PUBDATE	MN849587	2020-Oct
+PUBDATE	MN849588	2020-Oct
+PUBDATE	MN849589	2020-Oct
+PUBDATE	MN849590	2020-Oct
+PUBDATE	MN849591	2020-Oct
+PUBDATE	MN849592	2020-Oct
+PUBDATE	MN849593	2020-Oct
+PUBDATE	MN849594	2020-Oct
+PUBDATE	MN849595	2020-Oct
+PUBDATE	MN849596	2020-Oct
+PUBDATE	MN849597	2020-Oct
+PUBDATE	MN849598	2020-Oct
+PUBDATE	MN849599	2020-Oct
+PUBDATE	MN849600	2020-Oct
+PUBDATE	MN849601	2020-Oct
+PUBDATE	MN849602	2020-Oct
+PUBDATE	MN849603	2020-Oct
+PUBDATE	MN849604	2020-Oct
+PUBDATE	MN849605	2020-Oct
+PUBDATE	MN849606	2020-Oct
+PUBDATE	MN849607	2020-Oct
+PUBDATE	MN849608	2020-Oct
+PUBDATE	MN849609	2020-Oct
+PUBDATE	MN849610	2020-Oct
+PUBDATE	MN849611	2020-Oct
+PUBDATE	MN849612	2020-Oct
+PUBDATE	MN849613	2020-Oct
+PUBDATE	MN849614	2020-Oct
+PUBDATE	MN849615	2020-Oct
+PUBDATE	MN849616	2020-Oct
+PUBDATE	MN849617	2020-Oct
+PUBDATE	MN849618	2020-Oct
+PUBDATE	MN849619	2020-Oct
+PUBDATE	MN849620	2020-Oct
+PUBDATE	MN849621	2020-Oct
+PUBDATE	MN849622	2020-Oct
+PUBDATE	MN849623	2020-Oct
+PUBDATE	MN849624	2020-Oct
+PUBDATE	MN849625	2020-Oct
+PUBDATE	MN849626	2020-Oct
+PUBDATE	MN849627	2020-Oct
+PUBDATE	MN849628	2020-Oct
+PUBDATE	MN849629	2020-Oct
+PUBDATE	MN849630	2020-Oct
+PUBDATE	MN849631	2020-Oct
+PUBDATE	MN849632	2020-Oct
+PUBDATE	MN849633	2020-Oct
+PUBDATE	MN849634	2020-Oct
+PUBDATE	MN849635	2020-Oct
+PUBDATE	MN849636	2020-Oct
+PUBDATE	MN849637	2020-Oct
+PUBDATE	MN849638	2020-Oct
+PUBDATE	MN849639	2020-Oct
+PUBDATE	MN849640	2020-Oct
+PUBDATE	MN849641	2020-Oct
+PUBDATE	MN849642	2020-Oct
+PUBDATE	MN849643	2020-Oct
+PUBDATE	MN849644	2020-Oct
+PUBDATE	MN849645	2020-Oct
+PUBDATE	MN849646	2020-Oct
+PUBDATE	MN849647	2020-Oct
+PUBDATE	MN849648	2020-Oct
+PUBDATE	MN849649	2020-Oct
+PUBDATE	MN849650	2020-Oct
+PUBDATE	MN849651	2020-Oct
+PUBDATE	MN849652	2020-Oct
+PUBDATE	MN849653	2020-Oct
+PUBDATE	MN849654	2020-Oct
+PUBDATE	MN849655	2020-Oct
+PUBDATE	MN849656	2020-Oct
+PUBDATE	MN849657	2020-Oct
+PUBDATE	MN849658	2020-Oct
+PUBDATE	MN849659	2020-Oct
+PUBDATE	MN849660	2020-Oct
+PUBDATE	MN849661	2020-Oct
+PUBDATE	MN849662	2020-Oct
+PUBDATE	MN849663	2020-Oct
+PUBDATE	MN849664	2020-Oct
+PUBDATE	MN849665	2020-Oct
+PUBDATE	MN849666	2020-Oct
+PUBDATE	MN849667	2020-Oct
+PUBDATE	MN849668	2020-Oct
+PUBDATE	MN849669	2020-Oct
+PUBDATE	MN849670	2020-Oct
+PUBDATE	MN849671	2020-Oct
+PUBDATE	MN849672	2020-Oct
+PUBDATE	MN849673	2020-Oct
+PUBDATE	MN849674	2020-Oct
+PUBDATE	MN849675	2020-Oct
+PUBDATE	MN849676	2020-Oct
+PUBDATE	MN849677	2020-Oct
+PUBDATE	MN849678	2020-Oct
+PUBDATE	MN849679	2020-Oct
+PUBDATE	MN849680	2020-Oct
+PUBDATE	MN849681	2020-Oct
+PUBDATE	MN849682	2020-Oct
+PUBDATE	MN849683	2020-Oct
+PUBDATE	MN849684	2020-Oct
+PUBDATE	KU131318	2016-Mar
+PUBDATE	DQ981467	2006-Dec
+PUBDATE	KY686208	2017-Mar-23
+PUBDATE	MN849685	2020-Oct
+PUBDATE	MN849686	2020-Oct
+PUBDATE	MN849687	2020-Oct
+PUBDATE	MN849688	2020-Oct
+PUBDATE	MN849689	2020-Oct
+PUBDATE	MN849690	2020-Oct
+PUBDATE	MN849691	2020-Oct
+PUBDATE	MN849692	2020-Oct
+PUBDATE	MN849693	2020-Oct
+PUBDATE	MN849694	2020-Oct
+PUBDATE	MN849695	2020-Oct
+PUBDATE	MN849696	2020-Oct
+PUBDATE	MN849697	2020-Oct
+PUBDATE	MN849698	2020-Oct
+PUBDATE	MN849699	2020-Oct
+PUBDATE	MN849700	2020-Oct
+PUBDATE	MN849701	2020-Oct
+PUBDATE	MN849702	2020-Oct
+PUBDATE	MN849703	2020-Oct
+PUBDATE	MN849704	2020-Oct
+PUBDATE	MN849705	2020-Oct
+PUBDATE	MN849706	2020-Oct
+PUBDATE	MN849707	2020-Oct
+PUBDATE	MN849708	2020-Oct
+PUBDATE	MN849709	2020-Oct
+PUBDATE	MN849710	2020-Oct
+PUBDATE	MN849711	2020-Oct
+PUBDATE	MN849712	2020-Oct
+PUBDATE	MN849713	2020-Oct
+PUBDATE	MN849714	2020-Oct
+PUBDATE	MN849715	2020-Oct
+PUBDATE	MN849716	2020-Oct
+PUBDATE	MN849717	2020-Oct
+PUBDATE	MN849718	2020-Oct
+PUBDATE	MN849719	2020-Oct
+PUBDATE	MN849720	2020-Oct
+PUBDATE	MN849721	2020-Oct
+PUBDATE	MN849722	2020-Oct
+PUBDATE	MN849723	2020-Oct
+PUBDATE	MN849724	2020-Oct
+PUBDATE	MN849725	2020-Oct
+PUBDATE	MN849726	2020-Oct
+PUBDATE	MN849727	2020-Oct
+PUBDATE	MN849728	2020-Oct
+PUBDATE	MN849729	2020-Oct
+PUBDATE	MN849730	2020-Oct
+PUBDATE	MN849731	2020-Oct
+PUBDATE	MN849732	2020-Oct
+PUBDATE	MN849733	2020-Oct
+PUBDATE	MN849734	2020-Oct
+PUBDATE	MN849735	2020-Oct
+PUBDATE	MN849736	2020-Oct
+PUBDATE	MN849737	2020-Oct
+PUBDATE	MN849738	2020-Oct
+PUBDATE	MN849739	2020-Oct
+PUBDATE	MN849740	2020-Oct
+PUBDATE	MN849741	2020-Oct
+PUBDATE	MN849742	2020-Oct
+PUBDATE	MN849743	2020-Oct
+PUBDATE	MN849744	2020-Oct
+PUBDATE	MN849745	2020-Oct
+PUBDATE	DQ981466	2006-Dec
+PUBDATE	MN849746	2020-Oct
+PUBDATE	MN849747	2020-Oct
+PUBDATE	MN849748	2020-Oct
+PUBDATE	MN849749	2020-Oct
+PUBDATE	MN849750	2020-Oct
+PUBDATE	MN849751	2020-Oct
+PUBDATE	MN849752	2020-Oct
+PUBDATE	MN849753	2020-Oct
+PUBDATE	MN849754	2020-Oct
+PUBDATE	MN849755	2020-Oct
+PUBDATE	MN849756	2020-Oct
+PUBDATE	MN849757	2020-Oct
+PUBDATE	MN849758	2020-Oct
+PUBDATE	MN849759	2020-Oct
+PUBDATE	MN849760	2020-Oct
+PUBDATE	MN849761	2020-Oct
+PUBDATE	MN849762	2020-Oct
+PUBDATE	MN849763	2020-Oct
+PUBDATE	MN849764	2020-Oct
+PUBDATE	MN849765	2020-Oct
+PUBDATE	MN849766	2020-Oct
+PUBDATE	MN849767	2020-Oct
+PUBDATE	MN849768	2020-Oct
+PUBDATE	MN849769	2020-Oct
+PUBDATE	MN849770	2020-Oct
+PUBDATE	MN849771	2020-Oct
+PUBDATE	MN849772	2020-Oct
+PUBDATE	MN849773	2020-Oct
+PUBDATE	MN849774	2020-Oct
+PUBDATE	MN849775	2020-Oct
+PUBDATE	MN849776	2020-Oct
+PUBDATE	MN849777	2020-Oct
+PUBDATE	MN849778	2020-Oct
+PUBDATE	MN849779	2020-Oct
+PUBDATE	MN849780	2020-Oct
+PUBDATE	MN849781	2020-Oct
+PUBDATE	MN849782	2020-Oct
+PUBDATE	MN849783	2020-Oct
+PUBDATE	MN849784	2020-Oct
+PUBDATE	MN849785	2020-Oct
+PUBDATE	MN849786	2020-Oct
+PUBDATE	MN849787	2020-Oct
+PUBDATE	MN849788	2020-Oct
+PUBDATE	MN849789	2020-Oct
+PUBDATE	MN849790	2020-Oct
+PUBDATE	MN849791	2020-Oct
+PUBDATE	MN849792	2020-Oct
+PUBDATE	MN849793	2020-Oct
+PUBDATE	MN849794	2020-Oct
+PUBDATE	MN849795	2020-Oct
+PUBDATE	MN849796	2020-Oct
+PUBDATE	MN849797	2020-Oct
+PUBDATE	MN849798	2020-Oct
+PUBDATE	MN849799	2020-Oct
+PUBDATE	MN849800	2020-Oct
+PUBDATE	MN849801	2020-Oct
+PUBDATE	MN849802	2020-Oct
+PUBDATE	MN849803	2020-Oct
+PUBDATE	MN849804	2020-Oct
+PUBDATE	MN849805	2020-Oct
+PUBDATE	MN849806	2020-Oct
+PUBDATE	MN849807	2020-Oct
+PUBDATE	MN849808	2020-Oct
+PUBDATE	MN849809	2020-Oct
+PUBDATE	MN849810	2020-Oct
+PUBDATE	MN849811	2020-Oct
+PUBDATE	MN849812	2020-Oct
+PUBDATE	MN849813	2020-Oct
+PUBDATE	MN849814	2020-Oct
+PUBDATE	MN849815	2020-Oct
+PUBDATE	MN849816	2020-Oct
+PUBDATE	MN849817	2020-Oct
+PUBDATE	MN849818	2020-Oct
+PUBDATE	MN849819	2020-Oct
+PUBDATE	MN849820	2020-Oct
+PUBDATE	MN849821	2020-Oct
+PUBDATE	MN849822	2020-Oct
+PUBDATE	MN849823	2020-Oct
+PUBDATE	MN849824	2020-Oct
+PUBDATE	MN849825	2020-Oct
+PUBDATE	MN849826	2020-Oct
+PUBDATE	MN849827	2020-Oct
+PUBDATE	MN849828	2020-Oct
+PUBDATE	MN849829	2020-Oct
+PUBDATE	MN849830	2020-Oct
+PUBDATE	MN849831	2020-Oct
+PUBDATE	MN849832	2020-Oct
+PUBDATE	MN849833	2020-Oct
+PUBDATE	MN849834	2020-Oct
+PUBDATE	MN849835	2020-Oct
+PUBDATE	MN849836	2020-Oct
+PUBDATE	MN849837	2020-Oct
+PUBDATE	MN849838	2020-Oct
+PUBDATE	MN849839	2020-Oct
+PUBDATE	MN849840	2020-Oct
+PUBDATE	MN849841	2020-Oct
+PUBDATE	MN849842	2020-Oct
+PUBDATE	MN849843	2020-Oct
+PUBDATE	MN849844	2020-Oct
+PUBDATE	MN849845	2020-Oct
+PUBDATE	MN849846	2020-Oct
+PUBDATE	MN849847	2020-Oct
+PUBDATE	MN849848	2020-Oct
+PUBDATE	MN849849	2020-Oct
+PUBDATE	MN849850	2020-Oct
+PUBDATE	MN849851	2020-Oct
+PUBDATE	MN849852	2020-Oct
+PUBDATE	MN849853	2020-Oct
+PUBDATE	MN849854	2020-Oct
+PUBDATE	MN849855	2020-Oct
+PUBDATE	MN849856	2020-Oct
+PUBDATE	MN849857	2020-Oct
+PUBDATE	MN849858	2020-Oct
+PUBDATE	MN849859	2020-Oct
+PUBDATE	MN849860	2020-Oct
+PUBDATE	MN849861	2020-Oct
+PUBDATE	MN849862	2020-Oct
+PUBDATE	MN849863	2020-Oct
+PUBDATE	MN849864	2020-Oct
+PUBDATE	MN849865	2020-Oct
+PUBDATE	MN849866	2020-Oct
+PUBDATE	MN849867	2020-Oct
+PUBDATE	MN849868	2020-Oct
+PUBDATE	KU131320	2016-Mar
+PUBDATE	KU521455	2016-Apr
+PUBDATE	HQ873549	2011-Feb-11
+PUBDATE	KY686209	2017-Mar-23
+PUBDATE	KU521474	2016-Apr
+PUBDATE	KU131319	2016-Mar
+PUBDATE	KU521475	2016-Apr
+PUBDATE	EF185816	2008-Jun
+PUBDATE	KU521482	2016-Apr
+PUBDATE	HM596680	2011
+PUBDATE	HM596681	2011
+PUBDATE	HM596682	2011
+PUBDATE	HM596683	2011
+PUBDATE	HM596684	2011
+PUBDATE	HM596685	2011
+PUBDATE	HM596686	2011
+PUBDATE	HM596687	2011
+PUBDATE	HM596688	2011
+PUBDATE	HM596689	2011
+PUBDATE	HM596690	2011
+PUBDATE	HM596691	2011
+PUBDATE	HM596692	2011
+PUBDATE	HM596693	2011
+PUBDATE	HM596694	2011
+PUBDATE	HM596695	2011
+PUBDATE	HM596696	2011
+PUBDATE	HM596697	2011
+PUBDATE	HM596698	2011
+PUBDATE	HM596699	2011
+PUBDATE	HM596700	2011
+PUBDATE	HM596701	2011
+PUBDATE	HM596702	2011
+PUBDATE	HM596703	2011
+PUBDATE	HM596704	2011
+PUBDATE	HM596705	2011
+PUBDATE	HM596706	2011
+PUBDATE	HM596707	2011
+PUBDATE	HM596708	2011
+PUBDATE	HM596709	2011
+PUBDATE	HM596710	2011
+PUBDATE	HM596711	2011
+PUBDATE	HM596712	2011
+PUBDATE	HM596713	2011
+PUBDATE	HM596714	2011
+PUBDATE	HM596715	2011
+PUBDATE	DQ981465	2006-Dec
+PUBDATE	HQ873551	2011-Feb-11
+PUBDATE	HQ873494	2011-Feb-11
+PUBDATE	EF185814	2008-Jun
+PUBDATE	EF185804	2008-Jun
+PUBDATE	HQ873499	2011-Feb-11
+PUBDATE	EF185805	2008-Jun
+PUBDATE	HQ873547	2011-Feb-11
+PUBDATE	EF185806	2008-Jun
+PUBDATE	EF185807	2008-Jun
+PUBDATE	KU131321	2016-Mar
+PUBDATE	KU131322	2016-Mar
+PUBDATE	EF185815	2008-Jun
+PUBDATE	HQ873539	2011-Feb-11
+PUBDATE	KU521459	2016-Apr
+PUBDATE	KU131323	2016-Mar
+PUBDATE	KU131324	2016-Mar
+PUBDATE	KU131325	2016-Mar
+PUBDATE	KU131326	2016-Mar
+PUBDATE	KU131327	2016-Mar
+PUBDATE	KU131328	2016-Mar
+PUBDATE	KU521440	2016-Apr
+PUBDATE	KU521441	2016-Apr
+PUBDATE	KU521442	2016-Apr
+PUBDATE	KX456972	2017-Jan
+PUBDATE	KX456973	2017-Jan
+PUBDATE	KX456974	2017-Jan
+PUBDATE	KX456975	2017-Jan
+PUBDATE	KX456976	2017-Jan
+PUBDATE	KX456977	2017-Jan
+PUBDATE	KX456978	2017-Jan
+PUBDATE	KX456979	2017-Jan
+PUBDATE	KX456980	2017-Jan
+PUBDATE	KX456981	2017-Jan
+PUBDATE	KX456982	2017-Jan
+PUBDATE	KX456983	2017-Jan
+PUBDATE	KX456984	2017-Jan
+PUBDATE	KX456985	2017-Jan
+PUBDATE	KX456986	2017-Jan
+PUBDATE	KX456987	2017-Jan
+PUBDATE	KX456988	2017-Jan
+PUBDATE	KX456989	2017-Jan
+PUBDATE	KX456990	2017-Jan
+PUBDATE	KX456991	2017-Jan
+PUBDATE	KX456992	2017-Jan
+PUBDATE	KX456993	2017-Jan
+PUBDATE	KX456994	2017-Jan
+PUBDATE	KX456995	2017-Jan
+PUBDATE	KX456996	2017-Jan
+PUBDATE	KX457595	2017-Jan
+PUBDATE	KX457596	2017-Jan
+PUBDATE	KX457597	2017-Jan
+PUBDATE	KX457598	2017-Jan
+PUBDATE	KX457599	2017-Jan
+PUBDATE	KX457600	2017-Jan
+PUBDATE	KX457601	2017-Jan
+PUBDATE	KX457602	2017-Jan
+PUBDATE	KX457603	2017-Jan
+PUBDATE	KX457604	2017-Jan
+PUBDATE	KX457605	2017-Jan
+PUBDATE	KX457606	2017-Jan
+PUBDATE	KX457607	2017-Jan
+PUBDATE	KX457608	2017-Jan
+PUBDATE	KX457609	2017-Jan
+PUBDATE	KX457610	2017-Jan
+PUBDATE	KX457611	2017-Jan
+PUBDATE	KX457612	2017-Jan
+PUBDATE	KX457613	2017-Jan
+PUBDATE	KX457614	2017-Jan
+PUBDATE	KX457615	2017-Jan
+PUBDATE	KX457616	2017-Jan
+PUBDATE	KX457617	2017-Jan
+PUBDATE	KX457618	2017-Jan
+PUBDATE	KU521499	2016-Apr
+PUBDATE	KU131347	2016-Mar
+PUBDATE	KU521500	2016-Apr
+PUBDATE	KU521501	2016-Apr
+PUBDATE	AY963581	2005-May-13
+PUBDATE	AY963583	2005-May-13
+PUBDATE	KU521471	2016-Apr
+PUBDATE	KU521472	2016-Apr
+PUBDATE	AY963578	2005-May-13
+PUBDATE	KU521497	2016-Apr
+PUBDATE	AY963579	2005-May-13
+PUBDATE	AY963580	2005-May-13
+PUBDATE	KU521486	2016-Apr
+PUBDATE	KU131329	2016-Mar
+PUBDATE	AP012346	2012-Nov
+PUBDATE	AP012347	2012-Nov
+PUBDATE	AP012348	2012-Nov
+PUBDATE	AP012349	2012-Nov
+PUBDATE	AP012350	2012-Nov
+PUBDATE	AP012351	2012-Nov
+PUBDATE	AP012352	2012-Nov
+PUBDATE	AP012353	2012-Nov
+PUBDATE	AP012354	2012-Nov
+PUBDATE	AP012355	2012-Nov
+PUBDATE	AP012356	2012-Nov
+PUBDATE	AP012357	2012-Nov
+PUBDATE	AP012358	2012-Nov
+PUBDATE	AP012359	2012-Nov
+PUBDATE	AP012360	2012-Nov
+PUBDATE	AP012361	2012-Nov
+PUBDATE	AP012362	2012-Nov
+PUBDATE	AP012363	2012-Nov
+PUBDATE	AP012364	2012-Nov
+PUBDATE	AP012365	2012-Nov
+PUBDATE	AP012366	2012-Nov
+PUBDATE	AP012367	2012-Nov
+PUBDATE	AP012368	2012-Nov
+PUBDATE	KU521407	2016-Apr
+PUBDATE	KU131332	2016-Mar
+PUBDATE	KU131330	2016-Mar
+PUBDATE	KU521408	2016-Apr
+PUBDATE	KU521395	2016-Apr
+PUBDATE	KU131331	2016-Mar
+PUBDATE	KU521488	2016-Apr
+PUBDATE	KU521410	2016-Apr
+PUBDATE	AP012369	2012-Nov
+PUBDATE	AP012370	2012-Nov
+PUBDATE	AP012371	2012-Nov
+PUBDATE	AP012372	2012-Nov
+PUBDATE	AP012373	2012-Nov
+PUBDATE	AP012374	2012-Nov
+PUBDATE	AP012375	2012-Nov
+PUBDATE	AP012376	2012-Nov
+PUBDATE	AP012377	2012-Nov
+PUBDATE	AP012378	2012-Nov
+PUBDATE	AP012379	2012-Nov
+PUBDATE	AP012380	2012-Nov
+PUBDATE	AP012381	2012-Nov
+PUBDATE	AP012382	2012-Nov
+PUBDATE	AP012383	2012-Nov
+PUBDATE	AP012384	2012-Nov
+PUBDATE	AP012385	2012-Nov
+PUBDATE	AP012386	2012-Nov
+PUBDATE	AP012387	2012-Nov
+PUBDATE	AP012388	2012-Nov
+PUBDATE	AP012389	2012-Nov
+PUBDATE	AP012390	2012-Nov
+PUBDATE	AP012391	2012-Nov
+PUBDATE	AP012392	2012-Nov
+PUBDATE	KU131333	2016-Mar
+PUBDATE	KU131334	2016-Mar
+PUBDATE	KU521495	2016-Apr
+PUBDATE	KU521491	2016-Apr
+PUBDATE	KU131343	2016-Mar
+PUBDATE	HQ873542	2011-Feb-11
+PUBDATE	HQ873543	2011-Feb-11
+PUBDATE	KU131344	2016-Mar
+PUBDATE	KY686206	2017-Mar-23
+PUBDATE	KU131338	2016-Mar
+PUBDATE	KU131339	2016-Mar
+PUBDATE	KY686205	2017-Mar-23
+PUBDATE	KU521447	2016-Apr
+PUBDATE	KU131340	2016-Mar
+PUBDATE	KU131341	2016-Mar
+PUBDATE	KU521411	2016-Apr
+PUBDATE	KU131342	2016-Mar
+PUBDATE	KU521473	2016-Apr
+PUBDATE	KU521503	2016-Apr
+PUBDATE	KU521504	2016-Apr
+PUBDATE	KU521505	2016-Apr
+PUBDATE	KU131335	2016-Mar
+PUBDATE	KU521435	2016-Apr
+PUBDATE	KU521413	2016-Apr
+PUBDATE	KU521498	2016-Apr
+PUBDATE	KU521452	2016-Apr
+PUBDATE	KU521414	2016-Apr
+PUBDATE	KU521415	2016-Apr
+PUBDATE	KU521469	2016-Apr
+PUBDATE	KU521416	2016-Apr
+PUBDATE	KU131345	2016-Mar
+PUBDATE	KU131346	2016-Mar
+PUBDATE	KU521417	2016-Apr
+PUBDATE	DQ981472	2006-Dec
+PUBDATE	KU521418	2016-Apr
+PUBDATE	KU131337	2016-Mar
+PUBDATE	KU521502	2016-Apr
+PUBDATE	KU131336	2016-Mar
+PUBDATE	KU521470	2016-Apr
+PUBDATE	KU521496	2016-Apr
+PUBDATE	KU521419	2016-Apr
+PUBDATE	AP012393	2012-Nov
+PUBDATE	AP012394	2012-Nov
+PUBDATE	AP012395	2012-Nov
+PUBDATE	AP012396	2012-Nov
+PUBDATE	AP012397	2012-Nov
+PUBDATE	AP012398	2012-Nov
+PUBDATE	AP012399	2012-Nov
+PUBDATE	AP012400	2012-Nov
+PUBDATE	AP012401	2012-Nov
+PUBDATE	AP012402	2012-Nov
+PUBDATE	AP012403	2012-Nov
+PUBDATE	AP012404	2012-Nov
+PUBDATE	AP012405	2012-Nov
+PUBDATE	AP012406	2012-Nov
+PUBDATE	AP012407	2012-Nov
+PUBDATE	AP012408	2012-Nov
+PUBDATE	AP012409	2012-Nov
+PUBDATE	AP012410	2012-Nov
+PUBDATE	AP012411	2012-Nov
+PUBDATE	AP012412	2012-Nov
+PUBDATE	AP012413	2012-Nov
+PUBDATE	AP012414	2012-Nov
+PUBDATE	AP012415	2012-Nov
+PUBDATE	AP012416	2012-Nov
+PUBDATE	AP012417	2012-Nov
+PUBDATE	AP012418	2012-Nov
+PUBDATE	AP012419	2012-Nov
+PUBDATE	AP012420	2012-Nov
+PUBDATE	AP012421	2012-Nov
+PUBDATE	AP012422	2012-Nov
+PUBDATE	AP012423	2012-Nov
+PUBDATE	AP012424	2012-Nov
+PUBDATE	AP012425	2012-Nov
+PUBDATE	AP012426	2012-Nov
+PUBDATE	AP012427	2012-Nov
+PUBDATE	AP012428	2012-Nov
+PUBDATE	AP012429	2012-Nov
+PUBDATE	AP012430	2012-Nov
+PUBDATE	AP012431	2012-Nov
+PUBDATE	KP345975	2015-Mar-26
+PUBDATE	KU131311	2016-Mar
+PUBDATE	KP345976	2015-Mar-26
+PUBDATE	KP345977	2015-Mar-26
+PUBDATE	KP345978	2015-Mar-26
+PUBDATE	KP345979	2015-Mar-26
+PUBDATE	KP345980	2015-Mar-26
+PUBDATE	KP345981	2015-Mar-26
+PUBDATE	KP345982	2015-Mar-26
+PUBDATE	KP345983	2015-Mar-26
+PUBDATE	KP345984	2015-Mar-26
+PUBDATE	KP345985	2015-Mar-26
+PUBDATE	KP345986	2015-Mar-26
+PUBDATE	KP345987	2015-Mar-26
+PUBDATE	KP345988	2015-Mar-26
+PUBDATE	KP345989	2015-Mar-26
+PUBDATE	KP345990	2015-Mar-26
+PUBDATE	KP345991	2015-Mar-26
+PUBDATE	KP345992	2015-Mar-26
+PUBDATE	KP345993	2015-Mar-26
+PUBDATE	KP345994	2015-Mar-26
+PUBDATE	KP345995	2015-Mar-26
+PUBDATE	KP345996	2015-Mar-26
+PUBDATE	KP345997	2015-Mar-26
+PUBDATE	KP345998	2015-Mar-26
+PUBDATE	KP345999	2015-Mar-26
+PUBDATE	KP346000	2015-Mar-26
+PUBDATE	KP346001	2015-Mar-26
+PUBDATE	KP346002	2015-Mar-26
+PUBDATE	KP346003	2015-Mar-26
+PUBDATE	KP346004	2015-Mar-26
+PUBDATE	KP346005	2015-Mar-26
+PUBDATE	KP346006	2015-Mar-26
+PUBDATE	KP346007	2015-Mar-26
+PUBDATE	KP346008	2015-Mar-26
+PUBDATE	KP346009	2015-Mar-26
+PUBDATE	KP346010	2015-Mar-26
+PUBDATE	KP346011	2015-Mar-26
+PUBDATE	KP346012	2015-Mar-26
+PUBDATE	KP346013	2015-Mar-26
+PUBDATE	KP346014	2015-Mar-26
+PUBDATE	KP346015	2015-Mar-26
+PUBDATE	KP346016	2015-Mar-26
+PUBDATE	KP346017	2015-Mar-26
+PUBDATE	KP346018	2015-Mar-26
+PUBDATE	KP346019	2015-Mar-26
+PUBDATE	KP346020	2015-Mar-26
+PUBDATE	KP346021	2015-Mar-26
+PUBDATE	KP346022	2015-Mar-26
+PUBDATE	KP346023	2015-Mar-26
+PUBDATE	KP346024	2015-Mar-26
+PUBDATE	KP346025	2015-Mar-26
+PUBDATE	KP346026	2015-Mar-26
+PUBDATE	KP346027	2015-Mar-26
+PUBDATE	KP346028	2015-Mar-26
+PUBDATE	KP346029	2015-Mar-26
+PUBDATE	KP346030	2015-Mar-26
+PUBDATE	KP346031	2015-Mar-26
+PUBDATE	KP346032	2015-Mar-26
+PUBDATE	KP346033	2015-Mar-26
+PUBDATE	KP346034	2015-Mar-26
+PUBDATE	KP346035	2015-Mar-26
+PUBDATE	KP346036	2015-Mar-26
+PUBDATE	KP346037	2015-Mar-26
+PUBDATE	KP346038	2015-Mar-26
+PUBDATE	KP346039	2015-Mar-26
+PUBDATE	KP346040	2015-Mar-26
+PUBDATE	KP346041	2015-Mar-26
+PUBDATE	KP346042	2015-Mar-26
+PUBDATE	KP346043	2015-Mar-26
+PUBDATE	KP346044	2015-Mar-26
+PUBDATE	KP346045	2015-Mar-26
+PUBDATE	KP346046	2015-Mar-26
+PUBDATE	KP346047	2015-Mar-26
+PUBDATE	KP346048	2015-Mar-26
+PUBDATE	KP346049	2015-Mar-26
+PUBDATE	KP346050	2015-Mar-26
+PUBDATE	KY686204	2017-Mar-23
+PUBDATE	KP346051	2015-Mar-26
+PUBDATE	KP346052	2015-Mar-26
+PUBDATE	KP346053	2015-Mar-26
+PUBDATE	KP346054	2015-Mar-26
+PUBDATE	KP346055	2015-Mar-26
+PUBDATE	KP346060	2015-Mar-26
+PUBDATE	KP346061	2015-Mar-26
+PUBDATE	KP346062	2015-Mar-26
+PUBDATE	KP346063	2015-Mar-26
+PUBDATE	KP346056	2015-Mar-26
+PUBDATE	KP346057	2015-Mar-26
+PUBDATE	KP346058	2015-Mar-26
+PUBDATE	KP346059	2015-Mar-26
+PUBDATE	KY686207	2017-Mar-23
+PUBDATE	JX289092	2014-Jan-28
+PUBDATE	JX289093	2014-Jan-28
+PUBDATE	JX289094	2014-Jan-28
+PUBDATE	JX289095	2014-Jan-28
+PUBDATE	JX289096	2014-Jan-28
+PUBDATE	JX289097	2014-Jan-28
+PUBDATE	JX289098	2014-Jan-28
+PUBDATE	JX289099	2014-Jan-28
+PUBDATE	JX289100	2014-Jan-28
+PUBDATE	JX289101	2014-Jan-28
+PUBDATE	JX289102	2014-Jan-28
+PUBDATE	JX289103	2014-Jan-28
+PUBDATE	JX289104	2014-Jan-28
+PUBDATE	JX289105	2014-Jan-28
+PUBDATE	JX289106	2014-Jan-28
+PUBDATE	JX289107	2014-Jan-28
+PUBDATE	JX289108	2014-Jan-28
+PUBDATE	JX289109	2014-Jan-28
+PUBDATE	JX289110	2014-Jan-28
+PUBDATE	JX289111	2014-Jan-28
+PUBDATE	JX289112	2014-Jan-28
+PUBDATE	JX289113	2014-Jan-28
+PUBDATE	JX289114	2014-Jan-28
+PUBDATE	JX289115	2014-Jan-28
+PUBDATE	JX289116	2014-Jan-28
+PUBDATE	JX289117	2014-Jan-28
+PUBDATE	JX289118	2014-Jan-28
+PUBDATE	JX289119	2014-Jan-28
+PUBDATE	JX289120	2014-Jan-28
+PUBDATE	JX289121	2014-Jan-28
+PUBDATE	JX289122	2014-Jan-28
+PUBDATE	JX289123	2014-Jan-28
+PUBDATE	JX289124	2014-Jan-28
+PUBDATE	JX289125	2014-Jan-28
+PUBDATE	JX289126	2014-Jan-28
+PUBDATE	JX289127	2014-Jan-28
+PUBDATE	JX289128	2014-Jan-28
+PUBDATE	JX289129	2014-Jan-28
+PUBDATE	JX289130	2014-Jan-28
+PUBDATE	JX289131	2014-Jan-28
+PUBDATE	JX289132	2014-Jan-28
+PUBDATE	JX289133	2014-Jan-28
+PUBDATE	JX289134	2014-Jan-28
+PUBDATE	JX289135	2014-Jan-28
+PUBDATE	HM346896	2011-Jan-10
+PUBDATE	HM346895	2011-Jan-10
+PUBDATE	KY824960	2017-Apr-7
+PUBDATE	KU521506	2016-Apr
+PUBDATE	KY686213	2017-Mar-23
+PUBDATE	KU521422	2016-Apr
+PUBDATE	KY686212	2017-Mar-23
+PUBDATE	KY686214	2017-Mar-23
+PUBDATE	KY686215	2017-Mar-23
+PUBDATE	KY686216	2017-Mar-23
+PUBDATE	KU521507	2016-Apr
+PUBDATE	KP346064	2015-Mar-26
+PUBDATE	KP346065	2015-Mar-26
+PUBDATE	KP346066	2015-Mar-26
+PUBDATE	AF382012	2001
+PUBDATE	KC993902	2014-Feb
+PUBDATE	KC993903	2014-Feb
+PUBDATE	KC993904	2014-Feb
+PUBDATE	KC993905	2014-Feb
+PUBDATE	KC993906	2014-Feb
+PUBDATE	KC993907	2014-Feb
+PUBDATE	KC993908	2014-Feb
+PUBDATE	KC993909	2014-Feb
+PUBDATE	KC993910	2014-Feb
+PUBDATE	KC993911	2014-Feb
+PUBDATE	KC993912	2014-Feb
+PUBDATE	KC993913	2014-Feb
+PUBDATE	KC993914	2014-Feb
+PUBDATE	KC993915	2014-Feb
+PUBDATE	KC993916	2014-Feb
+PUBDATE	KC993917	2014-Feb
+PUBDATE	KC993918	2014-Feb
+PUBDATE	KC993919	2014-Feb
+PUBDATE	KC993920	2014-Feb
+PUBDATE	KC993921	2014-Feb
+PUBDATE	KC993922	2014-Feb
+PUBDATE	KC993923	2014-Feb
+PUBDATE	KC993924	2014-Feb
+PUBDATE	KC993925	2014-Feb
+PUBDATE	KC993926	2014-Feb
+PUBDATE	KC993927	2014-Feb
+PUBDATE	KC993928	2014-Feb
+PUBDATE	KC993929	2014-Feb
+PUBDATE	KC993930	2014-Feb
+PUBDATE	KC993931	2014-Feb
+PUBDATE	KC993932	2014-Feb
+PUBDATE	KC993933	2014-Feb
+PUBDATE	KC993934	2014-Feb
+PUBDATE	KC993935	2014-Feb
+PUBDATE	KC993936	2014-Feb
+PUBDATE	KC993937	2014-Feb
+PUBDATE	KC993938	2014-Feb
+PUBDATE	KC993939	2014-Feb
+PUBDATE	KC993940	2014-Feb
+PUBDATE	KC993941	2014-Feb
+PUBDATE	KC993942	2014-Feb
+PUBDATE	KC993943	2014-Feb
+PUBDATE	KC993944	2014-Feb
+PUBDATE	KC993945	2014-Feb
+PUBDATE	KC993946	2014-Feb
+PUBDATE	KC993947	2014-Feb
+PUBDATE	KC993948	2014-Feb
+PUBDATE	KC993949	2014-Feb
+PUBDATE	KC993950	2014-Feb
+PUBDATE	KC993951	2014-Feb
+PUBDATE	KC993952	2014-Feb
+PUBDATE	KC993953	2014-Feb
+PUBDATE	KC993954	2014-Feb
+PUBDATE	KC993955	2014-Feb
+PUBDATE	KC993956	2014-Feb
+PUBDATE	KC993957	2014-Feb
+PUBDATE	KC993958	2014-Feb
+PUBDATE	KC993959	2014-Feb
+PUBDATE	KC993960	2014-Feb
+PUBDATE	KC993961	2014-Feb
+PUBDATE	KC993962	2014-Feb
+PUBDATE	KC993963	2014-Feb
+PUBDATE	KC993964	2014-Feb
+PUBDATE	KC993965	2014-Feb
+PUBDATE	KC993966	2014-Feb
+PUBDATE	KC993967	2014-Feb
+PUBDATE	KC993968	2014-Feb
+PUBDATE	KC993969	2014-Feb
+PUBDATE	KC993970	2014-Feb
+PUBDATE	KC993971	2014-Feb
+PUBDATE	KC993972	2014-Feb
+PUBDATE	KC993973	2014-Feb
+PUBDATE	HM238197	2011-Jan-31
+PUBDATE	HM238198	2011-Jan-31
+PUBDATE	HM238199	2011-Jan-31
+PUBDATE	HM238200	2011-Jan-31
+PUBDATE	HM238201	2011-Jan-31
+PUBDATE	HM238202	2011-Jan-31
+PUBDATE	HM238203	2011-Jan-31
+PUBDATE	HM238204	2011-Jan-31
+PUBDATE	HM238205	2011-Jan-31
+PUBDATE	HM238206	2011-Jan-31
+PUBDATE	HM238207	2011-Jan-31
+PUBDATE	HM238208	2011-Jan-31
+PUBDATE	JF739535	2011-Sep
+PUBDATE	JF739536	2011-Sep
+PUBDATE	JF739537	2011-Sep
+PUBDATE	JF739538	2011-Sep
+PUBDATE	JF739539	2011-Sep
+PUBDATE	JF739540	2011-Sep
+PUBDATE	KC993974	2014-Feb
+PUBDATE	KC993975	2014-Feb
+PUBDATE	KC993976	2014-Feb
+PUBDATE	KC993977	2014-Feb
+PUBDATE	KC993978	2014-Feb
+PUBDATE	KC993979	2014-Feb
+PUBDATE	KC993980	2014-Feb
+PUBDATE	KC993981	2014-Feb
+PUBDATE	KC993982	2014-Feb
+PUBDATE	KC993983	2014-Feb
+PUBDATE	KC993984	2014-Feb
+PUBDATE	KC993985	2014-Feb
+PUBDATE	KC993986	2014-Feb
+PUBDATE	KC993987	2014-Feb
+PUBDATE	KC993988	2014-Feb
+PUBDATE	KC993989	2014-Feb
+PUBDATE	KC993990	2014-Feb
+PUBDATE	KC993991	2014-Feb
+PUBDATE	KC993992	2014-Feb
+PUBDATE	KC993993	2014-Feb
+PUBDATE	KC993994	2014-Feb
+PUBDATE	KC993995	2014-Feb
+PUBDATE	KC993996	2014-Feb
+PUBDATE	KC993997	2014-Feb
+PUBDATE	KC993998	2014-Feb
+PUBDATE	KC993999	2014-Feb
+PUBDATE	KC994000	2014-Feb
+PUBDATE	KC994001	2014-Feb
+PUBDATE	KC994002	2014-Feb
+PUBDATE	KC994003	2014-Feb
+PUBDATE	JF739541	2011-Sep
+PUBDATE	JF739542	2011-Sep
+PUBDATE	KU521489	2016-Apr
+PUBDATE	KU521490	2016-Apr
+PUBDATE	HQ873536	2011-Feb-11
+PUBDATE	KU131353	2016-Mar
+PUBDATE	KU521446	2016-Apr
+PUBDATE	HQ873537	2011-Feb-11
+PUBDATE	KY411495	2017-May-23
+PUBDATE	KC994004	2014-Feb
+PUBDATE	KC994005	2014-Feb
+PUBDATE	KC994006	2014-Feb
+PUBDATE	KC994007	2014-Feb
+PUBDATE	KC994008	2014-Feb
+PUBDATE	KC994009	2014-Feb
+PUBDATE	KC994010	2014-Feb
+PUBDATE	KC994011	2014-Feb
+PUBDATE	KC994012	2014-Feb
+PUBDATE	KC994013	2014-Feb
+PUBDATE	KC994014	2014-Feb
+PUBDATE	KC994015	2014-Feb
+PUBDATE	KC994016	2014-Feb
+PUBDATE	KC994017	2014-Feb
+PUBDATE	KC994018	2014-Feb
+PUBDATE	KC994019	2014-Feb
+PUBDATE	KC994020	2014-Feb
+PUBDATE	KC994021	2014-Feb
+PUBDATE	KC994022	2014-Feb
+PUBDATE	KC994023	2014-Feb
+PUBDATE	KC994024	2014-Feb
+PUBDATE	KC994025	2014-Feb
+PUBDATE	KC994026	2014-Feb
+PUBDATE	KC994027	2014-Feb
+PUBDATE	KC994028	2014-Feb
+PUBDATE	KC994029	2014-Feb
+PUBDATE	KC994030	2014-Feb
+PUBDATE	KC994031	2014-Feb
+PUBDATE	KC994032	2014-Feb
+PUBDATE	KC994033	2014-Feb
+PUBDATE	KC994034	2014-Feb
+PUBDATE	KC994035	2014-Feb
+PUBDATE	KC994036	2014-Feb
+PUBDATE	KC994037	2014-Feb
+PUBDATE	KC994038	2014-Feb
+PUBDATE	KC994039	2014-Feb
+PUBDATE	KC994040	2014-Feb
+PUBDATE	KC994041	2014-Feb
+PUBDATE	KC994042	2014-Feb
+PUBDATE	KC994043	2014-Feb
+PUBDATE	KC994044	2014-Feb
+PUBDATE	KC994045	2014-Feb
+PUBDATE	KC994046	2014-Feb
+PUBDATE	KC994047	2014-Feb
+PUBDATE	KC994048	2014-Feb
+PUBDATE	KC994049	2014-Feb
+PUBDATE	KC994050	2014-Feb
+PUBDATE	KC994051	2014-Feb
+PUBDATE	KC994052	2014-Feb
+PUBDATE	KC994053	2014-Feb
+PUBDATE	KC994054	2014-Feb
+PUBDATE	KC994055	2014-Feb
+PUBDATE	KC994056	2014-Feb
+PUBDATE	KC994057	2014-Feb
+PUBDATE	KC994058	2014-Feb
+PUBDATE	KC994059	2014-Feb
+PUBDATE	KC994060	2014-Feb
+PUBDATE	KC994061	2014-Feb
+PUBDATE	KC994062	2014-Feb
+PUBDATE	KC994063	2014-Feb
+PUBDATE	KC994064	2014-Feb
+PUBDATE	KC994065	2014-Feb
+PUBDATE	KC994066	2014-Feb
+PUBDATE	KC994067	2014-Feb
+PUBDATE	KC994068	2014-Feb
+PUBDATE	KC994069	2014-Feb
+PUBDATE	KC994070	2014-Feb
+PUBDATE	KC994071	2014-Feb
+PUBDATE	KC994072	2014-Feb
+PUBDATE	KC994073	2014-Feb
+PUBDATE	KC994074	2014-Feb
+PUBDATE	KC994075	2014-Feb
+PUBDATE	KC994076	2014-Feb
+PUBDATE	KC994077	2014-Feb
+PUBDATE	KC994078	2014-Feb
+PUBDATE	KC994079	2014-Feb
+PUBDATE	KC994080	2014-Feb
+PUBDATE	KC994081	2014-Feb
+PUBDATE	KC994082	2014-Feb
+PUBDATE	KC994083	2014-Feb
+PUBDATE	KC994084	2014-Feb
+PUBDATE	KC994085	2014-Feb
+PUBDATE	KC994086	2014-Feb
+PUBDATE	KC994087	2014-Feb
+PUBDATE	KC994088	2014-Feb
+PUBDATE	KC994089	2014-Feb
+PUBDATE	KC994090	2014-Feb
+PUBDATE	KC994091	2014-Feb
+PUBDATE	KC994092	2014-Feb
+PUBDATE	KC994093	2014-Feb
+PUBDATE	KC994094	2014-Feb
+PUBDATE	KC994095	2014-Feb
+PUBDATE	KC994096	2014-Feb
+PUBDATE	KC994097	2014-Feb
+PUBDATE	KC994098	2014-Feb
+PUBDATE	KC994099	2014-Feb
+PUBDATE	KC994100	2014-Feb
+PUBDATE	KC994101	2014-Feb
+PUBDATE	KC994102	2014-Feb
+PUBDATE	KC994103	2014-Feb
+PUBDATE	KC994104	2014-Feb
+PUBDATE	KC994105	2014-Feb
+PUBDATE	KC994106	2014-Feb
+PUBDATE	KC994107	2014-Feb
+PUBDATE	KC994108	2014-Feb
+PUBDATE	KC994109	2014-Feb
+PUBDATE	KC994110	2014-Feb
+PUBDATE	KC994111	2014-Feb
+PUBDATE	KC994112	2014-Feb
+PUBDATE	KC994113	2014-Feb
+PUBDATE	KC994114	2014-Feb
+PUBDATE	KC994115	2014-Feb
+PUBDATE	KC994116	2014-Feb
+PUBDATE	KC994117	2014-Feb
+PUBDATE	KC994118	2014-Feb
+PUBDATE	KC994119	2014-Feb
+PUBDATE	KC994120	2014-Feb
+PUBDATE	KC994121	2014-Feb
+PUBDATE	KC994122	2014-Feb
+PUBDATE	KC994123	2014-Feb
+PUBDATE	KC994124	2014-Feb
+PUBDATE	KC994125	2014-Feb
+PUBDATE	KC994126	2014-Feb
+PUBDATE	KC994127	2014-Feb
+PUBDATE	KC994128	2014-Feb
+PUBDATE	KC994129	2014-Feb
+PUBDATE	KC994130	2014-Feb
+PUBDATE	KC994131	2014-Feb
+PUBDATE	KC994132	2014-Feb
+PUBDATE	KC994133	2014-Feb
+PUBDATE	KC994134	2014-Feb
+PUBDATE	KC994135	2014-Feb
+PUBDATE	KC994136	2014-Feb
+PUBDATE	KC994137	2014-Feb
+PUBDATE	KC994138	2014-Feb
+PUBDATE	KC994139	2014-Feb
+PUBDATE	KC994140	2014-Feb
+PUBDATE	KC994141	2014-Feb
+PUBDATE	KC994142	2014-Feb
+PUBDATE	KC994143	2014-Feb
+PUBDATE	GU733718	2011-Jan
+PUBDATE	GU733719	2011-Jan
+PUBDATE	GU733720	2011-Jan
+PUBDATE	GU733721	2011-Jan
+PUBDATE	GU733722	2011-Jan
+PUBDATE	GU733723	2011-Jan
+PUBDATE	GU733724	2011-Jan
+PUBDATE	GU733725	2011-Jan
+PUBDATE	GU733726	2011-Jan
+PUBDATE	GU733727	2011-Jan
+PUBDATE	GU733728	2011-Jan
+PUBDATE	GU733729	2011-Jan
+PUBDATE	GU733730	2011-Jan
+PUBDATE	GU733731	2011-Jan
+PUBDATE	GU733732	2011-Jan
+PUBDATE	GU733733	2011-Jan
+PUBDATE	GU733734	2011-Jan
+PUBDATE	GU733735	2011-Jan
+PUBDATE	GU733736	2011-Jan
+PUBDATE	GU733737	2011-Jan
+PUBDATE	GU733738	2011-Jan
+PUBDATE	GU733739	2011-Jan
+PUBDATE	GU733740	2011-Jan
+PUBDATE	GU733741	2011-Jan
+PUBDATE	GU733742	2011-Jan
+PUBDATE	GU733743	2011-Jan
+PUBDATE	GU733744	2011-Jan
+PUBDATE	GU733745	2011-Jan
+PUBDATE	GU733746	2011-Jan
+PUBDATE	GU733747	2011-Jan
+PUBDATE	GU733748	2011-Jan
+PUBDATE	GU733749	2011-Jan
+PUBDATE	GU733750	2011-Jan
+PUBDATE	GU733751	2011-Jan
+PUBDATE	GU733752	2011-Jan
+PUBDATE	GU733753	2011-Jan
+PUBDATE	GU733754	2011-Jan
+PUBDATE	GU733755	2011-Jan
+PUBDATE	GU733756	2011-Jan
+PUBDATE	GU733757	2011-Jan
+PUBDATE	GU733758	2011-Jan
+PUBDATE	GU733759	2011-Jan
+PUBDATE	GU733760	2011-Jan
+PUBDATE	GU733761	2011-Jan
+PUBDATE	GU733762	2011-Jan
+PUBDATE	GU733763	2011-Jan
+PUBDATE	GU733764	2011-Jan
+PUBDATE	GU733765	2011-Jan
+PUBDATE	GU733797	2011-Jan
+PUBDATE	GU733766	2011-Jan
+PUBDATE	GU733767	2011-Jan
+PUBDATE	GU733768	2011-Jan
+PUBDATE	GU733769	2011-Jan
+PUBDATE	GU733770	2011-Jan
+PUBDATE	GU733771	2011-Jan
+PUBDATE	GU733772	2011-Jan
+PUBDATE	GU733773	2011-Jan
+PUBDATE	GU733774	2011-Jan
+PUBDATE	GU733775	2011-Jan
+PUBDATE	GU733796	2011-Jan
+PUBDATE	GU733776	2011-Jan
+PUBDATE	GU733777	2011-Jan
+PUBDATE	GU733778	2011-Jan
+PUBDATE	GU733779	2011-Jan
+PUBDATE	GU733780	2011-Jan
+PUBDATE	GU733781	2011-Jan
+PUBDATE	GU733782	2011-Jan
+PUBDATE	GU733783	2011-Jan
+PUBDATE	GU733784	2011-Jan
+PUBDATE	GU733785	2011-Jan
+PUBDATE	GU733786	2011-Jan
+PUBDATE	GU733787	2011-Jan
+PUBDATE	GU733788	2011-Jan
+PUBDATE	GU733789	2011-Jan
+PUBDATE	GU733790	2011-Jan
+PUBDATE	GU733791	2011-Jan
+PUBDATE	GU733792	2011-Jan
+PUBDATE	GU733793	2011-Jan
+PUBDATE	GU733794	2011-Jan
+PUBDATE	GU733795	2011-Jan
+PUBDATE	GU733798	2011-Jan
+PUBDATE	GU733799	2011-Jan
+PUBDATE	KC994144	2014-Feb
+PUBDATE	KC994145	2014-Feb
+PUBDATE	KC994146	2014-Feb
+PUBDATE	KC994147	2014-Feb
+PUBDATE	KC994148	2014-Feb
+PUBDATE	KC994149	2014-Feb
+PUBDATE	KC994150	2014-Feb
+PUBDATE	KC994151	2014-Feb
+PUBDATE	KC994152	2014-Feb
+PUBDATE	KC994153	2014-Feb
+PUBDATE	KC994154	2014-Feb
+PUBDATE	KC994155	2014-Feb
+PUBDATE	KC994156	2014-Feb
+PUBDATE	KC994157	2014-Feb
+PUBDATE	KC994158	2014-Feb
+PUBDATE	KC994159	2014-Feb
+PUBDATE	KC994160	2014-Feb
+PUBDATE	KC994161	2014-Feb
+PUBDATE	GQ119018	2010-Jan
+PUBDATE	GQ119019	2010-Jan
+PUBDATE	GQ119020	2010-Jan
+PUBDATE	GQ119021	2010-Jan
+PUBDATE	GQ119022	2010-Jan
+PUBDATE	GQ119023	2010-Jan
+PUBDATE	GQ119024	2010-Jan
+PUBDATE	GQ119025	2010-Jan
+PUBDATE	GQ119026	2010-Jan
+PUBDATE	GQ119027	2010-Jan
+PUBDATE	GQ119029	2010-Jan
+PUBDATE	GQ119030	2010-Jan
+PUBDATE	GQ119031	2010-Jan
+PUBDATE	GQ119033	2010-Jan
+PUBDATE	GQ119034	2010-Jan
+PUBDATE	GQ119035	2010-Jan
+PUBDATE	KU131352	2016-Mar
+PUBDATE	GQ119036	2010-Jan
+PUBDATE	GQ119037	2010-Jan
+PUBDATE	GQ119038	2010-Jan
+PUBDATE	GQ119039	2010-Jan
+PUBDATE	GQ119040	2010-Jan
+PUBDATE	GQ119041	2010-Jan
+PUBDATE	GQ119042	2010-Jan
+PUBDATE	GQ119043	2010-Jan
+PUBDATE	GQ119044	2010-Jan
+PUBDATE	GQ119045	2010-Jan
+PUBDATE	GQ119046	2010-Jan
+PUBDATE	GQ119047	2010-Jan
+PUBDATE	GQ119028	2010-Jan
+PUBDATE	GQ119032	2010-Jan
+PUBDATE	GU733800	2011-Jan
+PUBDATE	GU733801	2011-Jan
+PUBDATE	GU733802	2011-Jan
+PUBDATE	GU733803	2011-Jan
+PUBDATE	GU733804	2011-Jan
+PUBDATE	GU733805	2011-Jan
+PUBDATE	GU733806	2011-Jan
+PUBDATE	GU733807	2011-Jan
+PUBDATE	GU733808	2011-Jan
+PUBDATE	GU733809	2011-Jan
+PUBDATE	GU733810	2011-Jan
+PUBDATE	GU733811	2011-Jan
+PUBDATE	GU733812	2011-Jan
+PUBDATE	GU733813	2011-Jan
+PUBDATE	GU733814	2011-Jan
+PUBDATE	GU733815	2011-Jan
+PUBDATE	GU733816	2011-Jan
+PUBDATE	GU733817	2011-Jan
+PUBDATE	GU733818	2011-Jan
+PUBDATE	GU733819	2011-Jan
+PUBDATE	GU733820	2011-Jan
+PUBDATE	GU733821	2011-Jan
+PUBDATE	GU733822	2011-Jan
+PUBDATE	GU733823	2011-Jan
+PUBDATE	GU733824	2011-Jan
+PUBDATE	GU733825	2011-Jan
+PUBDATE	GU733826	2011-Jan
+PUBDATE	JF739543	2011-Sep
+PUBDATE	MT418943	2020-Nov
+PUBDATE	MT418944	2020-Nov
+PUBDATE	MT418945	2020-Nov
+PUBDATE	MT418946	2020-Nov
+PUBDATE	MT418947	2020-Nov
+PUBDATE	MT418948	2020-Nov
+PUBDATE	MT418949	2020-Nov
+PUBDATE	MT418950	2020-Nov
+PUBDATE	MT418951	2020-Nov
+PUBDATE	MT418952	2020-Nov
+PUBDATE	MT418953	2020-Nov
+PUBDATE	MT418954	2020-Nov
+PUBDATE	MT418955	2020-Nov
+PUBDATE	MT418956	2020-Nov
+PUBDATE	MT418957	2020-Nov
+PUBDATE	MT418958	2020-Nov
+PUBDATE	MT418959	2020-Nov
+PUBDATE	MT418960	2020-Nov
+PUBDATE	MT418961	2020-Nov
+PUBDATE	MT418962	2020-Nov
+PUBDATE	MT418963	2020-Nov
+PUBDATE	MT418964	2020-Nov
+PUBDATE	MT418965	2020-Nov
+PUBDATE	MT418966	2020-Nov
+PUBDATE	MT418967	2020-Nov
+PUBDATE	MT418968	2020-Nov
+PUBDATE	MT418969	2020-Nov
+PUBDATE	MT418970	2020-Nov
+PUBDATE	MT418971	2020-Nov
+PUBDATE	MT418972	2020-Nov
+PUBDATE	MT418973	2020-Nov
+PUBDATE	MT418974	2020-Nov
+PUBDATE	MT418975	2020-Nov
+PUBDATE	MT418976	2020-Nov
+PUBDATE	MT418977	2020-Nov
+PUBDATE	KX456435	2017-Jan
+PUBDATE	KX456436	2017-Jan
+PUBDATE	KX456437	2017-Jan
+PUBDATE	KX456438	2017-Jan
+PUBDATE	KX456439	2017-Jan
+PUBDATE	KX456440	2017-Jan
+PUBDATE	KX456441	2017-Jan
+PUBDATE	KX456442	2017-Jan
+PUBDATE	KX456443	2017-Jan
+PUBDATE	KX456444	2017-Jan
+PUBDATE	KX456445	2017-Jan
+PUBDATE	KX456446	2017-Jan
+PUBDATE	KX456447	2017-Jan
+PUBDATE	KX456448	2017-Jan
+PUBDATE	KX456449	2017-Jan
+PUBDATE	KX456450	2017-Jan
+PUBDATE	KX456451	2017-Jan
+PUBDATE	KX456452	2017-Jan
+PUBDATE	KX456453	2017-Jan
+PUBDATE	KX456454	2017-Jan
+PUBDATE	KX456455	2017-Jan
+PUBDATE	KX456456	2017-Jan
+PUBDATE	KX456457	2017-Jan
+PUBDATE	KX456458	2017-Jan
+PUBDATE	KX456459	2017-Jan
+PUBDATE	KX456460	2017-Jan
+PUBDATE	KX456461	2017-Jan
+PUBDATE	KX456462	2017-Jan
+PUBDATE	KX456463	2017-Jan
+PUBDATE	KX456464	2017-Jan
+PUBDATE	KX456465	2017-Jan
+PUBDATE	KX456466	2017-Jan
+PUBDATE	KX456467	2017-Jan
+PUBDATE	KX456468	2017-Jan
+PUBDATE	KX456469	2017-Jan
+PUBDATE	KX456470	2017-Jan
+PUBDATE	KX456471	2017-Jan
+PUBDATE	KX456472	2017-Jan
+PUBDATE	KX456473	2017-Jan
+PUBDATE	KX456474	2017-Jan
+PUBDATE	KX456475	2017-Jan
+PUBDATE	KX456476	2017-Jan
+PUBDATE	KX456477	2017-Jan
+PUBDATE	KX456478	2017-Jan
+PUBDATE	KX456479	2017-Jan
+PUBDATE	KX456480	2017-Jan
+PUBDATE	KX456481	2017-Jan
+PUBDATE	KX456482	2017-Jan
+PUBDATE	KX456483	2017-Jan
+PUBDATE	KX456484	2017-Jan
+PUBDATE	KX456485	2017-Jan
+PUBDATE	KX456486	2017-Jan
+PUBDATE	KX456487	2017-Jan
+PUBDATE	KX456488	2017-Jan
+PUBDATE	KX456489	2017-Jan
+PUBDATE	KX456490	2017-Jan
+PUBDATE	KX456491	2017-Jan
+PUBDATE	KX456492	2017-Jan
+PUBDATE	KX456493	2017-Jan
+PUBDATE	KX456494	2017-Jan
+PUBDATE	KX456495	2017-Jan
+PUBDATE	KX456496	2017-Jan
+PUBDATE	KX456497	2017-Jan
+PUBDATE	KX456498	2017-Jan
+PUBDATE	KX456499	2017-Jan
+PUBDATE	KX456500	2017-Jan
+PUBDATE	KX456501	2017-Jan
+PUBDATE	KX456502	2017-Jan
+PUBDATE	KX456503	2017-Jan
+PUBDATE	KX456504	2017-Jan
+PUBDATE	KX456505	2017-Jan
+PUBDATE	KX456506	2017-Jan
+PUBDATE	KX456507	2017-Jan
+PUBDATE	KX456508	2017-Jan
+PUBDATE	KX456509	2017-Jan
+PUBDATE	KX456510	2017-Jan
+PUBDATE	KX456511	2017-Jan
+PUBDATE	KX456512	2017-Jan
+PUBDATE	KX456513	2017-Jan
+PUBDATE	KX456514	2017-Jan
+PUBDATE	KX456515	2017-Jan
+PUBDATE	KX456516	2017-Jan
+PUBDATE	KX456517	2017-Jan
+PUBDATE	KX456518	2017-Jan
+PUBDATE	KX456519	2017-Jan
+PUBDATE	KX456520	2017-Jan
+PUBDATE	KX456521	2017-Jan
+PUBDATE	KX456522	2017-Jan
+PUBDATE	KX456523	2017-Jan
+PUBDATE	KX456524	2017-Jan
+PUBDATE	KX456525	2017-Jan
+PUBDATE	KX456526	2017-Jan
+PUBDATE	KX456527	2017-Jan
+PUBDATE	KX456528	2017-Jan
+PUBDATE	KX456529	2017-Jan
+PUBDATE	KX456530	2017-Jan
+PUBDATE	KX456531	2017-Jan
+PUBDATE	KX456532	2017-Jan
+PUBDATE	KX456533	2017-Jan
+PUBDATE	KX456534	2017-Jan
+PUBDATE	KX456535	2017-Jan
+PUBDATE	KX456536	2017-Jan
+PUBDATE	KX456537	2017-Jan
+PUBDATE	KX456538	2017-Jan
+PUBDATE	KX456539	2017-Jan
+PUBDATE	KX456540	2017-Jan
+PUBDATE	KX456541	2017-Jan
+PUBDATE	KX456542	2017-Jan
+PUBDATE	KX456543	2017-Jan
+PUBDATE	KX456544	2017-Jan
+PUBDATE	KX456545	2017-Jan
+PUBDATE	KX456546	2017-Jan
+PUBDATE	KX456547	2017-Jan
+PUBDATE	KX456548	2017-Jan
+PUBDATE	KX456549	2017-Jan
+PUBDATE	KX456550	2017-Jan
+PUBDATE	KX456551	2017-Jan
+PUBDATE	KX456552	2017-Jan
+PUBDATE	KX456553	2017-Jan
+PUBDATE	KX456554	2017-Jan
+PUBDATE	KX456555	2017-Jan
+PUBDATE	KX456556	2017-Jan
+PUBDATE	KX456557	2017-Jan
+PUBDATE	KX456558	2017-Jan
+PUBDATE	KX456559	2017-Jan
+PUBDATE	KX456560	2017-Jan
+PUBDATE	KX456561	2017-Jan
+PUBDATE	KX456562	2017-Jan
+PUBDATE	KX456563	2017-Jan
+PUBDATE	KX456564	2017-Jan
+PUBDATE	KX456565	2017-Jan
+PUBDATE	KX456566	2017-Jan
+PUBDATE	KX456567	2017-Jan
+PUBDATE	KX456568	2017-Jan
+PUBDATE	KX456569	2017-Jan
+PUBDATE	KX456570	2017-Jan
+PUBDATE	KX456571	2017-Jan
+PUBDATE	KX456572	2017-Jan
+PUBDATE	KX456573	2017-Jan
+PUBDATE	KX456574	2017-Jan
+PUBDATE	KX456575	2017-Jan
+PUBDATE	KX456576	2017-Jan
+PUBDATE	KX456577	2017-Jan
+PUBDATE	KX456578	2017-Jan
+PUBDATE	KX456579	2017-Jan
+PUBDATE	KX456580	2017-Jan
+PUBDATE	KX456581	2017-Jan
+PUBDATE	KX456582	2017-Jan
+PUBDATE	KX456583	2017-Jan
+PUBDATE	KX456584	2017-Jan
+PUBDATE	KX456585	2017-Jan
+PUBDATE	KX456586	2017-Jan
+PUBDATE	KX456587	2017-Jan
+PUBDATE	KX456588	2017-Jan
+PUBDATE	KX456589	2017-Jan
+PUBDATE	KX456590	2017-Jan
+PUBDATE	KX456591	2017-Jan
+PUBDATE	KX456592	2017-Jan
+PUBDATE	KX456593	2017-Jan
+PUBDATE	KX456594	2017-Jan
+PUBDATE	KX456595	2017-Jan
+PUBDATE	KX456596	2017-Jan
+PUBDATE	KX456597	2017-Jan
+PUBDATE	KX456598	2017-Jan
+PUBDATE	KX456599	2017-Jan
+PUBDATE	KX456600	2017-Jan
+PUBDATE	KX456601	2017-Jan
+PUBDATE	KX456602	2017-Jan
+PUBDATE	KX456603	2017-Jan
+PUBDATE	KX456604	2017-Jan
+PUBDATE	KX456605	2017-Jan
+PUBDATE	KX456606	2017-Jan
+PUBDATE	KX456607	2017-Jan
+PUBDATE	KX456608	2017-Jan
+PUBDATE	KX456609	2017-Jan
+PUBDATE	KX456610	2017-Jan
+PUBDATE	KX456611	2017-Jan
+PUBDATE	KX456612	2017-Jan
+PUBDATE	KX456613	2017-Jan
+PUBDATE	KX456614	2017-Jan
+PUBDATE	KX456615	2017-Jan
+PUBDATE	KX456616	2017-Jan
+PUBDATE	KX456617	2017-Jan
+PUBDATE	KX456618	2017-Jan
+PUBDATE	KX456619	2017-Jan
+PUBDATE	KX456620	2017-Jan
+PUBDATE	KX456621	2017-Jan
+PUBDATE	KX456622	2017-Jan
+PUBDATE	KX456623	2017-Jan
+PUBDATE	KX456624	2017-Jan
+PUBDATE	KX456625	2017-Jan
+PUBDATE	KX456626	2017-Jan
+PUBDATE	KX456627	2017-Jan
+PUBDATE	KX456628	2017-Jan
+PUBDATE	KX456629	2017-Jan
+PUBDATE	KX456630	2017-Jan
+PUBDATE	KX456631	2017-Jan
+PUBDATE	KX456632	2017-Jan
+PUBDATE	KX456633	2017-Jan
+PUBDATE	KX456634	2017-Jan
+PUBDATE	KX456635	2017-Jan
+PUBDATE	KX456636	2017-Jan
+PUBDATE	KX456637	2017-Jan
+PUBDATE	KX456638	2017-Jan
+PUBDATE	KX456639	2017-Jan
+PUBDATE	KX456640	2017-Jan
+PUBDATE	KX456641	2017-Jan
+PUBDATE	KX456642	2017-Jan
+PUBDATE	KX456643	2017-Jan
+PUBDATE	KX456644	2017-Jan
+PUBDATE	KX456645	2017-Jan
+PUBDATE	KX456646	2017-Jan
+PUBDATE	KX456647	2017-Jan
+PUBDATE	KX456648	2017-Jan
+PUBDATE	KX456649	2017-Jan
+PUBDATE	KX456650	2017-Jan
+PUBDATE	KX456651	2017-Jan
+PUBDATE	KX456652	2017-Jan
+PUBDATE	KX456653	2017-Jan
+PUBDATE	KX456654	2017-Jan
+PUBDATE	KX456655	2017-Jan
+PUBDATE	KX456656	2017-Jan
+PUBDATE	KX456657	2017-Jan
+PUBDATE	KX456658	2017-Jan
+PUBDATE	KX456659	2017-Jan
+PUBDATE	KX456660	2017-Jan
+PUBDATE	KX456661	2017-Jan
+PUBDATE	KX456662	2017-Jan
+PUBDATE	KX456663	2017-Jan
+PUBDATE	KX456664	2017-Jan
+PUBDATE	KX456665	2017-Jan
+PUBDATE	KX456666	2017-Jan
+PUBDATE	KX456667	2017-Jan
+PUBDATE	KX456668	2017-Jan
+PUBDATE	KX456669	2017-Jan
+PUBDATE	KX456670	2017-Jan
+PUBDATE	KX456671	2017-Jan
+PUBDATE	KX456672	2017-Jan
+PUBDATE	KX456673	2017-Jan
+PUBDATE	KX456674	2017-Jan
+PUBDATE	KX456675	2017-Jan
+PUBDATE	KX456676	2017-Jan
+PUBDATE	KX456677	2017-Jan
+PUBDATE	KX456678	2017-Jan
+PUBDATE	KX456679	2017-Jan
+PUBDATE	KX456680	2017-Jan
+PUBDATE	KX456681	2017-Jan
+PUBDATE	KX456682	2017-Jan
+PUBDATE	KX456683	2017-Jan
+PUBDATE	KX456684	2017-Jan
+PUBDATE	KX456685	2017-Jan
+PUBDATE	KX456686	2017-Jan
+PUBDATE	KX456687	2017-Jan
+PUBDATE	KX456688	2017-Jan
+PUBDATE	KX456689	2017-Jan
+PUBDATE	KX456690	2017-Jan
+PUBDATE	KX456691	2017-Jan
+PUBDATE	KX456692	2017-Jan
+PUBDATE	KX456693	2017-Jan
+PUBDATE	KX456694	2017-Jan
+PUBDATE	KX456695	2017-Jan
+PUBDATE	KX456696	2017-Jan
+PUBDATE	KX456697	2017-Jan
+PUBDATE	KX456698	2017-Jan
+PUBDATE	KX456699	2017-Jan
+PUBDATE	KX456700	2017-Jan
+PUBDATE	KX456701	2017-Jan
+PUBDATE	KX456702	2017-Jan
+PUBDATE	KX456703	2017-Jan
+PUBDATE	KX456704	2017-Jan
+PUBDATE	KX456705	2017-Jan
+PUBDATE	KX456706	2017-Jan
+PUBDATE	KX456707	2017-Jan
+PUBDATE	KX456708	2017-Jan
+PUBDATE	KX456709	2017-Jan
+PUBDATE	KX456710	2017-Jan
+PUBDATE	KX456711	2017-Jan
+PUBDATE	KX456712	2017-Jan
+PUBDATE	KX456713	2017-Jan
+PUBDATE	KX456714	2017-Jan
+PUBDATE	KX456715	2017-Jan
+PUBDATE	KX456716	2017-Jan
+PUBDATE	KX456717	2017-Jan
+PUBDATE	KX456718	2017-Jan
+PUBDATE	KX456719	2017-Jan
+PUBDATE	KX456720	2017-Jan
+PUBDATE	KX456721	2017-Jan
+PUBDATE	KX456722	2017-Jan
+PUBDATE	KX456723	2017-Jan
+PUBDATE	KX456724	2017-Jan
+PUBDATE	KX456725	2017-Jan
+PUBDATE	KX456726	2017-Jan
+PUBDATE	KX456727	2017-Jan
+PUBDATE	KX456728	2017-Jan
+PUBDATE	KX456729	2017-Jan
+PUBDATE	KX456730	2017-Jan
+PUBDATE	KX456731	2017-Jan
+PUBDATE	KX456732	2017-Jan
+PUBDATE	KX456733	2017-Jan
+PUBDATE	KX456734	2017-Jan
+PUBDATE	KX456735	2017-Jan
+PUBDATE	KX456736	2017-Jan
+PUBDATE	KX456737	2017-Jan
+PUBDATE	KX456738	2017-Jan
+PUBDATE	KX456739	2017-Jan
+PUBDATE	KX456740	2017-Jan
+PUBDATE	KX456741	2017-Jan
+PUBDATE	KX456742	2017-Jan
+PUBDATE	KX456743	2017-Jan
+PUBDATE	KX456744	2017-Jan
+PUBDATE	KX456745	2017-Jan
+PUBDATE	KX456746	2017-Jan
+PUBDATE	KX456747	2017-Jan
+PUBDATE	KX456748	2017-Jan
+PUBDATE	KX456749	2017-Jan
+PUBDATE	KX456750	2017-Jan
+PUBDATE	KX456751	2017-Jan
+PUBDATE	KX456752	2017-Jan
+PUBDATE	MG272576	2018-Jun
+PUBDATE	MG272577	2018-Jun
+PUBDATE	MG272578	2018-Jun
+PUBDATE	MG272579	2018-Jun
+PUBDATE	MG272580	2018-Jun
+PUBDATE	MG272581	2018-Jun
+PUBDATE	MG272582	2018-Jun
+PUBDATE	MG272583	2018-Jun
+PUBDATE	MG272584	2018-Jun
+PUBDATE	MG272585	2018-Jun
+PUBDATE	MG272586	2018-Jun
+PUBDATE	MG272587	2018-Jun
+PUBDATE	MG272588	2018-Jun
+PUBDATE	MG272589	2018-Jun
+PUBDATE	MG272590	2018-Jun
+PUBDATE	MG272591	2018-Jun
+PUBDATE	MG272592	2018-Jun
+PUBDATE	MG272593	2018-Jun
+PUBDATE	MG272594	2018-Jun
+PUBDATE	MG272595	2018-Jun
+PUBDATE	MG272596	2018-Jun
+PUBDATE	MG272597	2018-Jun
+PUBDATE	MG272598	2018-Jun
+PUBDATE	MG272599	2018-Jun
+PUBDATE	MG272600	2018-Jun
+PUBDATE	MG272601	2018-Jun
+PUBDATE	MG272602	2018-Jun
+PUBDATE	MG272603	2018-Jun
+PUBDATE	MG272604	2018-Jun
+PUBDATE	MG272605	2018-Jun
+PUBDATE	MG272606	2018-Jun
+PUBDATE	MG272607	2018-Jun
+PUBDATE	MG272608	2018-Jun
+PUBDATE	MG272609	2018-Jun
+PUBDATE	MG272610	2018-Jun
+PUBDATE	MG272611	2018-Jun
+PUBDATE	MG272612	2018-Jun
+PUBDATE	MG272613	2018-Jun
+PUBDATE	MG272614	2018-Jun
+PUBDATE	MG272615	2018-Jun
+PUBDATE	MG272616	2018-Jun
+PUBDATE	MG272617	2018-Jun
+PUBDATE	MG272618	2018-Jun
+PUBDATE	MG272619	2018-Jun
+PUBDATE	MG272620	2018-Jun
+PUBDATE	MG272621	2018-Jun
+PUBDATE	MG272622	2018-Jun
+PUBDATE	MG272623	2018-Jun
+PUBDATE	MG272624	2018-Jun
+PUBDATE	MG272625	2018-Jun
+PUBDATE	MG272626	2018-Jun
+PUBDATE	MG272627	2018-Jun
+PUBDATE	MG272628	2018-Jun
+PUBDATE	MG272629	2018-Jun
+PUBDATE	MG272630	2018-Jun
+PUBDATE	MG272631	2018-Jun
+PUBDATE	MG272632	2018-Jun
+PUBDATE	MG272633	2018-Jun
+PUBDATE	MG272634	2018-Jun
+PUBDATE	MG272635	2018-Jun
+PUBDATE	MG272636	2018-Jun
+PUBDATE	MG272637	2018-Jun
+PUBDATE	MG272638	2018-Jun
+PUBDATE	MG272639	2018-Jun
+PUBDATE	MG272640	2018-Jun
+PUBDATE	MG272641	2018-Jun
+PUBDATE	MG272642	2018-Jun
+PUBDATE	MG272643	2018-Jun
+PUBDATE	MG272644	2018-Jun
+PUBDATE	MG272645	2018-Jun
+PUBDATE	MG272646	2018-Jun
+PUBDATE	MG272647	2018-Jun
+PUBDATE	MG272648	2018-Jun
+PUBDATE	MG272649	2018-Jun
+PUBDATE	MG272650	2018-Jun
+PUBDATE	MG272651	2018-Jun
+PUBDATE	MG272652	2018-Jun
+PUBDATE	MG272653	2018-Jun
+PUBDATE	MG272654	2018-Jun
+PUBDATE	MG272655	2018-Jun
+PUBDATE	MG272656	2018-Jun
+PUBDATE	MG272657	2018-Jun
+PUBDATE	MG272658	2018-Jun
+PUBDATE	MG272659	2018-Jun
+PUBDATE	MG272660	2018-Jun
+PUBDATE	MG272661	2018-Jun
+PUBDATE	MG272662	2018-Jun
+PUBDATE	MG272663	2018-Jun
+PUBDATE	MG272664	2018-Jun
+PUBDATE	MG272665	2018-Jun
+PUBDATE	MG272666	2018-Jun
+PUBDATE	MG272667	2018-Jun
+PUBDATE	MG272668	2018-Jun
+PUBDATE	MG272669	2018-Jun
+PUBDATE	MG272670	2018-Jun
+PUBDATE	MG272671	2018-Jun
+PUBDATE	MG272672	2018-Jun
+PUBDATE	MG272673	2018-Jun
+PUBDATE	MG272674	2018-Jun
+PUBDATE	MG272675	2018-Jun
+PUBDATE	MG272676	2018-Jun
+PUBDATE	MG272677	2018-Jun
+PUBDATE	MG272678	2018-Jun
+PUBDATE	MG272679	2018-Jun
+PUBDATE	MG272680	2018-Jun
+PUBDATE	MG272681	2018-Jun
+PUBDATE	MG272682	2018-Jun
+PUBDATE	MG272683	2018-Jun
+PUBDATE	MG272684	2018-Jun
+PUBDATE	MG272685	2018-Jun
+PUBDATE	MG272686	2018-Jun
+PUBDATE	MG272687	2018-Jun
+PUBDATE	MG272688	2018-Jun
+PUBDATE	MG272689	2018-Jun
+PUBDATE	MG272690	2018-Jun
+PUBDATE	MG272691	2018-Jun
+PUBDATE	MG272692	2018-Jun
+PUBDATE	MG272693	2018-Jun
+PUBDATE	MG272694	2018-Jun
+PUBDATE	MG272695	2018-Jun
+PUBDATE	MG272696	2018-Jun
+PUBDATE	MG272697	2018-Jun
+PUBDATE	MG272698	2018-Jun
+PUBDATE	MG272699	2018-Jun
+PUBDATE	MG272700	2018-Jun
+PUBDATE	MG272701	2018-Jun
+PUBDATE	MG272702	2018-Jun
+PUBDATE	MG272703	2018-Jun
+PUBDATE	MG272704	2018-Jun
+PUBDATE	MG272705	2018-Jun
+PUBDATE	MG272706	2018-Jun
+PUBDATE	MG272707	2018-Jun
+PUBDATE	MG272708	2018-Jun
+PUBDATE	MG272709	2018-Jun
+PUBDATE	MG272710	2018-Jun
+PUBDATE	MG272711	2018-Jun
+PUBDATE	MG272712	2018-Jun
+PUBDATE	MG272713	2018-Jun
+PUBDATE	MG272714	2018-Jun
+PUBDATE	MG272715	2018-Jun
+PUBDATE	MG272716	2018-Jun
+PUBDATE	MG272717	2018-Jun
+PUBDATE	MG272718	2018-Jun
+PUBDATE	MG272719	2018-Jun
+PUBDATE	MG272720	2018-Jun
+PUBDATE	MG272721	2018-Jun
+PUBDATE	MG272722	2018-Jun
+PUBDATE	MG272723	2018-Jun
+PUBDATE	MG272724	2018-Jun
+PUBDATE	MG272725	2018-Jun
+PUBDATE	MG272726	2018-Jun
+PUBDATE	MG272727	2018-Jun
+PUBDATE	MG272728	2018-Jun
+PUBDATE	MG272729	2018-Jun
+PUBDATE	MG272730	2018-Jun
+PUBDATE	MG272731	2018-Jun
+PUBDATE	MG272732	2018-Jun
+PUBDATE	MG272733	2018-Jun
+PUBDATE	MG272734	2018-Jun
+PUBDATE	MG272735	2018-Jun
+PUBDATE	MG272736	2018-Jun
+PUBDATE	MG272737	2018-Jun
+PUBDATE	MG272738	2018-Jun
+PUBDATE	MG272739	2018-Jun
+PUBDATE	MG272740	2018-Jun
+PUBDATE	MG272741	2018-Jun
+PUBDATE	MG272742	2018-Jun
+PUBDATE	MG272743	2018-Jun
+PUBDATE	MG272744	2018-Jun
+PUBDATE	MG272745	2018-Jun
+PUBDATE	MG272746	2018-Jun
+PUBDATE	MG272747	2018-Jun
+PUBDATE	MG272748	2018-Jun
+PUBDATE	MG272749	2018-Jun
+PUBDATE	MG272750	2018-Jun
+PUBDATE	MG272751	2018-Jun
+PUBDATE	MG272752	2018-Jun
+PUBDATE	MG272753	2018-Jun
+PUBDATE	MG272754	2018-Jun
+PUBDATE	MG272755	2018-Jun
+PUBDATE	MG272756	2018-Jun
+PUBDATE	MG272757	2018-Jun
+PUBDATE	MG272758	2018-Jun
+PUBDATE	MG272759	2018-Jun
+PUBDATE	MG272760	2018-Jun
+PUBDATE	MG272761	2018-Jun
+PUBDATE	MG272762	2018-Jun
+PUBDATE	MG272763	2018-Jun
+PUBDATE	MG272764	2018-Jun
+PUBDATE	MG272765	2018-Jun
+PUBDATE	MG272766	2018-Jun
+PUBDATE	MG272767	2018-Jun
+PUBDATE	MG272768	2018-Jun
+PUBDATE	MG272769	2018-Jun
+PUBDATE	MG272770	2018-Jun
+PUBDATE	MG272771	2018-Jun
+PUBDATE	MG272772	2018-Jun
+PUBDATE	MG272773	2018-Jun
+PUBDATE	MG272774	2018-Jun
+PUBDATE	MG272775	2018-Jun
+PUBDATE	MG272776	2018-Jun
+PUBDATE	MG272777	2018-Jun
+PUBDATE	MG272778	2018-Jun
+PUBDATE	MG272779	2018-Jun
+PUBDATE	MG272780	2018-Jun
+PUBDATE	MG272781	2018-Jun
+PUBDATE	MG272782	2018-Jun
+PUBDATE	MG272783	2018-Jun
+PUBDATE	MG272784	2018-Jun
+PUBDATE	MG272785	2018-Jun
+PUBDATE	MG272786	2018-Jun
+PUBDATE	MG272787	2018-Jun
+PUBDATE	MG272788	2018-Jun
+PUBDATE	MG272789	2018-Jun
+PUBDATE	MG272790	2018-Jun
+PUBDATE	MG272791	2018-Jun
+PUBDATE	MG272792	2018-Jun
+PUBDATE	MG272793	2018-Jun
+PUBDATE	MG272794	2018-Jun
+PUBDATE	MG272795	2018-Jun
+PUBDATE	MG272796	2018-Jun
+PUBDATE	MG272797	2018-Jun
+PUBDATE	MG272798	2018-Jun
+PUBDATE	MG272799	2018-Jun
+PUBDATE	MG272800	2018-Jun
+PUBDATE	MG272801	2018-Jun
+PUBDATE	MG272802	2018-Jun
+PUBDATE	MG272803	2018-Jun
+PUBDATE	MG272804	2018-Jun
+PUBDATE	MG272805	2018-Jun
+PUBDATE	MG272806	2018-Jun
+PUBDATE	MG272807	2018-Jun
+PUBDATE	MG272808	2018-Jun
+PUBDATE	MG272809	2018-Jun
+PUBDATE	MG272810	2018-Jun
+PUBDATE	MG272811	2018-Jun
+PUBDATE	MG272812	2018-Jun
+PUBDATE	MG272813	2018-Jun
+PUBDATE	MG272814	2018-Jun
+PUBDATE	MG272815	2018-Jun
+PUBDATE	MG272816	2018-Jun
+PUBDATE	MG272817	2018-Jun
+PUBDATE	MG272818	2018-Jun
+PUBDATE	MG272819	2018-Jun
+PUBDATE	MG272820	2018-Jun
+PUBDATE	MG272821	2018-Jun
+PUBDATE	MG272822	2018-Jun
+PUBDATE	MG272823	2018-Jun
+PUBDATE	MG272824	2018-Jun
+PUBDATE	MG272825	2018-Jun
+PUBDATE	MG272826	2018-Jun
+PUBDATE	MG272827	2018-Jun
+PUBDATE	MG272828	2018-Jun
+PUBDATE	MG272829	2018-Jun
+PUBDATE	MG272830	2018-Jun
+PUBDATE	MG272831	2018-Jun
+PUBDATE	MG272832	2018-Jun
+PUBDATE	MG272833	2018-Jun
+PUBDATE	MG272834	2018-Jun
+PUBDATE	MG272835	2018-Jun
+PUBDATE	MG272836	2018-Jun
+PUBDATE	MG272837	2018-Jun
+PUBDATE	MG272838	2018-Jun
+PUBDATE	MG272839	2018-Jun
+PUBDATE	MG272840	2018-Jun
+PUBDATE	MG272841	2018-Jun
+PUBDATE	MG272842	2018-Jun
+PUBDATE	MG272843	2018-Jun
+PUBDATE	MG272844	2018-Jun
+PUBDATE	MG272845	2018-Jun
+PUBDATE	MG272846	2018-Jun
+PUBDATE	MG272847	2018-Jun
+PUBDATE	MG272848	2018-Jun
+PUBDATE	MG272849	2018-Jun
+PUBDATE	MG272850	2018-Jun
+PUBDATE	MG272851	2018-Jun
+PUBDATE	MG272852	2018-Jun
+PUBDATE	MG272853	2018-Jun
+PUBDATE	MG272854	2018-Jun
+PUBDATE	MG272855	2018-Jun
+PUBDATE	MG272856	2018-Jun
+PUBDATE	MG272857	2018-Jun
+PUBDATE	MG272858	2018-Jun
+PUBDATE	MG272859	2018-Jun
+PUBDATE	MG272860	2018-Jun
+PUBDATE	MG272861	2018-Jun
+PUBDATE	MG272862	2018-Jun
+PUBDATE	MG272863	2018-Jun
+PUBDATE	MG272864	2018-Jun
+PUBDATE	MG272865	2018-Jun
+PUBDATE	MG272866	2018-Jun
+PUBDATE	MG272867	2018-Jun
+PUBDATE	MG272868	2018-Jun
+PUBDATE	MG272869	2018-Jun
+PUBDATE	MG272870	2018-Jun
+PUBDATE	MG272871	2018-Jun
+PUBDATE	MG272872	2018-Jun
+PUBDATE	MG272873	2018-Jun
+PUBDATE	MG272874	2018-Jun
+PUBDATE	MG272875	2018-Jun
+PUBDATE	MG272876	2018-Jun
+PUBDATE	MG272877	2018-Jun
+PUBDATE	MG272878	2018-Jun
+PUBDATE	MG272879	2018-Jun
+PUBDATE	MG272880	2018-Jun
+PUBDATE	MG272881	2018-Jun
+PUBDATE	MG272882	2018-Jun
+PUBDATE	MG272883	2018-Jun
+PUBDATE	MG272884	2018-Jun
+PUBDATE	MG272885	2018-Jun
+PUBDATE	MG272886	2018-Jun
+PUBDATE	MG272887	2018-Jun
+PUBDATE	MG272888	2018-Jun
+PUBDATE	MG272889	2018-Jun
+PUBDATE	MG272890	2018-Jun
+PUBDATE	MG272891	2018-Jun
+PUBDATE	MG272892	2018-Jun
+PUBDATE	MG272893	2018-Jun
+PUBDATE	MG272894	2018-Jun
+PUBDATE	MG272895	2018-Jun
+PUBDATE	MG272896	2018-Jun
+PUBDATE	MT418978	2020-Nov
+PUBDATE	MT418979	2020-Nov
+PUBDATE	MT418980	2020-Nov
+PUBDATE	MT418981	2020-Nov
+PUBDATE	MT418982	2020-Nov
+PUBDATE	MT418983	2020-Nov
+PUBDATE	MT418984	2020-Nov
+PUBDATE	MT418985	2020-Nov
+PUBDATE	MT418986	2020-Nov
+PUBDATE	MT418987	2020-Nov
+PUBDATE	MT418988	2020-Nov
+PUBDATE	MT418989	2020-Nov
+PUBDATE	MT418990	2020-Nov
+PUBDATE	MT418991	2020-Nov
+PUBDATE	MT418992	2020-Nov
+PUBDATE	MT418993	2020-Nov
+PUBDATE	MT418994	2020-Nov
+PUBDATE	MT418995	2020-Nov
+PUBDATE	MT418996	2020-Nov
+PUBDATE	MT418997	2020-Nov
+PUBDATE	MT418998	2020-Nov
+PUBDATE	MT418999	2020-Nov
+PUBDATE	MT419000	2020-Nov
+PUBDATE	MT419001	2020-Nov
+PUBDATE	MT419002	2020-Nov
+PUBDATE	MT419003	2020-Nov
+PUBDATE	MT419004	2020-Nov
+PUBDATE	MT419005	2020-Nov
+PUBDATE	MT419006	2020-Nov
+PUBDATE	MT419007	2020-Nov
+PUBDATE	MT419008	2020-Nov
+PUBDATE	MT419009	2020-Nov
+PUBDATE	MT419010	2020-Nov
+PUBDATE	MT419011	2020-Nov
+PUBDATE	MT419012	2020-Nov
+PUBDATE	MT419013	2020-Nov
+PUBDATE	MT419014	2020-Nov
+PUBDATE	MT419015	2020-Nov
+PUBDATE	MT419016	2020-Nov
+PUBDATE	MT419017	2020-Nov
+PUBDATE	MT419018	2020-Nov
+PUBDATE	MT419019	2020-Nov
+PUBDATE	MT419020	2020-Nov
+PUBDATE	MT419021	2020-Nov
+PUBDATE	MT419022	2020-Nov
+PUBDATE	MT419023	2020-Nov
+PUBDATE	MT419024	2020-Nov
+PUBDATE	MT419025	2020-Nov
+PUBDATE	MT419026	2020-Nov
+PUBDATE	MT419027	2020-Nov
+PUBDATE	MT419028	2020-Nov
+PUBDATE	MT419029	2020-Nov
+PUBDATE	MT419030	2020-Nov
+PUBDATE	MT419031	2020-Nov
+PUBDATE	MT419032	2020-Nov
+PUBDATE	MT419033	2020-Nov
+PUBDATE	MT419034	2020-Nov
+PUBDATE	MT419035	2020-Nov
+PUBDATE	MT419036	2020-Nov
+PUBDATE	MT419037	2020-Nov
+PUBDATE	MT419038	2020-Nov
+PUBDATE	MT419039	2020-Nov
+PUBDATE	MT419040	2020-Nov
+PUBDATE	MT419041	2020-Nov
+PUBDATE	MT419042	2020-Nov
+PUBDATE	MT419043	2020-Nov
+PUBDATE	MT419044	2020-Nov
+PUBDATE	MT419045	2020-Nov
+PUBDATE	MT419046	2020-Nov
+PUBDATE	MT419047	2020-Nov
+PUBDATE	MT419048	2020-Nov
+PUBDATE	MT419049	2020-Nov
+PUBDATE	MT419050	2020-Nov
+PUBDATE	MT419051	2020-Nov
+PUBDATE	MT419052	2020-Nov
+PUBDATE	MT419053	2020-Nov
+PUBDATE	MT419054	2020-Nov
+PUBDATE	MT419055	2020-Nov
+PUBDATE	MT419056	2020-Nov
+PUBDATE	MT419057	2020-Nov
+PUBDATE	MT419058	2020-Nov
+PUBDATE	MT419059	2020-Nov
+PUBDATE	MT419060	2020-Nov
+PUBDATE	MT419061	2020-Nov
+PUBDATE	MT419062	2020-Nov
+PUBDATE	MT419063	2020-Nov
+PUBDATE	MT419064	2020-Nov
+PUBDATE	MT419065	2020-Nov
+PUBDATE	MT419066	2020-Nov
+PUBDATE	MT419067	2020-Nov
+PUBDATE	MT419068	2020-Nov
+PUBDATE	MT419069	2020-Nov
+PUBDATE	MT419070	2020-Nov
+PUBDATE	MT419071	2020-Nov
+PUBDATE	MT419072	2020-Nov
+PUBDATE	MT419073	2020-Nov
+PUBDATE	MT419074	2020-Nov
+PUBDATE	MT419075	2020-Nov
+PUBDATE	MT419076	2020-Nov
+PUBDATE	MT419077	2020-Nov
+PUBDATE	MT419078	2020-Nov
+PUBDATE	MT419079	2020-Nov
+PUBDATE	MT419080	2020-Nov
+PUBDATE	MT419081	2020-Nov
+PUBDATE	MT419082	2020-Nov
+PUBDATE	MT419083	2020-Nov
+PUBDATE	MT419084	2020-Nov
+PUBDATE	MT419085	2020-Nov
+PUBDATE	MT419086	2020-Nov
+PUBDATE	MT419087	2020-Nov
+PUBDATE	MT419088	2020-Nov
+PUBDATE	MT419089	2020-Nov
+PUBDATE	MT419090	2020-Nov
+PUBDATE	MT419091	2020-Nov
+PUBDATE	MT419092	2020-Nov
+PUBDATE	MT419093	2020-Nov
+PUBDATE	MT419094	2020-Nov
+PUBDATE	MT419095	2020-Nov
+PUBDATE	MT419096	2020-Nov
+PUBDATE	MT419097	2020-Nov
+PUBDATE	MT419098	2020-Nov
+PUBDATE	MT419099	2020-Nov
+PUBDATE	MT419100	2020-Nov
+PUBDATE	KX456753	2017-Jan
+PUBDATE	KX456754	2017-Jan
+PUBDATE	KX456755	2017-Jan
+PUBDATE	KX456756	2017-Jan
+PUBDATE	KX456757	2017-Jan
+PUBDATE	KX456758	2017-Jan
+PUBDATE	KX456759	2017-Jan
+PUBDATE	KX456760	2017-Jan
+PUBDATE	KX456761	2017-Jan
+PUBDATE	KX456762	2017-Jan
+PUBDATE	KX456763	2017-Jan
+PUBDATE	KX456764	2017-Jan
+PUBDATE	KX456765	2017-Jan
+PUBDATE	KX456766	2017-Jan
+PUBDATE	KX456767	2017-Jan
+PUBDATE	KX456768	2017-Jan
+PUBDATE	KX456769	2017-Jan
+PUBDATE	KX456770	2017-Jan
+PUBDATE	KX456771	2017-Jan
+PUBDATE	KX456772	2017-Jan
+PUBDATE	KX456773	2017-Jan
+PUBDATE	KX456774	2017-Jan
+PUBDATE	KX456775	2017-Jan
+PUBDATE	KX456776	2017-Jan
+PUBDATE	KX456777	2017-Jan
+PUBDATE	KX456778	2017-Jan
+PUBDATE	KX456779	2017-Jan
+PUBDATE	KX456780	2017-Jan
+PUBDATE	KX456781	2017-Jan
+PUBDATE	KX456782	2017-Jan
+PUBDATE	KX456783	2017-Jan
+PUBDATE	KX456784	2017-Jan
+PUBDATE	KX456785	2017-Jan
+PUBDATE	KX456786	2017-Jan
+PUBDATE	KX456787	2017-Jan
+PUBDATE	KX456788	2017-Jan
+PUBDATE	KX456789	2017-Jan
+PUBDATE	KX456790	2017-Jan
+PUBDATE	KX456791	2017-Jan
+PUBDATE	KX456792	2017-Jan
+PUBDATE	KX456793	2017-Jan
+PUBDATE	KX456794	2017-Jan
+PUBDATE	KX456795	2017-Jan
+PUBDATE	KX456796	2017-Jan
+PUBDATE	KX456797	2017-Jan
+PUBDATE	KX456798	2017-Jan
+PUBDATE	KX456799	2017-Jan
+PUBDATE	KX456800	2017-Jan
+PUBDATE	KX456801	2017-Jan
+PUBDATE	KX456802	2017-Jan
+PUBDATE	KX456803	2017-Jan
+PUBDATE	KX456804	2017-Jan
+PUBDATE	KX456805	2017-Jan
+PUBDATE	KX456806	2017-Jan
+PUBDATE	KX456807	2017-Jan
+PUBDATE	KX456808	2017-Jan
+PUBDATE	KX456809	2017-Jan
+PUBDATE	KX456810	2017-Jan
+PUBDATE	KX456811	2017-Jan
+PUBDATE	KX456812	2017-Jan
+PUBDATE	KX456813	2017-Jan
+PUBDATE	KX456814	2017-Jan
+PUBDATE	KX456815	2017-Jan
+PUBDATE	KX456816	2017-Jan
+PUBDATE	KX456817	2017-Jan
+PUBDATE	KX456818	2017-Jan
+PUBDATE	KX456819	2017-Jan
+PUBDATE	KX456820	2017-Jan
+PUBDATE	KX456821	2017-Jan
+PUBDATE	KX456822	2017-Jan
+PUBDATE	KX456823	2017-Jan
+PUBDATE	KX456824	2017-Jan
+PUBDATE	KX456825	2017-Jan
+PUBDATE	KX456826	2017-Jan
+PUBDATE	KX456827	2017-Jan
+PUBDATE	KX456828	2017-Jan
+PUBDATE	KX456829	2017-Jan
+PUBDATE	KX456830	2017-Jan
+PUBDATE	KX456831	2017-Jan
+PUBDATE	KX456832	2017-Jan
+PUBDATE	KX456833	2017-Jan
+PUBDATE	KX456834	2017-Jan
+PUBDATE	KX456835	2017-Jan
+PUBDATE	KX456836	2017-Jan
+PUBDATE	KX456837	2017-Jan
+PUBDATE	KX456838	2017-Jan
+PUBDATE	KX456839	2017-Jan
+PUBDATE	KX456840	2017-Jan
+PUBDATE	KX456841	2017-Jan
+PUBDATE	KX456842	2017-Jan
+PUBDATE	KX456843	2017-Jan
+PUBDATE	KX456844	2017-Jan
+PUBDATE	KX456845	2017-Jan
+PUBDATE	KX456846	2017-Jan
+PUBDATE	MT419101	2020-Nov
+PUBDATE	MT419102	2020-Nov
+PUBDATE	MT419103	2020-Nov
+PUBDATE	MT419104	2020-Nov
+PUBDATE	MT419105	2020-Nov
+PUBDATE	MT419106	2020-Nov
+PUBDATE	MT419107	2020-Nov
+PUBDATE	MT419108	2020-Nov
+PUBDATE	MT419109	2020-Nov
+PUBDATE	MT419110	2020-Nov
+PUBDATE	MT419111	2020-Nov
+PUBDATE	MT419112	2020-Nov
+PUBDATE	MT419113	2020-Nov
+PUBDATE	MT419114	2020-Nov
+PUBDATE	MT419115	2020-Nov
+PUBDATE	MT419116	2020-Nov
+PUBDATE	MT419117	2020-Nov
+PUBDATE	MT419118	2020-Nov
+PUBDATE	MT419119	2020-Nov
+PUBDATE	MT419120	2020-Nov
+PUBDATE	MT419121	2020-Nov
+PUBDATE	MT419122	2020-Nov
+PUBDATE	MT419123	2020-Nov
+PUBDATE	MT419124	2020-Nov
+PUBDATE	MT419125	2020-Nov
+PUBDATE	MT419126	2020-Nov
+PUBDATE	KX456847	2017-Jan
+PUBDATE	KX456848	2017-Jan
+PUBDATE	KX456849	2017-Jan
+PUBDATE	KX456850	2017-Jan
+PUBDATE	KX456851	2017-Jan
+PUBDATE	KX456852	2017-Jan
+PUBDATE	KX456853	2017-Jan
+PUBDATE	KX456854	2017-Jan
+PUBDATE	KX456855	2017-Jan
+PUBDATE	KX456856	2017-Jan
+PUBDATE	KX456857	2017-Jan
+PUBDATE	KX456858	2017-Jan
+PUBDATE	KX456859	2017-Jan
+PUBDATE	KX456860	2017-Jan
+PUBDATE	KX456861	2017-Jan
+PUBDATE	KX456862	2017-Jan
+PUBDATE	KX456863	2017-Jan
+PUBDATE	KX456864	2017-Jan
+PUBDATE	KX456865	2017-Jan
+PUBDATE	KX456866	2017-Jan
+PUBDATE	KX456867	2017-Jan
+PUBDATE	KX456868	2017-Jan
+PUBDATE	KX456869	2017-Jan
+PUBDATE	KX456870	2017-Jan
+PUBDATE	KX456871	2017-Jan
+PUBDATE	KX456872	2017-Jan
+PUBDATE	KX456873	2017-Jan
+PUBDATE	KX456874	2017-Jan
+PUBDATE	KX456875	2017-Jan
+PUBDATE	KX456876	2017-Jan
+PUBDATE	KX456877	2017-Jan
+PUBDATE	KX456878	2017-Jan
+PUBDATE	KX456879	2017-Jan
+PUBDATE	KX456880	2017-Jan
+PUBDATE	KX456881	2017-Jan
+PUBDATE	KX456882	2017-Jan
+PUBDATE	KX456883	2017-Jan
+PUBDATE	KX456884	2017-Jan
+PUBDATE	KX456885	2017-Jan
+PUBDATE	KX456886	2017-Jan
+PUBDATE	KX456887	2017-Jan
+PUBDATE	KX456888	2017-Jan
+PUBDATE	KX456889	2017-Jan
+PUBDATE	KX456890	2017-Jan
+PUBDATE	KX456891	2017-Jan
+PUBDATE	KX456892	2017-Jan
+PUBDATE	KX456893	2017-Jan
+PUBDATE	KX456894	2017-Jan
+PUBDATE	KX456895	2017-Jan
+PUBDATE	KX456896	2017-Jan
+PUBDATE	KX456897	2017-Jan
+PUBDATE	KX456898	2017-Jan
+PUBDATE	KX456899	2017-Jan
+PUBDATE	KX456900	2017-Jan
+PUBDATE	KX456901	2017-Jan
+PUBDATE	KX456902	2017-Jan
+PUBDATE	KX456903	2017-Jan
+PUBDATE	KX456904	2017-Jan
+PUBDATE	KX456905	2017-Jan
+PUBDATE	KX456906	2017-Jan
+PUBDATE	KX456907	2017-Jan
+PUBDATE	KX456908	2017-Jan
+PUBDATE	KX456909	2017-Jan
+PUBDATE	KX456910	2017-Jan
+PUBDATE	KX456911	2017-Jan
+PUBDATE	KX456912	2017-Jan
+PUBDATE	KX456913	2017-Jan
+PUBDATE	KX456914	2017-Jan
+PUBDATE	KX456915	2017-Jan
+PUBDATE	KX456916	2017-Jan
+PUBDATE	KX456917	2017-Jan
+PUBDATE	KX456918	2017-Jan
+PUBDATE	KX456919	2017-Jan
+PUBDATE	KX456920	2017-Jan
+PUBDATE	KX456921	2017-Jan
+PUBDATE	KX456922	2017-Jan
+PUBDATE	KX456923	2017-Jan
+PUBDATE	KX456924	2017-Jan
+PUBDATE	KX456925	2017-Jan
+PUBDATE	KX456926	2017-Jan
+PUBDATE	KX456927	2017-Jan
+PUBDATE	KX456928	2017-Jan
+PUBDATE	KX456929	2017-Jan
+PUBDATE	KX456930	2017-Jan
+PUBDATE	KX456931	2017-Jan
+PUBDATE	KX456932	2017-Jan
+PUBDATE	KX456933	2017-Jan
+PUBDATE	KX456934	2017-Jan
+PUBDATE	KX456935	2017-Jan
+PUBDATE	KX456936	2017-Jan
+PUBDATE	KX456937	2017-Jan
+PUBDATE	KX456938	2017-Jan
+PUBDATE	KX456939	2017-Jan
+PUBDATE	KX456940	2017-Jan
+PUBDATE	KX456941	2017-Jan
+PUBDATE	KX456942	2017-Jan
+PUBDATE	KX456943	2017-Jan
+PUBDATE	KX456944	2017-Jan
+PUBDATE	KX456945	2017-Jan
+PUBDATE	KX456946	2017-Jan
+PUBDATE	MT419127	2020-Nov
+PUBDATE	MT419128	2020-Nov
+PUBDATE	MT419129	2020-Nov
+PUBDATE	MT419130	2020-Nov
+PUBDATE	MT419131	2020-Nov
+PUBDATE	MT419132	2020-Nov
+PUBDATE	MT419133	2020-Nov
+PUBDATE	MT419134	2020-Nov
+PUBDATE	MT419135	2020-Nov
+PUBDATE	MT419136	2020-Nov
+PUBDATE	MT419137	2020-Nov
+PUBDATE	MT419138	2020-Nov
+PUBDATE	MT419139	2020-Nov
+PUBDATE	MT419140	2020-Nov
+PUBDATE	MT419141	2020-Nov
+PUBDATE	MT419142	2020-Nov
+PUBDATE	MT419143	2020-Nov
+PUBDATE	MT419144	2020-Nov
+PUBDATE	MT419145	2020-Nov
+PUBDATE	MT419146	2020-Nov
+PUBDATE	MT419147	2020-Nov
+PUBDATE	MT419148	2020-Nov
+PUBDATE	MT419149	2020-Nov
+PUBDATE	MT419150	2020-Nov
+PUBDATE	MT419151	2020-Nov
+PUBDATE	MT419152	2020-Nov
+PUBDATE	MT419153	2020-Nov
+PUBDATE	MT419154	2020-Nov
+PUBDATE	MT419155	2020-Nov
+PUBDATE	KX456947	2017-Jan
+PUBDATE	KX456948	2017-Jan
+PUBDATE	KX456949	2017-Jan
+PUBDATE	KX456950	2017-Jan
+PUBDATE	KX456951	2017-Jan
+PUBDATE	KX456952	2017-Jan
+PUBDATE	KX456953	2017-Jan
+PUBDATE	KX456954	2017-Jan
+PUBDATE	KX456955	2017-Jan
+PUBDATE	KX456956	2017-Jan
+PUBDATE	KX456957	2017-Jan
+PUBDATE	KX456958	2017-Jan
+PUBDATE	KX456959	2017-Jan
+PUBDATE	KX456960	2017-Jan
+PUBDATE	KX456961	2017-Jan
+PUBDATE	KX456962	2017-Jan
+PUBDATE	KX456963	2017-Jan
+PUBDATE	KX456964	2017-Jan
+PUBDATE	KX456965	2017-Jan
+PUBDATE	KX456966	2017-Jan
+PUBDATE	KX456967	2017-Jan
+PUBDATE	KX456968	2017-Jan
+PUBDATE	KX456969	2017-Jan
+PUBDATE	KX456970	2017-Jan
+PUBDATE	KX456971	2017-Jan
+PUBDATE	KX456997	2017-Jan
+PUBDATE	KX456998	2017-Jan
+PUBDATE	KX456999	2017-Jan
+PUBDATE	KX457000	2017-Jan
+PUBDATE	KX457001	2017-Jan
+PUBDATE	KX457002	2017-Jan
+PUBDATE	KX457003	2017-Jan
+PUBDATE	KX457004	2017-Jan
+PUBDATE	KX457005	2017-Jan
+PUBDATE	KX457006	2017-Jan
+PUBDATE	KX457007	2017-Jan
+PUBDATE	KX457008	2017-Jan
+PUBDATE	KX457009	2017-Jan
+PUBDATE	KX457010	2017-Jan
+PUBDATE	KX457011	2017-Jan
+PUBDATE	KX457012	2017-Jan
+PUBDATE	KX457013	2017-Jan
+PUBDATE	KX457014	2017-Jan
+PUBDATE	KX457015	2017-Jan
+PUBDATE	KX457016	2017-Jan
+PUBDATE	KX457017	2017-Jan
+PUBDATE	KX457018	2017-Jan
+PUBDATE	KX457019	2017-Jan
+PUBDATE	KX457020	2017-Jan
+PUBDATE	KX457021	2017-Jan
+PUBDATE	KX457022	2017-Jan
+PUBDATE	KX457023	2017-Jan
+PUBDATE	KX457024	2017-Jan
+PUBDATE	KX457025	2017-Jan
+PUBDATE	KX457026	2017-Jan
+PUBDATE	KX457027	2017-Jan
+PUBDATE	KX457028	2017-Jan
+PUBDATE	KX457029	2017-Jan
+PUBDATE	KX457030	2017-Jan
+PUBDATE	KX457031	2017-Jan
+PUBDATE	KX457032	2017-Jan
+PUBDATE	KX457033	2017-Jan
+PUBDATE	KX457034	2017-Jan
+PUBDATE	KX457035	2017-Jan
+PUBDATE	KX457036	2017-Jan
+PUBDATE	KX457037	2017-Jan
+PUBDATE	KX457038	2017-Jan
+PUBDATE	KX457039	2017-Jan
+PUBDATE	KX457040	2017-Jan
+PUBDATE	KX457041	2017-Jan
+PUBDATE	KX457042	2017-Jan
+PUBDATE	KX457043	2017-Jan
+PUBDATE	KX457044	2017-Jan
+PUBDATE	KX457045	2017-Jan
+PUBDATE	KX457046	2017-Jan
+PUBDATE	KX457047	2017-Jan
+PUBDATE	KX457048	2017-Jan
+PUBDATE	KX457049	2017-Jan
+PUBDATE	KX457050	2017-Jan
+PUBDATE	KX457051	2017-Jan
+PUBDATE	KX457052	2017-Jan
+PUBDATE	KX457053	2017-Jan
+PUBDATE	KX457054	2017-Jan
+PUBDATE	KX457055	2017-Jan
+PUBDATE	KX457056	2017-Jan
+PUBDATE	KX457057	2017-Jan
+PUBDATE	KX457058	2017-Jan
+PUBDATE	KX457059	2017-Jan
+PUBDATE	KX457060	2017-Jan
+PUBDATE	KX457061	2017-Jan
+PUBDATE	KX457062	2017-Jan
+PUBDATE	KX457063	2017-Jan
+PUBDATE	KX457064	2017-Jan
+PUBDATE	KX457065	2017-Jan
+PUBDATE	KX457066	2017-Jan
+PUBDATE	FJ442938	2009-Feb
+PUBDATE	FJ442939	2009-Feb
+PUBDATE	MG672483	2018-Jan-24
+PUBDATE	MG672484	2018-Jan-24
+PUBDATE	MG672485	2018-Jan-24
+PUBDATE	MG672486	2018-Jan-24
+PUBDATE	MG672487	2018-Jan-24
+PUBDATE	MG672488	2018-Jan-24
+PUBDATE	MG672489	2018-Jan-24
+PUBDATE	MG672490	2018-Jan-24
+PUBDATE	MG672491	2018-Jan-24
+PUBDATE	MG672492	2018-Jan-24
+PUBDATE	MG672493	2018-Jan-24
+PUBDATE	MG672494	2018-Jan-24
+PUBDATE	MG672495	2018-Jan-24
+PUBDATE	MG672496	2018-Jan-24
+PUBDATE	MG672497	2018-Jan-24
+PUBDATE	MG672498	2018-Jan-24
+PUBDATE	MG672499	2018-Jan-24
+PUBDATE	MG672500	2018-Jan-24
+PUBDATE	MG672506	2018-Jan-24
+PUBDATE	MG672501	2018-Jan-24
+PUBDATE	MG672502	2018-Jan-24
+PUBDATE	MG672503	2018-Jan-24
+PUBDATE	MG672504	2018-Jan-24
+PUBDATE	MG672505	2018-Jan-24
+PUBDATE	MG672507	2018-Jan-24
+PUBDATE	MG672508	2018-Jan-24
+PUBDATE	MG672509	2018-Jan-24
+PUBDATE	MG672510	2018-Jan-24
+PUBDATE	MG672511	2018-Jan-24
+PUBDATE	MT419156	2020-Nov
+PUBDATE	MT419157	2020-Nov
+PUBDATE	MT419158	2020-Nov
+PUBDATE	MT419159	2020-Nov
+PUBDATE	MT419160	2020-Nov
+PUBDATE	MT419161	2020-Nov
+PUBDATE	MT419162	2020-Nov
+PUBDATE	MT419163	2020-Nov
+PUBDATE	MT419164	2020-Nov
+PUBDATE	MT419165	2020-Nov
+PUBDATE	MT419166	2020-Nov
+PUBDATE	MT419167	2020-Nov
+PUBDATE	MT419168	2020-Nov
+PUBDATE	MT419169	2020-Nov
+PUBDATE	MT419170	2020-Nov
+PUBDATE	MT419171	2020-Nov
+PUBDATE	MT419172	2020-Nov
+PUBDATE	MT419173	2020-Nov
+PUBDATE	MT419174	2020-Nov
+PUBDATE	MT419175	2020-Nov
+PUBDATE	MT419176	2020-Nov
+PUBDATE	MT419177	2020-Nov
+PUBDATE	MT419178	2020-Nov
+PUBDATE	MT419179	2020-Nov
+PUBDATE	MT419180	2020-Nov
+PUBDATE	MT419181	2020-Nov
+PUBDATE	KX457067	2017-Jan
+PUBDATE	KX457068	2017-Jan
+PUBDATE	KX457069	2017-Jan
+PUBDATE	KX457070	2017-Jan
+PUBDATE	KX457071	2017-Jan
+PUBDATE	KX457072	2017-Jan
+PUBDATE	KX457073	2017-Jan
+PUBDATE	KX457074	2017-Jan
+PUBDATE	KX457075	2017-Jan
+PUBDATE	KX457076	2017-Jan
+PUBDATE	KX457077	2017-Jan
+PUBDATE	KX457078	2017-Jan
+PUBDATE	KX457079	2017-Jan
+PUBDATE	KX457080	2017-Jan
+PUBDATE	KX457081	2017-Jan
+PUBDATE	KX457082	2017-Jan
+PUBDATE	KX457083	2017-Jan
+PUBDATE	KX457084	2017-Jan
+PUBDATE	KX457085	2017-Jan
+PUBDATE	KX457086	2017-Jan
+PUBDATE	KX457087	2017-Jan
+PUBDATE	KX457088	2017-Jan
+PUBDATE	KX457089	2017-Jan
+PUBDATE	KX457090	2017-Jan
+PUBDATE	KX457091	2017-Jan
+PUBDATE	KX457092	2017-Jan
+PUBDATE	KX457093	2017-Jan
+PUBDATE	KX457094	2017-Jan
+PUBDATE	KX457095	2017-Jan
+PUBDATE	KX457096	2017-Jan
+PUBDATE	KX457097	2017-Jan
+PUBDATE	KX457098	2017-Jan
+PUBDATE	KX457099	2017-Jan
+PUBDATE	KX457100	2017-Jan
+PUBDATE	KX457101	2017-Jan
+PUBDATE	KX457102	2017-Jan
+PUBDATE	KX457103	2017-Jan
+PUBDATE	KX457104	2017-Jan
+PUBDATE	KX457105	2017-Jan
+PUBDATE	KX457106	2017-Jan
+PUBDATE	KX457107	2017-Jan
+PUBDATE	KX457108	2017-Jan
+PUBDATE	KX457109	2017-Jan
+PUBDATE	KX457110	2017-Jan
+PUBDATE	KX457111	2017-Jan
+PUBDATE	KX457112	2017-Jan
+PUBDATE	KX457113	2017-Jan
+PUBDATE	KX457114	2017-Jan
+PUBDATE	KX457115	2017-Jan
+PUBDATE	KX457116	2017-Jan
+PUBDATE	MG272897	2018-Jun
+PUBDATE	MG272898	2018-Jun
+PUBDATE	MG272899	2018-Jun
+PUBDATE	MG272900	2018-Jun
+PUBDATE	MG272901	2018-Jun
+PUBDATE	MG272902	2018-Jun
+PUBDATE	MG272903	2018-Jun
+PUBDATE	MG272904	2018-Jun
+PUBDATE	MG272905	2018-Jun
+PUBDATE	MG272906	2018-Jun
+PUBDATE	MG272907	2018-Jun
+PUBDATE	MG272908	2018-Jun
+PUBDATE	MG272909	2018-Jun
+PUBDATE	MG272910	2018-Jun
+PUBDATE	MG272911	2018-Jun
+PUBDATE	MG272912	2018-Jun
+PUBDATE	MG272913	2018-Jun
+PUBDATE	MG272914	2018-Jun
+PUBDATE	MG272915	2018-Jun
+PUBDATE	MG272916	2018-Jun
+PUBDATE	MG272917	2018-Jun
+PUBDATE	MG272918	2018-Jun
+PUBDATE	MG272919	2018-Jun
+PUBDATE	MG272920	2018-Jun
+PUBDATE	KX457117	2017-Jan
+PUBDATE	KX457118	2017-Jan
+PUBDATE	KX457119	2017-Jan
+PUBDATE	KX457120	2017-Jan
+PUBDATE	KX457121	2017-Jan
+PUBDATE	KX457122	2017-Jan
+PUBDATE	KX457123	2017-Jan
+PUBDATE	KX457124	2017-Jan
+PUBDATE	KX457125	2017-Jan
+PUBDATE	KX457126	2017-Jan
+PUBDATE	KX457127	2017-Jan
+PUBDATE	KX457128	2017-Jan
+PUBDATE	KX457129	2017-Jan
+PUBDATE	KX457130	2017-Jan
+PUBDATE	KX457131	2017-Jan
+PUBDATE	KX457132	2017-Jan
+PUBDATE	KX457133	2017-Jan
+PUBDATE	KX457134	2017-Jan
+PUBDATE	KX457135	2017-Jan
+PUBDATE	KX457136	2017-Jan
+PUBDATE	KX457137	2017-Jan
+PUBDATE	KX457138	2017-Jan
+PUBDATE	KX457139	2017-Jan
+PUBDATE	KX457140	2017-Jan
+PUBDATE	KX457141	2017-Jan
+PUBDATE	KX457142	2017-Jan
+PUBDATE	KX457143	2017-Jan
+PUBDATE	KX457144	2017-Jan
+PUBDATE	KX457145	2017-Jan
+PUBDATE	KX457146	2017-Jan
+PUBDATE	KX457147	2017-Jan
+PUBDATE	KX457148	2017-Jan
+PUBDATE	KX457149	2017-Jan
+PUBDATE	KX457150	2017-Jan
+PUBDATE	KX457151	2017-Jan
+PUBDATE	KX457152	2017-Jan
+PUBDATE	KX457153	2017-Jan
+PUBDATE	KX457154	2017-Jan
+PUBDATE	MT419182	2020-Nov
+PUBDATE	MT419183	2020-Nov
+PUBDATE	MT419184	2020-Nov
+PUBDATE	MT419185	2020-Nov
+PUBDATE	MT419186	2020-Nov
+PUBDATE	MT419187	2020-Nov
+PUBDATE	MT419188	2020-Nov
+PUBDATE	MT419189	2020-Nov
+PUBDATE	MT419190	2020-Nov
+PUBDATE	MT419191	2020-Nov
+PUBDATE	MT419192	2020-Nov
+PUBDATE	MT419193	2020-Nov
+PUBDATE	MT419194	2020-Nov
+PUBDATE	MT419195	2020-Nov
+PUBDATE	MT419196	2020-Nov
+PUBDATE	MT419197	2020-Nov
+PUBDATE	MT419198	2020-Nov
+PUBDATE	MT419199	2020-Nov
+PUBDATE	MT419200	2020-Nov
+PUBDATE	MT419201	2020-Nov
+PUBDATE	MT419202	2020-Nov
+PUBDATE	MT419203	2020-Nov
+PUBDATE	MT419204	2020-Nov
+PUBDATE	MT419205	2020-Nov
+PUBDATE	MT419206	2020-Nov
+PUBDATE	MT419207	2020-Nov
+PUBDATE	KX457155	2017-Jan
+PUBDATE	KX457156	2017-Jan
+PUBDATE	KX457157	2017-Jan
+PUBDATE	KX457158	2017-Jan
+PUBDATE	KX457159	2017-Jan
+PUBDATE	KX457160	2017-Jan
+PUBDATE	KX457161	2017-Jan
+PUBDATE	KX457162	2017-Jan
+PUBDATE	KX457163	2017-Jan
+PUBDATE	KX457164	2017-Jan
+PUBDATE	KX457165	2017-Jan
+PUBDATE	KX457166	2017-Jan
+PUBDATE	KX457167	2017-Jan
+PUBDATE	KX457168	2017-Jan
+PUBDATE	KX457169	2017-Jan
+PUBDATE	KX457170	2017-Jan
+PUBDATE	KX457171	2017-Jan
+PUBDATE	KX457172	2017-Jan
+PUBDATE	KX457173	2017-Jan
+PUBDATE	KX457174	2017-Jan
+PUBDATE	KX457175	2017-Jan
+PUBDATE	KX457176	2017-Jan
+PUBDATE	KX457177	2017-Jan
+PUBDATE	KX457178	2017-Jan
+PUBDATE	KX457179	2017-Jan
+PUBDATE	KX457180	2017-Jan
+PUBDATE	KX457181	2017-Jan
+PUBDATE	KX457182	2017-Jan
+PUBDATE	KX457183	2017-Jan
+PUBDATE	KX457184	2017-Jan
+PUBDATE	KX457185	2017-Jan
+PUBDATE	KX457186	2017-Jan
+PUBDATE	KX457187	2017-Jan
+PUBDATE	KX457188	2017-Jan
+PUBDATE	KX457189	2017-Jan
+PUBDATE	KX457190	2017-Jan
+PUBDATE	KX457191	2017-Jan
+PUBDATE	KX457192	2017-Jan
+PUBDATE	KX457193	2017-Jan
+PUBDATE	KX457194	2017-Jan
+PUBDATE	KX457195	2017-Jan
+PUBDATE	KX457196	2017-Jan
+PUBDATE	KX457197	2017-Jan
+PUBDATE	KX457198	2017-Jan
+PUBDATE	KX457199	2017-Jan
+PUBDATE	KX457200	2017-Jan
+PUBDATE	KX457201	2017-Jan
+PUBDATE	KX457202	2017-Jan
+PUBDATE	KX457203	2017-Jan
+PUBDATE	KX457204	2017-Jan
+PUBDATE	MT419208	2020-Nov
+PUBDATE	MT419209	2020-Nov
+PUBDATE	MT419210	2020-Nov
+PUBDATE	MT419211	2020-Nov
+PUBDATE	MT419212	2020-Nov
+PUBDATE	MT419213	2020-Nov
+PUBDATE	MT419214	2020-Nov
+PUBDATE	MT419215	2020-Nov
+PUBDATE	MT419216	2020-Nov
+PUBDATE	MT419217	2020-Nov
+PUBDATE	MT419218	2020-Nov
+PUBDATE	MT419219	2020-Nov
+PUBDATE	MT419220	2020-Nov
+PUBDATE	MT419221	2020-Nov
+PUBDATE	MT419222	2020-Nov
+PUBDATE	MT419223	2020-Nov
+PUBDATE	MT419224	2020-Nov
+PUBDATE	MT419225	2020-Nov
+PUBDATE	MT419226	2020-Nov
+PUBDATE	MT419227	2020-Nov
+PUBDATE	MT419228	2020-Nov
+PUBDATE	MT419229	2020-Nov
+PUBDATE	MT419230	2020-Nov
+PUBDATE	MT419231	2020-Nov
+PUBDATE	MT419232	2020-Nov
+PUBDATE	MT419233	2020-Nov
+PUBDATE	MT419234	2020-Nov
+PUBDATE	MT419235	2020-Nov
+PUBDATE	MT419236	2020-Nov
+PUBDATE	MT419237	2020-Nov
+PUBDATE	MT419238	2020-Nov
+PUBDATE	MT419239	2020-Nov
+PUBDATE	MT419240	2020-Nov
+PUBDATE	MT419241	2020-Nov
+PUBDATE	MT419242	2020-Nov
+PUBDATE	KX457205	2017-Jan
+PUBDATE	KX457206	2017-Jan
+PUBDATE	KX457207	2017-Jan
+PUBDATE	KX457208	2017-Jan
+PUBDATE	KX457209	2017-Jan
+PUBDATE	KX457210	2017-Jan
+PUBDATE	KX457211	2017-Jan
+PUBDATE	KX457212	2017-Jan
+PUBDATE	KX457213	2017-Jan
+PUBDATE	KX457214	2017-Jan
+PUBDATE	KX457215	2017-Jan
+PUBDATE	KX457216	2017-Jan
+PUBDATE	KX457217	2017-Jan
+PUBDATE	KX457218	2017-Jan
+PUBDATE	KX457219	2017-Jan
+PUBDATE	KX457220	2017-Jan
+PUBDATE	KX457221	2017-Jan
+PUBDATE	KX457222	2017-Jan
+PUBDATE	KX457223	2017-Jan
+PUBDATE	KX457224	2017-Jan
+PUBDATE	KX457225	2017-Jan
+PUBDATE	KX457226	2017-Jan
+PUBDATE	KX457227	2017-Jan
+PUBDATE	KX457228	2017-Jan
+PUBDATE	KX457229	2017-Jan
+PUBDATE	KX457230	2017-Jan
+PUBDATE	KX457231	2017-Jan
+PUBDATE	KX457232	2017-Jan
+PUBDATE	KX457233	2017-Jan
+PUBDATE	KX457234	2017-Jan
+PUBDATE	KX457235	2017-Jan
+PUBDATE	KX457236	2017-Jan
+PUBDATE	KX457237	2017-Jan
+PUBDATE	KX457238	2017-Jan
+PUBDATE	KX457239	2017-Jan
+PUBDATE	KX457240	2017-Jan
+PUBDATE	KX457241	2017-Jan
+PUBDATE	KX457242	2017-Jan
+PUBDATE	KX457243	2017-Jan
+PUBDATE	KX457244	2017-Jan
+PUBDATE	KX457245	2017-Jan
+PUBDATE	KX457246	2017-Jan
+PUBDATE	KX457247	2017-Jan
+PUBDATE	KX457248	2017-Jan
+PUBDATE	KX457249	2017-Jan
+PUBDATE	KX457250	2017-Jan
+PUBDATE	KX457251	2017-Jan
+PUBDATE	KX457252	2017-Jan
+PUBDATE	KX457253	2017-Jan
+PUBDATE	KX457254	2017-Jan
+PUBDATE	KX457255	2017-Jan
+PUBDATE	KX457256	2017-Jan
+PUBDATE	KX457257	2017-Jan
+PUBDATE	KX457258	2017-Jan
+PUBDATE	KX457259	2017-Jan
+PUBDATE	KX457260	2017-Jan
+PUBDATE	KX457261	2017-Jan
+PUBDATE	KX457262	2017-Jan
+PUBDATE	KX457263	2017-Jan
+PUBDATE	KX457264	2017-Jan
+PUBDATE	KX457265	2017-Jan
+PUBDATE	KX457266	2017-Jan
+PUBDATE	KX457267	2017-Jan
+PUBDATE	KX457268	2017-Jan
+PUBDATE	KX457269	2017-Jan
+PUBDATE	KX457270	2017-Jan
+PUBDATE	KX457271	2017-Jan
+PUBDATE	KX457272	2017-Jan
+PUBDATE	KX457273	2017-Jan
+PUBDATE	KX457274	2017-Jan
+PUBDATE	KX457275	2017-Jan
+PUBDATE	KX457276	2017-Jan
+PUBDATE	KX457277	2017-Jan
+PUBDATE	KX457278	2017-Jan
+PUBDATE	KX457279	2017-Jan
+PUBDATE	KX457280	2017-Jan
+PUBDATE	KX457281	2017-Jan
+PUBDATE	KX457282	2017-Jan
+PUBDATE	KX457283	2017-Jan
+PUBDATE	KX457284	2017-Jan
+PUBDATE	KX457285	2017-Jan
+PUBDATE	KX457286	2017-Jan
+PUBDATE	KX457287	2017-Jan
+PUBDATE	KX457288	2017-Jan
+PUBDATE	KX457289	2017-Jan
+PUBDATE	KX457290	2017-Jan
+PUBDATE	KX457291	2017-Jan
+PUBDATE	KX457292	2017-Jan
+PUBDATE	KX457293	2017-Jan
+PUBDATE	KX457294	2017-Jan
+PUBDATE	KX457295	2017-Jan
+PUBDATE	KX457296	2017-Jan
+PUBDATE	KX457297	2017-Jan
+PUBDATE	KX457298	2017-Jan
+PUBDATE	KX457299	2017-Jan
+PUBDATE	KX457300	2017-Jan
+PUBDATE	KX457301	2017-Jan
+PUBDATE	KX457302	2017-Jan
+PUBDATE	KX457303	2017-Jan
+PUBDATE	KX457304	2017-Jan
+PUBDATE	KX457305	2017-Jan
+PUBDATE	KX457306	2017-Jan
+PUBDATE	KX457307	2017-Jan
+PUBDATE	KX457308	2017-Jan
+PUBDATE	KX457309	2017-Jan
+PUBDATE	KX457310	2017-Jan
+PUBDATE	KX457311	2017-Jan
+PUBDATE	KX457312	2017-Jan
+PUBDATE	KX457313	2017-Jan
+PUBDATE	KX457314	2017-Jan
+PUBDATE	KX457315	2017-Jan
+PUBDATE	KX457316	2017-Jan
+PUBDATE	KX457317	2017-Jan
+PUBDATE	KX457318	2017-Jan
+PUBDATE	KX457319	2017-Jan
+PUBDATE	KX457320	2017-Jan
+PUBDATE	KX457321	2017-Jan
+PUBDATE	KX457322	2017-Jan
+PUBDATE	KX457323	2017-Jan
+PUBDATE	KX457324	2017-Jan
+PUBDATE	KX457325	2017-Jan
+PUBDATE	KX457326	2017-Jan
+PUBDATE	KX457327	2017-Jan
+PUBDATE	KX457328	2017-Jan
+PUBDATE	KX457329	2017-Jan
+PUBDATE	MT419243	2020-Nov
+PUBDATE	MT419244	2020-Nov
+PUBDATE	MT419245	2020-Nov
+PUBDATE	MT419246	2020-Nov
+PUBDATE	MT419247	2020-Nov
+PUBDATE	MT419248	2020-Nov
+PUBDATE	MT419249	2020-Nov
+PUBDATE	MT419250	2020-Nov
+PUBDATE	MT419251	2020-Nov
+PUBDATE	MT419252	2020-Nov
+PUBDATE	MT419253	2020-Nov
+PUBDATE	MT419254	2020-Nov
+PUBDATE	MT419255	2020-Nov
+PUBDATE	MT419256	2020-Nov
+PUBDATE	MT419257	2020-Nov
+PUBDATE	MT419258	2020-Nov
+PUBDATE	MT419259	2020-Nov
+PUBDATE	MT419260	2020-Nov
+PUBDATE	MT419261	2020-Nov
+PUBDATE	MT419262	2020-Nov
+PUBDATE	MT419263	2020-Nov
+PUBDATE	MT419264	2020-Nov
+PUBDATE	MT419265	2020-Nov
+PUBDATE	MT419266	2020-Nov
+PUBDATE	MT419267	2020-Nov
+PUBDATE	MT419268	2020-Nov
+PUBDATE	MT419269	2020-Nov
+PUBDATE	MT419270	2020-Nov
+PUBDATE	MT419271	2020-Nov
+PUBDATE	MT419272	2020-Nov
+PUBDATE	KX457330	2017-Jan
+PUBDATE	KX457331	2017-Jan
+PUBDATE	KX457332	2017-Jan
+PUBDATE	KX457333	2017-Jan
+PUBDATE	KX457334	2017-Jan
+PUBDATE	KX457335	2017-Jan
+PUBDATE	KX457336	2017-Jan
+PUBDATE	KX457337	2017-Jan
+PUBDATE	KX457338	2017-Jan
+PUBDATE	KX457339	2017-Jan
+PUBDATE	KX457340	2017-Jan
+PUBDATE	KX457341	2017-Jan
+PUBDATE	KX457342	2017-Jan
+PUBDATE	KX457343	2017-Jan
+PUBDATE	KX457344	2017-Jan
+PUBDATE	KX457345	2017-Jan
+PUBDATE	KX457346	2017-Jan
+PUBDATE	KX457347	2017-Jan
+PUBDATE	KX457348	2017-Jan
+PUBDATE	KX457349	2017-Jan
+PUBDATE	KX457350	2017-Jan
+PUBDATE	KX457351	2017-Jan
+PUBDATE	KX457352	2017-Jan
+PUBDATE	KX457353	2017-Jan
+PUBDATE	KX457354	2017-Jan
+PUBDATE	KX457355	2017-Jan
+PUBDATE	KX457356	2017-Jan
+PUBDATE	KX457357	2017-Jan
+PUBDATE	KX457358	2017-Jan
+PUBDATE	KX457359	2017-Jan
+PUBDATE	KX457360	2017-Jan
+PUBDATE	KX457361	2017-Jan
+PUBDATE	KX457362	2017-Jan
+PUBDATE	KX457363	2017-Jan
+PUBDATE	KX457364	2017-Jan
+PUBDATE	KX457365	2017-Jan
+PUBDATE	KX457366	2017-Jan
+PUBDATE	KX457367	2017-Jan
+PUBDATE	KX457368	2017-Jan
+PUBDATE	KX457369	2017-Jan
+PUBDATE	KX457370	2017-Jan
+PUBDATE	KX457371	2017-Jan
+PUBDATE	KX457372	2017-Jan
+PUBDATE	KX457373	2017-Jan
+PUBDATE	KX457374	2017-Jan
+PUBDATE	KX457375	2017-Jan
+PUBDATE	KX457376	2017-Jan
+PUBDATE	KX457377	2017-Jan
+PUBDATE	KX457378	2017-Jan
+PUBDATE	KX457379	2017-Jan
+PUBDATE	KX457380	2017-Jan
+PUBDATE	KX457381	2017-Jan
+PUBDATE	KX457382	2017-Jan
+PUBDATE	KX457383	2017-Jan
+PUBDATE	KX457384	2017-Jan
+PUBDATE	KX457385	2017-Jan
+PUBDATE	KX457387	2017-Jan
+PUBDATE	KX457388	2017-Jan
+PUBDATE	KX457389	2017-Jan
+PUBDATE	KX457390	2017-Jan
+PUBDATE	KX457391	2017-Jan
+PUBDATE	KX457392	2017-Jan
+PUBDATE	KX457393	2017-Jan
+PUBDATE	KX457394	2017-Jan
+PUBDATE	KX457395	2017-Jan
+PUBDATE	KX457396	2017-Jan
+PUBDATE	KX457397	2017-Jan
+PUBDATE	KX457398	2017-Jan
+PUBDATE	KX457399	2017-Jan
+PUBDATE	KX457400	2017-Jan
+PUBDATE	KX457401	2017-Jan
+PUBDATE	KX457386	2017-Jan
+PUBDATE	KX457402	2017-Jan
+PUBDATE	MT419273	2020-Nov
+PUBDATE	MT419274	2020-Nov
+PUBDATE	MT419275	2020-Nov
+PUBDATE	MT419276	2020-Nov
+PUBDATE	MT419277	2020-Nov
+PUBDATE	MT419278	2020-Nov
+PUBDATE	MT419279	2020-Nov
+PUBDATE	MT419280	2020-Nov
+PUBDATE	MT419281	2020-Nov
+PUBDATE	MT419282	2020-Nov
+PUBDATE	MT419283	2020-Nov
+PUBDATE	MT419284	2020-Nov
+PUBDATE	MT419285	2020-Nov
+PUBDATE	MT419286	2020-Nov
+PUBDATE	MT419287	2020-Nov
+PUBDATE	MT419288	2020-Nov
+PUBDATE	MT419289	2020-Nov
+PUBDATE	MT419290	2020-Nov
+PUBDATE	MT419291	2020-Nov
+PUBDATE	MT419292	2020-Nov
+PUBDATE	MT419293	2020-Nov
+PUBDATE	MT419294	2020-Nov
+PUBDATE	MT419295	2020-Nov
+PUBDATE	MT419296	2020-Nov
+PUBDATE	MT419297	2020-Nov
+PUBDATE	MT419298	2020-Nov
+PUBDATE	KX457403	2017-Jan
+PUBDATE	KX457404	2017-Jan
+PUBDATE	KX457405	2017-Jan
+PUBDATE	KX457406	2017-Jan
+PUBDATE	KX457407	2017-Jan
+PUBDATE	KX457408	2017-Jan
+PUBDATE	KX457409	2017-Jan
+PUBDATE	KX457410	2017-Jan
+PUBDATE	KX457411	2017-Jan
+PUBDATE	KX457412	2017-Jan
+PUBDATE	KX457413	2017-Jan
+PUBDATE	KX457414	2017-Jan
+PUBDATE	KX457415	2017-Jan
+PUBDATE	KX457416	2017-Jan
+PUBDATE	KX457417	2017-Jan
+PUBDATE	KX457418	2017-Jan
+PUBDATE	KX457419	2017-Jan
+PUBDATE	KX457420	2017-Jan
+PUBDATE	KX457421	2017-Jan
+PUBDATE	KX457422	2017-Jan
+PUBDATE	KX457423	2017-Jan
+PUBDATE	KX457424	2017-Jan
+PUBDATE	KX457425	2017-Jan
+PUBDATE	KX457426	2017-Jan
+PUBDATE	KX457427	2017-Jan
+PUBDATE	KX457428	2017-Jan
+PUBDATE	KX457429	2017-Jan
+PUBDATE	KX457430	2017-Jan
+PUBDATE	KX457431	2017-Jan
+PUBDATE	KX457432	2017-Jan
+PUBDATE	KX457433	2017-Jan
+PUBDATE	KX457434	2017-Jan
+PUBDATE	KX457435	2017-Jan
+PUBDATE	KX457436	2017-Jan
+PUBDATE	KX457437	2017-Jan
+PUBDATE	KX457438	2017-Jan
+PUBDATE	KX457439	2017-Jan
+PUBDATE	KX457440	2017-Jan
+PUBDATE	KX457441	2017-Jan
+PUBDATE	KX457442	2017-Jan
+PUBDATE	KX457443	2017-Jan
+PUBDATE	KX457444	2017-Jan
+PUBDATE	KX457445	2017-Jan
+PUBDATE	KX457446	2017-Jan
+PUBDATE	KX457447	2017-Jan
+PUBDATE	KX457448	2017-Jan
+PUBDATE	KX457449	2017-Jan
+PUBDATE	KX457450	2017-Jan
+PUBDATE	KX457451	2017-Jan
+PUBDATE	KX457452	2017-Jan
+PUBDATE	KX457453	2017-Jan
+PUBDATE	KX457454	2017-Jan
+PUBDATE	KX457455	2017-Jan
+PUBDATE	KX457456	2017-Jan
+PUBDATE	KX457457	2017-Jan
+PUBDATE	KX457458	2017-Jan
+PUBDATE	KX457459	2017-Jan
+PUBDATE	KX457460	2017-Jan
+PUBDATE	KX457461	2017-Jan
+PUBDATE	KX457462	2017-Jan
+PUBDATE	KX457463	2017-Jan
+PUBDATE	KX457464	2017-Jan
+PUBDATE	KX457465	2017-Jan
+PUBDATE	KX457466	2017-Jan
+PUBDATE	KX457467	2017-Jan
+PUBDATE	KX457468	2017-Jan
+PUBDATE	KX457469	2017-Jan
+PUBDATE	KX457470	2017-Jan
+PUBDATE	KX457471	2017-Jan
+PUBDATE	KX457472	2017-Jan
+PUBDATE	KX457473	2017-Jan
+PUBDATE	KX457474	2017-Jan
+PUBDATE	KX457475	2017-Jan
+PUBDATE	KX457476	2017-Jan
+PUBDATE	KX457477	2017-Jan
+PUBDATE	KX457478	2017-Jan
+PUBDATE	KX457479	2017-Jan
+PUBDATE	KX457480	2017-Jan
+PUBDATE	KX457481	2017-Jan
+PUBDATE	KX457482	2017-Jan
+PUBDATE	KX457483	2017-Jan
+PUBDATE	KX457484	2017-Jan
+PUBDATE	KX457485	2017-Jan
+PUBDATE	KX457486	2017-Jan
+PUBDATE	KX457487	2017-Jan
+PUBDATE	KX457488	2017-Jan
+PUBDATE	KX457489	2017-Jan
+PUBDATE	KX457490	2017-Jan
+PUBDATE	KX457491	2017-Jan
+PUBDATE	KX457492	2017-Jan
+PUBDATE	KX457493	2017-Jan
+PUBDATE	KX457494	2017-Jan
+PUBDATE	KX457495	2017-Jan
+PUBDATE	KX457496	2017-Jan
+PUBDATE	KX457497	2017-Jan
+PUBDATE	KX457498	2017-Jan
+PUBDATE	KX457499	2017-Jan
+PUBDATE	KX457500	2017-Jan
+PUBDATE	KX457501	2017-Jan
+PUBDATE	KX457502	2017-Jan
+PUBDATE	KU521477	2016-Apr
+PUBDATE	DQ981473	2006-Dec
+PUBDATE	MG272921	2018-Jun
+PUBDATE	MG272922	2018-Jun
+PUBDATE	MG272923	2018-Jun
+PUBDATE	MG272924	2018-Jun
+PUBDATE	MG272925	2018-Jun
+PUBDATE	MG272926	2018-Jun
+PUBDATE	MG272927	2018-Jun
+PUBDATE	MG272928	2018-Jun
+PUBDATE	MG272929	2018-Jun
+PUBDATE	MG272930	2018-Jun
+PUBDATE	MG272931	2018-Jun
+PUBDATE	MG272932	2018-Jun
+PUBDATE	MG272933	2018-Jun
+PUBDATE	MG272934	2018-Jun
+PUBDATE	MG272935	2018-Jun
+PUBDATE	MG272936	2018-Jun
+PUBDATE	MG272937	2018-Jun
+PUBDATE	MG272938	2018-Jun
+PUBDATE	MG272939	2018-Jun
+PUBDATE	MG272940	2018-Jun
+PUBDATE	MG272941	2018-Jun
+PUBDATE	MG272942	2018-Jun
+PUBDATE	MG272943	2018-Jun
+PUBDATE	MG272944	2018-Jun
+PUBDATE	MG272945	2018-Jun
+PUBDATE	MG272946	2018-Jun
+PUBDATE	MG272947	2018-Jun
+PUBDATE	MG272948	2018-Jun
+PUBDATE	MG272949	2018-Jun
+PUBDATE	MG272950	2018-Jun
+PUBDATE	MG272951	2018-Jun
+PUBDATE	MG272952	2018-Jun
+PUBDATE	MG272953	2018-Jun
+PUBDATE	MG272954	2018-Jun
+PUBDATE	MG272955	2018-Jun
+PUBDATE	MG272956	2018-Jun
+PUBDATE	MG272957	2018-Jun
+PUBDATE	MG272958	2018-Jun
+PUBDATE	MG272959	2018-Jun
+PUBDATE	MG272960	2018-Jun
+PUBDATE	MG272961	2018-Jun
+PUBDATE	MG272962	2018-Jun
+PUBDATE	MG272963	2018-Jun
+PUBDATE	MG272964	2018-Jun
+PUBDATE	MG272965	2018-Jun
+PUBDATE	MG272966	2018-Jun
+PUBDATE	MG272967	2018-Jun
+PUBDATE	MG272968	2018-Jun
+PUBDATE	MG272969	2018-Jun
+PUBDATE	MG272970	2018-Jun
+PUBDATE	MG272971	2018-Jun
+PUBDATE	MG272972	2018-Jun
+PUBDATE	MG272973	2018-Jun
+PUBDATE	MG272974	2018-Jun
+PUBDATE	MG272975	2018-Jun
+PUBDATE	MG272976	2018-Jun
+PUBDATE	MG272977	2018-Jun
+PUBDATE	MG272978	2018-Jun
+PUBDATE	MG272979	2018-Jun
+PUBDATE	MG272980	2018-Jun
+PUBDATE	MG272981	2018-Jun
+PUBDATE	MG272982	2018-Jun
+PUBDATE	MG272983	2018-Jun
+PUBDATE	MG272984	2018-Jun
+PUBDATE	MG272985	2018-Jun
+PUBDATE	MG272986	2018-Jun
+PUBDATE	MG272987	2018-Jun
+PUBDATE	MG272988	2018-Jun
+PUBDATE	MG272989	2018-Jun
+PUBDATE	MG272990	2018-Jun
+PUBDATE	MG272991	2018-Jun
+PUBDATE	MG272992	2018-Jun
+PUBDATE	MG272993	2018-Jun
+PUBDATE	MG272994	2018-Jun
+PUBDATE	MG272995	2018-Jun
+PUBDATE	MG272996	2018-Jun
+PUBDATE	MG272997	2018-Jun
+PUBDATE	MG272998	2018-Jun
+PUBDATE	MG272999	2018-Jun
+PUBDATE	MG273000	2018-Jun
+PUBDATE	MG273001	2018-Jun
+PUBDATE	MG273002	2018-Jun
+PUBDATE	MG273003	2018-Jun
+PUBDATE	MG273004	2018-Jun
+PUBDATE	MG273005	2018-Jun
+PUBDATE	MG273006	2018-Jun
+PUBDATE	MG273007	2018-Jun
+PUBDATE	MG273008	2018-Jun
+PUBDATE	MG273009	2018-Jun
+PUBDATE	MG273010	2018-Jun
+PUBDATE	MG273011	2018-Jun
+PUBDATE	MG273012	2018-Jun
+PUBDATE	MG273013	2018-Jun
+PUBDATE	MG273014	2018-Jun
+PUBDATE	MG273015	2018-Jun
+PUBDATE	MG273016	2018-Jun
+PUBDATE	MG273017	2018-Jun
+PUBDATE	MG273018	2018-Jun
+PUBDATE	MG273019	2018-Jun
+PUBDATE	MG273020	2018-Jun
+PUBDATE	MG273021	2018-Jun
+PUBDATE	MG273022	2018-Jun
+PUBDATE	MG273023	2018-Jun
+PUBDATE	MG273024	2018-Jun
+PUBDATE	MG273025	2018-Jun
+PUBDATE	MG273026	2018-Jun
+PUBDATE	MG273027	2018-Jun
+PUBDATE	MG273028	2018-Jun
+PUBDATE	MG273029	2018-Jun
+PUBDATE	MG273030	2018-Jun
+PUBDATE	MG273031	2018-Jun
+PUBDATE	MG273032	2018-Jun
+PUBDATE	MG273033	2018-Jun
+PUBDATE	MG273034	2018-Jun
+PUBDATE	KX457503	2017-Jan
+PUBDATE	KX457504	2017-Jan
+PUBDATE	KX457505	2017-Jan
+PUBDATE	KX457506	2017-Jan
+PUBDATE	KX457507	2017-Jan
+PUBDATE	KX457508	2017-Jan
+PUBDATE	KX457509	2017-Jan
+PUBDATE	KX457510	2017-Jan
+PUBDATE	KX457511	2017-Jan
+PUBDATE	KX457512	2017-Jan
+PUBDATE	KX457513	2017-Jan
+PUBDATE	KX457514	2017-Jan
+PUBDATE	KX457515	2017-Jan
+PUBDATE	KX457516	2017-Jan
+PUBDATE	KX457517	2017-Jan
+PUBDATE	KX457518	2017-Jan
+PUBDATE	KX457519	2017-Jan
+PUBDATE	KX457520	2017-Jan
+PUBDATE	KX457521	2017-Jan
+PUBDATE	KX457522	2017-Jan
+PUBDATE	KX457523	2017-Jan
+PUBDATE	KX457524	2017-Jan
+PUBDATE	KX457525	2017-Jan
+PUBDATE	KX457526	2017-Jan
+PUBDATE	KX457527	2017-Jan
+PUBDATE	KX457528	2017-Jan
+PUBDATE	KX457529	2017-Jan
+PUBDATE	KX457530	2017-Jan
+PUBDATE	KX457531	2017-Jan
+PUBDATE	KX457532	2017-Jan
+PUBDATE	KX457533	2017-Jan
+PUBDATE	KX457534	2017-Jan
+PUBDATE	KX457535	2017-Jan
+PUBDATE	KX457536	2017-Jan
+PUBDATE	KX457537	2017-Jan
+PUBDATE	KX457538	2017-Jan
+PUBDATE	KX457539	2017-Jan
+PUBDATE	KX457540	2017-Jan
+PUBDATE	KX457541	2017-Jan
+PUBDATE	KX457542	2017-Jan
+PUBDATE	KX457543	2017-Jan
+PUBDATE	KX457544	2017-Jan
+PUBDATE	KX457545	2017-Jan
+PUBDATE	KX457546	2017-Jan
+PUBDATE	KX457547	2017-Jan
+PUBDATE	KX457548	2017-Jan
+PUBDATE	KX457549	2017-Jan
+PUBDATE	KX457550	2017-Jan
+PUBDATE	KX457551	2017-Jan
+PUBDATE	KX457552	2017-Jan
+PUBDATE	KX457553	2017-Jan
+PUBDATE	KX457554	2017-Jan
+PUBDATE	KX457555	2017-Jan
+PUBDATE	KX457556	2017-Jan
+PUBDATE	KX457557	2017-Jan
+PUBDATE	KX457558	2017-Jan
+PUBDATE	KX457559	2017-Jan
+PUBDATE	KX457560	2017-Jan
+PUBDATE	KX457561	2017-Jan
+PUBDATE	KX457562	2017-Jan
+PUBDATE	KX457563	2017-Jan
+PUBDATE	KX457564	2017-Jan
+PUBDATE	KX457565	2017-Jan
+PUBDATE	KX457566	2017-Jan
+PUBDATE	KX457567	2017-Jan
+PUBDATE	KX457568	2017-Jan
+PUBDATE	KX457569	2017-Jan
+PUBDATE	KX457570	2017-Jan
+PUBDATE	KX457571	2017-Jan
+PUBDATE	KX457572	2017-Jan
+PUBDATE	KX457573	2017-Jan
+PUBDATE	KX457574	2017-Jan
+PUBDATE	KX457575	2017-Jan
+PUBDATE	KX457576	2017-Jan
+PUBDATE	KX457577	2017-Jan
+PUBDATE	MG273035	2018-Jun
+PUBDATE	MG273036	2018-Jun
+PUBDATE	MG273037	2018-Jun
+PUBDATE	MG273038	2018-Jun
+PUBDATE	MG273039	2018-Jun
+PUBDATE	MG273040	2018-Jun
+PUBDATE	MG273041	2018-Jun
+PUBDATE	MG273042	2018-Jun
+PUBDATE	MG273043	2018-Jun
+PUBDATE	MG273044	2018-Jun
+PUBDATE	MG273045	2018-Jun
+PUBDATE	MG273046	2018-Jun
+PUBDATE	MG273047	2018-Jun
+PUBDATE	MG273048	2018-Jun
+PUBDATE	MG273049	2018-Jun
+PUBDATE	MG273050	2018-Jun
+PUBDATE	MG273051	2018-Jun
+PUBDATE	MG273052	2018-Jun
+PUBDATE	MG273053	2018-Jun
+PUBDATE	MG273054	2018-Jun
+PUBDATE	MG273055	2018-Jun
+PUBDATE	MG273056	2018-Jun
+PUBDATE	MG273057	2018-Jun
+PUBDATE	MG273058	2018-Jun
+PUBDATE	MG273059	2018-Jun
+PUBDATE	MG273060	2018-Jun
+PUBDATE	MG273061	2018-Jun
+PUBDATE	MG273062	2018-Jun
+PUBDATE	MG273063	2018-Jun
+PUBDATE	MG273064	2018-Jun
+PUBDATE	MG273065	2018-Jun
+PUBDATE	MG273066	2018-Jun
+PUBDATE	MG273067	2018-Jun
+PUBDATE	MG273068	2018-Jun
+PUBDATE	MG273069	2018-Jun
+PUBDATE	MG273070	2018-Jun
+PUBDATE	MG273071	2018-Jun
+PUBDATE	MG273072	2018-Jun
+PUBDATE	MG273073	2018-Jun
+PUBDATE	MG273074	2018-Jun
+PUBDATE	MG273075	2018-Jun
+PUBDATE	MG273076	2018-Jun
+PUBDATE	MG273077	2018-Jun
+PUBDATE	MG273078	2018-Jun
+PUBDATE	MG273079	2018-Jun
+PUBDATE	MG273080	2018-Jun
+PUBDATE	MG273081	2018-Jun
+PUBDATE	MG273082	2018-Jun
+PUBDATE	MG273083	2018-Jun
+PUBDATE	MG273084	2018-Jun
+PUBDATE	MG273085	2018-Jun
+PUBDATE	MG273086	2018-Jun
+PUBDATE	MG273087	2018-Jun
+PUBDATE	MG273088	2018-Jun
+PUBDATE	MG273089	2018-Jun
+PUBDATE	MG273090	2018-Jun
+PUBDATE	MG273091	2018-Jun
+PUBDATE	MG273092	2018-Jun
+PUBDATE	MG273093	2018-Jun
+PUBDATE	MG273094	2018-Jun
+PUBDATE	MG273095	2018-Jun
+PUBDATE	MG273096	2018-Jun
+PUBDATE	MG273097	2018-Jun
+PUBDATE	MG273098	2018-Jun
+PUBDATE	MG273099	2018-Jun
+PUBDATE	MG273100	2018-Jun
+PUBDATE	MG273101	2018-Jun
+PUBDATE	MG273102	2018-Jun
+PUBDATE	MG273103	2018-Jun
+PUBDATE	MG273104	2018-Jun
+PUBDATE	MG273105	2018-Jun
+PUBDATE	MG273106	2018-Jun
+PUBDATE	MG273107	2018-Jun
+PUBDATE	MG273108	2018-Jun
+PUBDATE	MG273109	2018-Jun
+PUBDATE	MG273110	2018-Jun
+PUBDATE	MG273111	2018-Jun
+PUBDATE	MG273112	2018-Jun
+PUBDATE	MG273113	2018-Jun
+PUBDATE	MG273114	2018-Jun
+PUBDATE	MG273115	2018-Jun
+PUBDATE	MG273116	2018-Jun
+PUBDATE	MG273117	2018-Jun
+PUBDATE	MG273118	2018-Jun
+PUBDATE	MG273119	2018-Jun
+PUBDATE	MG273120	2018-Jun
+PUBDATE	MG273121	2018-Jun
+PUBDATE	MG273122	2018-Jun
+PUBDATE	MG273123	2018-Jun
+PUBDATE	MG273124	2018-Jun
+PUBDATE	MG273125	2018-Jun
+PUBDATE	MG273126	2018-Jun
+PUBDATE	MG273127	2018-Jun
+PUBDATE	MG273128	2018-Jun
+PUBDATE	MG273129	2018-Jun
+PUBDATE	MG273130	2018-Jun
+PUBDATE	MG273131	2018-Jun
+PUBDATE	MG273132	2018-Jun
+PUBDATE	MG273133	2018-Jun
+PUBDATE	MG273134	2018-Jun
+PUBDATE	MG273135	2018-Jun
+PUBDATE	HQ873562	2011-Feb-11
+PUBDATE	JX987470	2016-Mar
+PUBDATE	KX457578	2017-Jan
+PUBDATE	KX457579	2017-Jan
+PUBDATE	KX457580	2017-Jan
+PUBDATE	KX457581	2017-Jan
+PUBDATE	KX457582	2017-Jan
+PUBDATE	KX457583	2017-Jan
+PUBDATE	KX457584	2017-Jan
+PUBDATE	KX457585	2017-Jan
+PUBDATE	KX457586	2017-Jan
+PUBDATE	KX457587	2017-Jan
+PUBDATE	KX457588	2017-Jan
+PUBDATE	KX457589	2017-Jan
+PUBDATE	KX457590	2017-Jan
+PUBDATE	KX457591	2017-Jan
+PUBDATE	KX457592	2017-Jan
+PUBDATE	KX457593	2017-Jan
+PUBDATE	KX457594	2017-Jan
+PUBDATE	MT419299	2020-Nov
+PUBDATE	MT419300	2020-Nov
+PUBDATE	MT419301	2020-Nov
+PUBDATE	MT419302	2020-Nov
+PUBDATE	MT419303	2020-Nov
+PUBDATE	MT419304	2020-Nov
+PUBDATE	MT419305	2020-Nov
+PUBDATE	MT419306	2020-Nov
+PUBDATE	MT419307	2020-Nov
+PUBDATE	MT419308	2020-Nov
+PUBDATE	MT419309	2020-Nov
+PUBDATE	MT419310	2020-Nov
+PUBDATE	MT419311	2020-Nov
+PUBDATE	MT419312	2020-Nov
+PUBDATE	MT419313	2020-Nov
+PUBDATE	MT419314	2020-Nov
+PUBDATE	MT419315	2020-Nov
+PUBDATE	MT419316	2020-Nov
+PUBDATE	MT419317	2020-Nov
+PUBDATE	MT419318	2020-Nov
+PUBDATE	MT419319	2020-Nov
+PUBDATE	MT419320	2020-Nov
+PUBDATE	MT419321	2020-Nov
+PUBDATE	MT419322	2020-Nov
+PUBDATE	MT419323	2020-Nov
+PUBDATE	MT419324	2020-Nov
+PUBDATE	MT419325	2020-Nov
+PUBDATE	MT419326	2020-Nov
+PUBDATE	MT419327	2020-Nov
+PUBDATE	MT419328	2020-Nov
+PUBDATE	MT419329	2020-Nov
+PUBDATE	MT419330	2020-Nov
+PUBDATE	MT419331	2020-Nov
+PUBDATE	MT419332	2020-Nov
+PUBDATE	MT419333	2020-Nov
+PUBDATE	MT419334	2020-Nov
+PUBDATE	MT419335	2020-Nov
+PUBDATE	MT419336	2020-Nov
+PUBDATE	MT419337	2020-Nov
+PUBDATE	MT419338	2020-Nov
+PUBDATE	MT419339	2020-Nov
+PUBDATE	MT419340	2020-Nov
+PUBDATE	MT419341	2020-Nov
+PUBDATE	MT419342	2020-Nov
+PUBDATE	MT419343	2020-Nov
+PUBDATE	MT419344	2020-Nov
+PUBDATE	MT419345	2020-Nov
+PUBDATE	MT419346	2020-Nov
+PUBDATE	MT419347	2020-Nov
+PUBDATE	MT419348	2020-Nov
+PUBDATE	MT419349	2020-Nov
+PUBDATE	MT419350	2020-Nov
+PUBDATE	MT419351	2020-Nov
+PUBDATE	MT419352	2020-Nov
+PUBDATE	MT419353	2020-Nov
+PUBDATE	MT419354	2020-Nov
+PUBDATE	MT419355	2020-Nov
+PUBDATE	MT419356	2020-Nov
+PUBDATE	MT419357	2020-Nov
+PUBDATE	MT419358	2020-Nov
+PUBDATE	KX457619	2017-Jan
+PUBDATE	KX457620	2017-Jan
+PUBDATE	KX457621	2017-Jan
+PUBDATE	KX457622	2017-Jan
+PUBDATE	KX457623	2017-Jan
+PUBDATE	KX457624	2017-Jan
+PUBDATE	KX457625	2017-Jan
+PUBDATE	KX457626	2017-Jan
+PUBDATE	KX457627	2017-Jan
+PUBDATE	KX457628	2017-Jan
+PUBDATE	KX457629	2017-Jan
+PUBDATE	KX457630	2017-Jan
+PUBDATE	KX457631	2017-Jan
+PUBDATE	KX457632	2017-Jan
+PUBDATE	KX457633	2017-Jan
+PUBDATE	KX457634	2017-Jan
+PUBDATE	KX457635	2017-Jan
+PUBDATE	KX457636	2017-Jan
+PUBDATE	KX457637	2017-Jan
+PUBDATE	KX457638	2017-Jan
+PUBDATE	KX457639	2017-Jan
+PUBDATE	KX457640	2017-Jan
+PUBDATE	KX457641	2017-Jan
+PUBDATE	KX457642	2017-Jan
+PUBDATE	KX457643	2017-Jan
+PUBDATE	KX457644	2017-Jan
+PUBDATE	KX457645	2017-Jan
+PUBDATE	KX457646	2017-Jan
+PUBDATE	KX457647	2017-Jan
+PUBDATE	KX457648	2017-Jan
+PUBDATE	KX457649	2017-Jan
+PUBDATE	KX457650	2017-Jan
+PUBDATE	KX457651	2017-Jan
+PUBDATE	KX457652	2017-Jan
+PUBDATE	KX457653	2017-Jan
+PUBDATE	KX457654	2017-Jan
+PUBDATE	KX457655	2017-Jan
+PUBDATE	KX457656	2017-Jan
+PUBDATE	KX457657	2017-Jan
+PUBDATE	KX457658	2017-Jan
+PUBDATE	KX457659	2017-Jan
+PUBDATE	KX457660	2017-Jan
+PUBDATE	KX457661	2017-Jan
+PUBDATE	KX457662	2017-Jan
+PUBDATE	KX457663	2017-Jan
+PUBDATE	KX457664	2017-Jan
+PUBDATE	KX457665	2017-Jan
+PUBDATE	KX457666	2017-Jan
+PUBDATE	KX457667	2017-Jan
+PUBDATE	KX457668	2017-Jan
+PUBDATE	KY686210	2017-Mar-23
+PUBDATE	KJ676776	2015-Feb-14
+PUBDATE	KJ676787	2015-Feb-14
+PUBDATE	KJ676781	2015-Feb-14
+PUBDATE	KJ676777	2015-Feb-14
+PUBDATE	KJ676789	2015-Feb-14
+PUBDATE	KJ676778	2015-Feb-14
+PUBDATE	KJ676790	2015-Feb-14
+PUBDATE	KJ676774	2015-Feb-14
+PUBDATE	KJ676782	2015-Feb-14
+PUBDATE	KJ676779	2015-Feb-14
+PUBDATE	KJ676786	2015-Feb-14
+PUBDATE	KJ676784	2015-Feb-14
+PUBDATE	KJ676788	2015-Feb-14
+PUBDATE	KJ676775	2015-Feb-14
+PUBDATE	KJ676780	2015-Feb-14
+PUBDATE	KJ676785	2015-Feb-14
+PUBDATE	KJ676783	2015-Feb-14
+PUBDATE	HM346881	2011-Jan-10
+PUBDATE	GQ301868	2010-Oct
+PUBDATE	GQ301869	2010-Oct
+PUBDATE	GU592219	2010-Oct
+PUBDATE	GQ301870	2010-Oct
+PUBDATE	GQ301863	2010-Oct
+PUBDATE	GQ301871	2010-Oct
+PUBDATE	GQ301872	2010-Oct
+PUBDATE	GQ301873	2010-Oct
+PUBDATE	GQ301874	2010-Oct
+PUBDATE	GQ301875	2010-Oct
+PUBDATE	GQ301876	2010-Oct
+PUBDATE	GQ301877	2010-Oct
+PUBDATE	GQ301878	2010-Oct
+PUBDATE	GQ301864	2010-Oct
+PUBDATE	GQ301865	2010-Oct
+PUBDATE	GQ301866	2010-Oct
+PUBDATE	GQ301867	2010-Oct
+PUBDATE	MH448947	2018-Aug-3
+PUBDATE	MH448948	2018-Aug-3
+PUBDATE	MH448949	2018-Aug-3
+PUBDATE	MH448950	2018-Aug-3
+PUBDATE	MH448951	2018-Aug-3
+PUBDATE	MH448952	2018-Aug-3
+PUBDATE	MH448953	2018-Aug-3
+PUBDATE	MH448954	2018-Aug-3
+PUBDATE	MH448955	2018-Aug-3
+PUBDATE	MH448956	2018-Aug-3
+PUBDATE	MH448957	2018-Aug-3
+PUBDATE	MH448958	2018-Aug-3
+PUBDATE	MH448959	2018-Aug-3
+PUBDATE	MH448960	2018-Aug-3
+PUBDATE	MH448961	2018-Aug-3
+PUBDATE	MH448962	2018-Aug-3
+PUBDATE	MH448963	2018-Aug-3
+PUBDATE	MH448964	2018-Aug-3
+PUBDATE	MH448965	2018-Aug-3
+PUBDATE	MH448966	2018-Aug-3
+PUBDATE	MH448967	2018-Aug-3
+PUBDATE	MH448968	2018-Aug-3
+PUBDATE	MH448969	2018-Aug-3
+PUBDATE	MH448970	2018-Aug-3
+PUBDATE	MH448971	2018-Aug-3
+PUBDATE	MH448972	2018-Aug-3
+PUBDATE	MH448973	2018-Aug-3
+PUBDATE	MH448974	2018-Aug-3
+PUBDATE	MH448975	2018-Aug-3
+PUBDATE	MH448976	2018-Aug-3
+PUBDATE	MH448977	2018-Aug-3
+PUBDATE	MH448978	2018-Aug-3
+PUBDATE	MH448979	2018-Aug-3
+PUBDATE	MH448980	2018-Aug-3
+PUBDATE	KU521433	2016-Apr
+PUBDATE	KU521423	2016-Apr
+PUBDATE	KU521465	2016-Apr
+PUBDATE	KU521476	2016-Apr
+PUBDATE	KU521466	2016-Apr
+PUBDATE	KU131371	2016-Mar
+PUBDATE	KU521432	2016-Apr
+PUBDATE	KU131372	2016-Mar
+PUBDATE	KU131373	2016-Mar
+PUBDATE	KU131374	2016-Mar
+PUBDATE	KU521467	2016-Apr
+PUBDATE	KU131375	2016-Mar
+PUBDATE	KU521402	2016-Apr
+PUBDATE	KU521457	2016-Apr
+PUBDATE	KU521424	2016-Apr
+PUBDATE	KU131376	2016-Mar
+PUBDATE	KU521458	2016-Apr
+PUBDATE	KU521420	2016-Apr
+PUBDATE	KU521403	2016-Apr
+PUBDATE	KU521468	2016-Apr
+PUBDATE	KU521405	2016-Apr
+PUBDATE	KU521404	2016-Apr
+PUBDATE	KU131377	2016-Mar
+PUBDATE	KU131378	2016-Mar
+PUBDATE	KU521425	2016-Apr
+PUBDATE	KU521437	2016-Apr
+PUBDATE	KU521438	2016-Apr
+PUBDATE	MH448981	2018-Aug-3
+PUBDATE	MH448982	2018-Aug-3
+PUBDATE	MH448983	2018-Aug-3
+PUBDATE	MH448984	2018-Aug-3
+PUBDATE	MH448985	2018-Aug-3
+PUBDATE	MH448986	2018-Aug-3
+PUBDATE	MH448987	2018-Aug-3
+PUBDATE	MH448988	2018-Aug-3
+PUBDATE	MH448989	2018-Aug-3
+PUBDATE	MH448990	2018-Aug-3
+PUBDATE	MH448991	2018-Aug-3
+PUBDATE	MH448992	2018-Aug-3
+PUBDATE	MH448993	2018-Aug-3
+PUBDATE	MH448994	2018-Aug-3
+PUBDATE	MH448995	2018-Aug-3
+PUBDATE	MH448996	2018-Aug-3
+PUBDATE	MH448997	2018-Aug-3
+PUBDATE	MH448998	2018-Aug-3
+PUBDATE	MH448999	2018-Aug-3
+PUBDATE	MH449000	2018-Aug-3
+PUBDATE	MH449001	2018-Aug-3
+PUBDATE	MH449002	2018-Aug-3
+PUBDATE	MH449003	2018-Aug-3
+PUBDATE	MH449004	2018-Aug-3
+PUBDATE	MH449005	2018-Aug-3
+PUBDATE	MH449006	2018-Aug-3
+PUBDATE	MH449007	2018-Aug-3
+PUBDATE	MH449008	2018-Aug-3
+PUBDATE	MH449009	2018-Aug-3
+PUBDATE	MH449010	2018-Aug-3
+PUBDATE	MH449011	2018-Aug-3
+PUBDATE	MH449012	2018-Aug-3
+PUBDATE	MH449013	2018-Aug-3
+PUBDATE	MH449014	2018-Aug-3
+PUBDATE	MH449015	2018-Aug-3
+PUBDATE	MH449016	2018-Aug-3
+PUBDATE	MH449017	2018-Aug-3
+PUBDATE	MH449018	2018-Aug-3
+PUBDATE	MH449019	2018-Aug-3
+PUBDATE	MH449020	2018-Aug-3
+PUBDATE	MH449021	2018-Aug-3
+PUBDATE	MH449022	2018-Aug-3
+PUBDATE	MH449023	2018-Aug-3
+PUBDATE	MH449024	2018-Aug-3
+PUBDATE	MH449500	2018-Aug-3
+PUBDATE	MH449501	2018-Aug-3
+PUBDATE	MH449502	2018-Aug-3
+PUBDATE	MH449503	2018-Aug-3
+PUBDATE	MH449504	2018-Aug-3
+PUBDATE	MH449505	2018-Aug-3
+PUBDATE	MH449506	2018-Aug-3
+PUBDATE	MH449507	2018-Aug-3
+PUBDATE	MH449508	2018-Aug-3
+PUBDATE	MH449509	2018-Aug-3
+PUBDATE	MH449510	2018-Aug-3
+PUBDATE	MH449511	2018-Aug-3
+PUBDATE	MH449512	2018-Aug-3
+PUBDATE	MH449513	2018-Aug-3
+PUBDATE	MH449514	2018-Aug-3
+PUBDATE	MH449515	2018-Aug-3
+PUBDATE	MH449516	2018-Aug-3
+PUBDATE	MH449517	2018-Aug-3
+PUBDATE	MH449518	2018-Aug-3
+PUBDATE	MH449519	2018-Aug-3
+PUBDATE	MH449520	2018-Aug-3
+PUBDATE	MH449521	2018-Aug-3
+PUBDATE	MH449522	2018-Aug-3
+PUBDATE	MH449523	2018-Aug-3
+PUBDATE	MH449524	2018-Aug-3
+PUBDATE	MH449525	2018-Aug-3
+PUBDATE	MH449526	2018-Aug-3
+PUBDATE	MH449527	2018-Aug-3
+PUBDATE	MH449528	2018-Aug-3
+PUBDATE	MH449529	2018-Aug-3
+PUBDATE	MH449530	2018-Aug-3
+PUBDATE	MH449531	2018-Aug-3
+PUBDATE	MH449532	2018-Aug-3
+PUBDATE	MH449533	2018-Aug-3
+PUBDATE	MH449534	2018-Aug-3
+PUBDATE	MH449535	2018-Aug-3
+PUBDATE	MH449536	2018-Aug-3
+PUBDATE	MH449537	2018-Aug-3
+PUBDATE	MH449538	2018-Aug-3
+PUBDATE	MH449539	2018-Aug-3
+PUBDATE	MH449540	2018-Aug-3
+PUBDATE	MH449541	2018-Aug-3
+PUBDATE	MH449542	2018-Aug-3
+PUBDATE	MH449543	2018-Aug-3
+PUBDATE	MH449544	2018-Aug-3
+PUBDATE	MH449545	2018-Aug-3
+PUBDATE	MH449546	2018-Aug-3
+PUBDATE	MH449547	2018-Aug-3
+PUBDATE	MH449548	2018-Aug-3
+PUBDATE	MH449549	2018-Aug-3
+PUBDATE	MH449550	2018-Aug-3
+PUBDATE	MH449551	2018-Aug-3
+PUBDATE	MH449552	2018-Aug-3
+PUBDATE	MH449553	2018-Aug-3
+PUBDATE	MH449025	2018-Aug-3
+PUBDATE	MH449026	2018-Aug-3
+PUBDATE	MH449027	2018-Aug-3
+PUBDATE	MH449028	2018-Aug-3
+PUBDATE	MH449029	2018-Aug-3
+PUBDATE	MH449030	2018-Aug-3
+PUBDATE	MH449031	2018-Aug-3
+PUBDATE	MH449032	2018-Aug-3
+PUBDATE	MH449033	2018-Aug-3
+PUBDATE	MH449034	2018-Aug-3
+PUBDATE	MH449035	2018-Aug-3
+PUBDATE	MH449036	2018-Aug-3
+PUBDATE	MH449037	2018-Aug-3
+PUBDATE	MH449038	2018-Aug-3
+PUBDATE	MH449039	2018-Aug-3
+PUBDATE	MH449040	2018-Aug-3
+PUBDATE	MH449041	2018-Aug-3
+PUBDATE	MH449042	2018-Aug-3
+PUBDATE	MH449043	2018-Aug-3
+PUBDATE	MH449044	2018-Aug-3
+PUBDATE	MH449045	2018-Aug-3
+PUBDATE	MH449046	2018-Aug-3
+PUBDATE	MH449047	2018-Aug-3
+PUBDATE	MH449048	2018-Aug-3
+PUBDATE	MH449049	2018-Aug-3
+PUBDATE	MH449050	2018-Aug-3
+PUBDATE	MH449051	2018-Aug-3
+PUBDATE	MH449052	2018-Aug-3
+PUBDATE	MH449053	2018-Aug-3
+PUBDATE	MH449054	2018-Aug-3
+PUBDATE	MH449055	2018-Aug-3
+PUBDATE	MH449056	2018-Aug-3
+PUBDATE	MH449057	2018-Aug-3
+PUBDATE	MH449058	2018-Aug-3
+PUBDATE	MH449059	2018-Aug-3
+PUBDATE	MH449060	2018-Aug-3
+PUBDATE	MH449061	2018-Aug-3
+PUBDATE	MH449062	2018-Aug-3
+PUBDATE	MH449063	2018-Aug-3
+PUBDATE	MH449064	2018-Aug-3
+PUBDATE	MH449065	2018-Aug-3
+PUBDATE	MH449554	2018-Aug-3
+PUBDATE	MH449066	2018-Aug-3
+PUBDATE	MH449067	2018-Aug-3
+PUBDATE	MH449068	2018-Aug-3
+PUBDATE	MH449069	2018-Aug-3
+PUBDATE	MH449070	2018-Aug-3
+PUBDATE	MH449071	2018-Aug-3
+PUBDATE	MH449072	2018-Aug-3
+PUBDATE	MH449073	2018-Aug-3
+PUBDATE	MH449074	2018-Aug-3
+PUBDATE	MH449075	2018-Aug-3
+PUBDATE	MH449076	2018-Aug-3
+PUBDATE	MH449077	2018-Aug-3
+PUBDATE	MH449078	2018-Aug-3
+PUBDATE	MH449079	2018-Aug-3
+PUBDATE	MH449080	2018-Aug-3
+PUBDATE	MH449081	2018-Aug-3
+PUBDATE	MH449082	2018-Aug-3
+PUBDATE	MH449083	2018-Aug-3
+PUBDATE	MH449084	2018-Aug-3
+PUBDATE	MH449085	2018-Aug-3
+PUBDATE	MH449086	2018-Aug-3
+PUBDATE	MH449087	2018-Aug-3
+PUBDATE	MH449088	2018-Aug-3
+PUBDATE	MH449089	2018-Aug-3
+PUBDATE	MH449090	2018-Aug-3
+PUBDATE	MH449091	2018-Aug-3
+PUBDATE	MH449092	2018-Aug-3
+PUBDATE	MH449093	2018-Aug-3
+PUBDATE	MH449094	2018-Aug-3
+PUBDATE	MH449095	2018-Aug-3
+PUBDATE	MH449096	2018-Aug-3
+PUBDATE	MH449097	2018-Aug-3
+PUBDATE	GU592216	2010-Oct
+PUBDATE	KU521439	2016-Apr
+PUBDATE	MH449098	2018-Aug-3
+PUBDATE	MH449099	2018-Aug-3
+PUBDATE	MH449100	2018-Aug-3
+PUBDATE	MH449101	2018-Aug-3
+PUBDATE	MH449102	2018-Aug-3
+PUBDATE	MH449103	2018-Aug-3
+PUBDATE	MH449104	2018-Aug-3
+PUBDATE	MH449105	2018-Aug-3
+PUBDATE	MH449106	2018-Aug-3
+PUBDATE	MH449107	2018-Aug-3
+PUBDATE	GQ301881	2010-Oct
+PUBDATE	GQ301882	2010-Oct
+PUBDATE	MH449108	2018-Aug-3
+PUBDATE	GU592218	2010-Oct
+PUBDATE	MH449109	2018-Aug-3
+PUBDATE	MH449110	2018-Aug-3
+PUBDATE	MH449111	2018-Aug-3
+PUBDATE	MH449112	2018-Aug-3
+PUBDATE	MH449113	2018-Aug-3
+PUBDATE	MH449114	2018-Aug-3
+PUBDATE	MH449115	2018-Aug-3
+PUBDATE	MH449116	2018-Aug-3
+PUBDATE	MH449117	2018-Aug-3
+PUBDATE	MH449118	2018-Aug-3
+PUBDATE	MH449119	2018-Aug-3
+PUBDATE	GQ301879	2010-Oct
+PUBDATE	MH449120	2018-Aug-3
+PUBDATE	MH449121	2018-Aug-3
+PUBDATE	MH449122	2018-Aug-3
+PUBDATE	MH449123	2018-Aug-3
+PUBDATE	MH449124	2018-Aug-3
+PUBDATE	MH449125	2018-Aug-3
+PUBDATE	MH449126	2018-Aug-3
+PUBDATE	MH449127	2018-Aug-3
+PUBDATE	MH449128	2018-Aug-3
+PUBDATE	MH449129	2018-Aug-3
+PUBDATE	MH449130	2018-Aug-3
+PUBDATE	MH449131	2018-Aug-3
+PUBDATE	HM346885	2011-Jan-10
+PUBDATE	GQ301880	2010-Oct
+PUBDATE	HM346889	2011-Jan-10
+PUBDATE	MH449132	2018-Aug-3
+PUBDATE	MH449133	2018-Aug-3
+PUBDATE	MH449134	2018-Aug-3
+PUBDATE	MH449135	2018-Aug-3
+PUBDATE	MH449136	2018-Aug-3
+PUBDATE	MH449137	2018-Aug-3
+PUBDATE	MH449138	2018-Aug-3
+PUBDATE	MH449139	2018-Aug-3
+PUBDATE	MH449140	2018-Aug-3
+PUBDATE	MH449141	2018-Aug-3
+PUBDATE	MH449142	2018-Aug-3
+PUBDATE	MH449143	2018-Aug-3
+PUBDATE	MH449144	2018-Aug-3
+PUBDATE	MH449145	2018-Aug-3
+PUBDATE	MH449146	2018-Aug-3
+PUBDATE	MH449147	2018-Aug-3
+PUBDATE	MH449148	2018-Aug-3
+PUBDATE	HM346883	2011-Jan-10
+PUBDATE	HM346886	2011-Jan-10
+PUBDATE	MH449149	2018-Aug-3
+PUBDATE	MH449150	2018-Aug-3
+PUBDATE	MH449151	2018-Aug-3
+PUBDATE	MH449152	2018-Aug-3
+PUBDATE	MH449153	2018-Aug-3
+PUBDATE	MH449154	2018-Aug-3
+PUBDATE	MH449155	2018-Aug-3
+PUBDATE	MH449156	2018-Aug-3
+PUBDATE	MH449157	2018-Aug-3
+PUBDATE	MH449158	2018-Aug-3
+PUBDATE	MH449159	2018-Aug-3
+PUBDATE	MH449160	2018-Aug-3
+PUBDATE	MH449161	2018-Aug-3
+PUBDATE	MH449162	2018-Aug-3
+PUBDATE	MH449163	2018-Aug-3
+PUBDATE	MH449164	2018-Aug-3
+PUBDATE	MH449165	2018-Aug-3
+PUBDATE	MH449166	2018-Aug-3
+PUBDATE	MH449167	2018-Aug-3
+PUBDATE	MH449168	2018-Aug-3
+PUBDATE	MH449169	2018-Aug-3
+PUBDATE	MH449170	2018-Aug-3
+PUBDATE	MH449171	2018-Aug-3
+PUBDATE	MH449172	2018-Aug-3
+PUBDATE	MH449173	2018-Aug-3
+PUBDATE	MH449174	2018-Aug-3
+PUBDATE	MH449175	2018-Aug-3
+PUBDATE	MH449176	2018-Aug-3
+PUBDATE	MH449177	2018-Aug-3
+PUBDATE	MH449178	2018-Aug-3
+PUBDATE	MH449179	2018-Aug-3
+PUBDATE	MH449180	2018-Aug-3
+PUBDATE	MH449181	2018-Aug-3
+PUBDATE	MH449182	2018-Aug-3
+PUBDATE	MH449183	2018-Aug-3
+PUBDATE	MH449184	2018-Aug-3
+PUBDATE	MH449185	2018-Aug-3
+PUBDATE	MH449186	2018-Aug-3
+PUBDATE	MH449187	2018-Aug-3
+PUBDATE	MH449188	2018-Aug-3
+PUBDATE	MH449189	2018-Aug-3
+PUBDATE	MH449190	2018-Aug-3
+PUBDATE	MH449191	2018-Aug-3
+PUBDATE	MH449192	2018-Aug-3
+PUBDATE	MH449193	2018-Aug-3
+PUBDATE	MH449194	2018-Aug-3
+PUBDATE	MH449195	2018-Aug-3
+PUBDATE	MH449196	2018-Aug-3
+PUBDATE	MH449197	2018-Aug-3
+PUBDATE	MH449198	2018-Aug-3
+PUBDATE	MH449199	2018-Aug-3
+PUBDATE	MH449200	2018-Aug-3
+PUBDATE	MH449201	2018-Aug-3
+PUBDATE	MH449202	2018-Aug-3
+PUBDATE	MH449203	2018-Aug-3
+PUBDATE	MH449204	2018-Aug-3
+PUBDATE	MH449205	2018-Aug-3
+PUBDATE	MH449206	2018-Aug-3
+PUBDATE	MH449207	2018-Aug-3
+PUBDATE	MH449208	2018-Aug-3
+PUBDATE	MH449209	2018-Aug-3
+PUBDATE	MH449210	2018-Aug-3
+PUBDATE	MH449211	2018-Aug-3
+PUBDATE	MH449212	2018-Aug-3
+PUBDATE	MH449213	2018-Aug-3
+PUBDATE	MH449214	2018-Aug-3
+PUBDATE	MH449215	2018-Aug-3
+PUBDATE	MH449216	2018-Aug-3
+PUBDATE	MH449217	2018-Aug-3
+PUBDATE	MH449218	2018-Aug-3
+PUBDATE	MH449219	2018-Aug-3
+PUBDATE	MH449220	2018-Aug-3
+PUBDATE	MH449221	2018-Aug-3
+PUBDATE	MH449222	2018-Aug-3
+PUBDATE	MH449223	2018-Aug-3
+PUBDATE	MH449224	2018-Aug-3
+PUBDATE	MH449225	2018-Aug-3
+PUBDATE	MH449226	2018-Aug-3
+PUBDATE	MH449227	2018-Aug-3
+PUBDATE	MH449228	2018-Aug-3
+PUBDATE	MH449229	2018-Aug-3
+PUBDATE	MH449230	2018-Aug-3
+PUBDATE	MH449231	2018-Aug-3
+PUBDATE	MH449232	2018-Aug-3
+PUBDATE	MH449233	2018-Aug-3
+PUBDATE	MH449234	2018-Aug-3
+PUBDATE	MH449235	2018-Aug-3
+PUBDATE	MH449236	2018-Aug-3
+PUBDATE	MH449237	2018-Aug-3
+PUBDATE	MH449238	2018-Aug-3
+PUBDATE	MH449239	2018-Aug-3
+PUBDATE	MH449240	2018-Aug-3
+PUBDATE	MH449241	2018-Aug-3
+PUBDATE	MH449242	2018-Aug-3
+PUBDATE	MH449243	2018-Aug-3
+PUBDATE	MH449244	2018-Aug-3
+PUBDATE	MH449245	2018-Aug-3
+PUBDATE	MH449246	2018-Aug-3
+PUBDATE	MH449247	2018-Aug-3
+PUBDATE	MH449248	2018-Aug-3
+PUBDATE	MH449249	2018-Aug-3
+PUBDATE	MH449250	2018-Aug-3
+PUBDATE	MH449251	2018-Aug-3
+PUBDATE	MH449252	2018-Aug-3
+PUBDATE	MH449253	2018-Aug-3
+PUBDATE	MH449254	2018-Aug-3
+PUBDATE	MH449255	2018-Aug-3
+PUBDATE	MH449256	2018-Aug-3
+PUBDATE	MH449257	2018-Aug-3
+PUBDATE	MH449258	2018-Aug-3
+PUBDATE	MH449259	2018-Aug-3
+PUBDATE	MH449260	2018-Aug-3
+PUBDATE	MH449261	2018-Aug-3
+PUBDATE	MH449262	2018-Aug-3
+PUBDATE	MH449263	2018-Aug-3
+PUBDATE	MH449264	2018-Aug-3
+PUBDATE	MH449265	2018-Aug-3
+PUBDATE	MH449266	2018-Aug-3
+PUBDATE	MH449267	2018-Aug-3
+PUBDATE	MH449268	2018-Aug-3
+PUBDATE	MH449269	2018-Aug-3
+PUBDATE	MH449270	2018-Aug-3
+PUBDATE	MH449271	2018-Aug-3
+PUBDATE	MH449272	2018-Aug-3
+PUBDATE	MH449273	2018-Aug-3
+PUBDATE	MH449274	2018-Aug-3
+PUBDATE	MH449555	2018-Aug-3
+PUBDATE	MH449275	2018-Aug-3
+PUBDATE	MH449276	2018-Aug-3
+PUBDATE	MH449277	2018-Aug-3
+PUBDATE	MH449278	2018-Aug-3
+PUBDATE	MH449279	2018-Aug-3
+PUBDATE	MH449280	2018-Aug-3
+PUBDATE	MH449281	2018-Aug-3
+PUBDATE	MH449282	2018-Aug-3
+PUBDATE	MH449283	2018-Aug-3
+PUBDATE	MH449284	2018-Aug-3
+PUBDATE	MH449285	2018-Aug-3
+PUBDATE	MH449286	2018-Aug-3
+PUBDATE	MH449287	2018-Aug-3
+PUBDATE	MH449288	2018-Aug-3
+PUBDATE	MH449289	2018-Aug-3
+PUBDATE	MH449290	2018-Aug-3
+PUBDATE	MH449291	2018-Aug-3
+PUBDATE	MH449292	2018-Aug-3
+PUBDATE	MH449293	2018-Aug-3
+PUBDATE	MH449294	2018-Aug-3
+PUBDATE	MH449295	2018-Aug-3
+PUBDATE	MH449296	2018-Aug-3
+PUBDATE	MH449297	2018-Aug-3
+PUBDATE	MH449298	2018-Aug-3
+PUBDATE	MH449299	2018-Aug-3
+PUBDATE	MH449300	2018-Aug-3
+PUBDATE	MH449301	2018-Aug-3
+PUBDATE	MH449302	2018-Aug-3
+PUBDATE	MH449303	2018-Aug-3
+PUBDATE	MH449304	2018-Aug-3
+PUBDATE	MH449305	2018-Aug-3
+PUBDATE	MH449306	2018-Aug-3
+PUBDATE	MH449307	2018-Aug-3
+PUBDATE	MH449308	2018-Aug-3
+PUBDATE	MH449309	2018-Aug-3
+PUBDATE	MH449310	2018-Aug-3
+PUBDATE	MH449311	2018-Aug-3
+PUBDATE	MH449312	2018-Aug-3
+PUBDATE	MH449313	2018-Aug-3
+PUBDATE	MH449314	2018-Aug-3
+PUBDATE	MH449315	2018-Aug-3
+PUBDATE	MH449316	2018-Aug-3
+PUBDATE	MH449317	2018-Aug-3
+PUBDATE	MH449318	2018-Aug-3
+PUBDATE	MH449319	2018-Aug-3
+PUBDATE	MH449320	2018-Aug-3
+PUBDATE	MH449321	2018-Aug-3
+PUBDATE	MH449322	2018-Aug-3
+PUBDATE	MH449323	2018-Aug-3
+PUBDATE	MH449324	2018-Aug-3
+PUBDATE	MH449325	2018-Aug-3
+PUBDATE	MH449326	2018-Aug-3
+PUBDATE	MH449327	2018-Aug-3
+PUBDATE	MH449328	2018-Aug-3
+PUBDATE	MH449329	2018-Aug-3
+PUBDATE	MH449330	2018-Aug-3
+PUBDATE	MH449331	2018-Aug-3
+PUBDATE	MH449332	2018-Aug-3
+PUBDATE	MH449333	2018-Aug-3
+PUBDATE	MH449334	2018-Aug-3
+PUBDATE	MH449335	2018-Aug-3
+PUBDATE	MH449336	2018-Aug-3
+PUBDATE	MH449337	2018-Aug-3
+PUBDATE	MH449338	2018-Aug-3
+PUBDATE	MH449339	2018-Aug-3
+PUBDATE	MH449340	2018-Aug-3
+PUBDATE	MH449341	2018-Aug-3
+PUBDATE	MH449342	2018-Aug-3
+PUBDATE	MH449343	2018-Aug-3
+PUBDATE	MH449344	2018-Aug-3
+PUBDATE	MH449345	2018-Aug-3
+PUBDATE	MH449346	2018-Aug-3
+PUBDATE	MH449347	2018-Aug-3
+PUBDATE	MH449348	2018-Aug-3
+PUBDATE	MH449349	2018-Aug-3
+PUBDATE	MH449350	2018-Aug-3
+PUBDATE	MH449351	2018-Aug-3
+PUBDATE	MH449352	2018-Aug-3
+PUBDATE	MH449353	2018-Aug-3
+PUBDATE	MH449354	2018-Aug-3
+PUBDATE	MH449355	2018-Aug-3
+PUBDATE	MH449356	2018-Aug-3
+PUBDATE	MH449357	2018-Aug-3
+PUBDATE	MH449358	2018-Aug-3
+PUBDATE	MH449359	2018-Aug-3
+PUBDATE	MH449360	2018-Aug-3
+PUBDATE	MH449361	2018-Aug-3
+PUBDATE	MH449362	2018-Aug-3
+PUBDATE	MH449363	2018-Aug-3
+PUBDATE	MH449364	2018-Aug-3
+PUBDATE	MH449365	2018-Aug-3
+PUBDATE	MH449366	2018-Aug-3
+PUBDATE	MH449367	2018-Aug-3
+PUBDATE	MH449368	2018-Aug-3
+PUBDATE	MH449369	2018-Aug-3
+PUBDATE	MH449370	2018-Aug-3
+PUBDATE	MH449371	2018-Aug-3
+PUBDATE	MH449372	2018-Aug-3
+PUBDATE	MH449373	2018-Aug-3
+PUBDATE	MH449374	2018-Aug-3
+PUBDATE	MH449375	2018-Aug-3
+PUBDATE	MH449376	2018-Aug-3
+PUBDATE	MH449377	2018-Aug-3
+PUBDATE	MH449378	2018-Aug-3
+PUBDATE	MH449379	2018-Aug-3
+PUBDATE	MH449380	2018-Aug-3
+PUBDATE	MH449381	2018-Aug-3
+PUBDATE	MH449382	2018-Aug-3
+PUBDATE	MH449383	2018-Aug-3
+PUBDATE	MH449384	2018-Aug-3
+PUBDATE	MH449385	2018-Aug-3
+PUBDATE	MH449386	2018-Aug-3
+PUBDATE	MH449387	2018-Aug-3
+PUBDATE	MH449388	2018-Aug-3
+PUBDATE	MH449389	2018-Aug-3
+PUBDATE	MH449390	2018-Aug-3
+PUBDATE	MH449391	2018-Aug-3
+PUBDATE	MH449392	2018-Aug-3
+PUBDATE	MH449393	2018-Aug-3
+PUBDATE	MH449394	2018-Aug-3
+PUBDATE	MH449395	2018-Aug-3
+PUBDATE	MH449396	2018-Aug-3
+PUBDATE	MH449397	2018-Aug-3
+PUBDATE	MH449398	2018-Aug-3
+PUBDATE	MH449399	2018-Aug-3
+PUBDATE	MH449400	2018-Aug-3
+PUBDATE	MH449401	2018-Aug-3
+PUBDATE	MH449402	2018-Aug-3
+PUBDATE	MH449403	2018-Aug-3
+PUBDATE	MH449404	2018-Aug-3
+PUBDATE	MH449405	2018-Aug-3
+PUBDATE	MH449406	2018-Aug-3
+PUBDATE	MH449407	2018-Aug-3
+PUBDATE	MH449408	2018-Aug-3
+PUBDATE	MH449409	2018-Aug-3
+PUBDATE	MH449410	2018-Aug-3
+PUBDATE	MH449411	2018-Aug-3
+PUBDATE	MH449412	2018-Aug-3
+PUBDATE	MH449413	2018-Aug-3
+PUBDATE	MH449414	2018-Aug-3
+PUBDATE	MH449415	2018-Aug-3
+PUBDATE	MH449416	2018-Aug-3
+PUBDATE	MH449417	2018-Aug-3
+PUBDATE	MH449418	2018-Aug-3
+PUBDATE	MH449419	2018-Aug-3
+PUBDATE	MH449420	2018-Aug-3
+PUBDATE	MH449421	2018-Aug-3
+PUBDATE	MH449422	2018-Aug-3
+PUBDATE	MH449423	2018-Aug-3
+PUBDATE	MH449424	2018-Aug-3
+PUBDATE	MH449425	2018-Aug-3
+PUBDATE	MH449426	2018-Aug-3
+PUBDATE	MH449427	2018-Aug-3
+PUBDATE	MH449428	2018-Aug-3
+PUBDATE	MH449429	2018-Aug-3
+PUBDATE	MH449430	2018-Aug-3
+PUBDATE	MH449431	2018-Aug-3
+PUBDATE	MH449432	2018-Aug-3
+PUBDATE	MH449433	2018-Aug-3
+PUBDATE	MH449434	2018-Aug-3
+PUBDATE	MH449435	2018-Aug-3
+PUBDATE	MH449436	2018-Aug-3
+PUBDATE	MH449437	2018-Aug-3
+PUBDATE	MH449438	2018-Aug-3
+PUBDATE	MH449439	2018-Aug-3
+PUBDATE	MH449440	2018-Aug-3
+PUBDATE	MH449441	2018-Aug-3
+PUBDATE	MH449442	2018-Aug-3
+PUBDATE	MH449443	2018-Aug-3
+PUBDATE	MH449444	2018-Aug-3
+PUBDATE	MH449445	2018-Aug-3
+PUBDATE	MH449446	2018-Aug-3
+PUBDATE	MH449447	2018-Aug-3
+PUBDATE	MH449448	2018-Aug-3
+PUBDATE	MH449449	2018-Aug-3
+PUBDATE	MH449450	2018-Aug-3
+PUBDATE	MH449451	2018-Aug-3
+PUBDATE	MH449452	2018-Aug-3
+PUBDATE	MH449453	2018-Aug-3
+PUBDATE	MH449454	2018-Aug-3
+PUBDATE	MH449455	2018-Aug-3
+PUBDATE	MH449456	2018-Aug-3
+PUBDATE	MH449457	2018-Aug-3
+PUBDATE	MH449458	2018-Aug-3
+PUBDATE	MH449459	2018-Aug-3
+PUBDATE	MH449460	2018-Aug-3
+PUBDATE	MH449461	2018-Aug-3
+PUBDATE	MH449462	2018-Aug-3
+PUBDATE	MH449463	2018-Aug-3
+PUBDATE	MH449464	2018-Aug-3
+PUBDATE	MH449465	2018-Aug-3
+PUBDATE	MH449466	2018-Aug-3
+PUBDATE	MH449467	2018-Aug-3
+PUBDATE	MH449468	2018-Aug-3
+PUBDATE	MH449469	2018-Aug-3
+PUBDATE	MH449470	2018-Aug-3
+PUBDATE	MH449471	2018-Aug-3
+PUBDATE	MH449472	2018-Aug-3
+PUBDATE	MH449473	2018-Aug-3
+PUBDATE	MH449474	2018-Aug-3
+PUBDATE	MH449475	2018-Aug-3
+PUBDATE	GQ301883	2010-Oct
+PUBDATE	MH449476	2018-Aug-3
+PUBDATE	MH449477	2018-Aug-3
+PUBDATE	GQ301884	2010-Oct
+PUBDATE	GQ301885	2010-Oct
+PUBDATE	MH449478	2018-Aug-3
+PUBDATE	MH449479	2018-Aug-3
+PUBDATE	MH449480	2018-Aug-3
+PUBDATE	MH449481	2018-Aug-3
+PUBDATE	MH449482	2018-Aug-3
+PUBDATE	MH449483	2018-Aug-3
+PUBDATE	MH449484	2018-Aug-3
+PUBDATE	MH449485	2018-Aug-3
+PUBDATE	MH449486	2018-Aug-3
+PUBDATE	MH449487	2018-Aug-3
+PUBDATE	MH449488	2018-Aug-3
+PUBDATE	MH449489	2018-Aug-3
+PUBDATE	MH449490	2018-Aug-3
+PUBDATE	MH449491	2018-Aug-3
+PUBDATE	MH449492	2018-Aug-3
+PUBDATE	MH449493	2018-Aug-3
+PUBDATE	MH449494	2018-Aug-3
+PUBDATE	GQ301886	2010-Oct
+PUBDATE	MH449495	2018-Aug-3
+PUBDATE	MH449496	2018-Aug-3
+PUBDATE	MH449497	2018-Aug-3
+PUBDATE	MH449498	2018-Aug-3
+PUBDATE	MH449499	2018-Aug-3
+PUBDATE	HQ873495	2011-Feb-11
+PUBDATE	DQ981469	2006-Dec
+PUBDATE	DQ981470	2006-Dec
+PUBDATE	DQ981471	2006-Dec
+PUBDATE	HQ873566	2011-Feb-11
+PUBDATE	HQ873567	2011-Feb-11
+PUBDATE	GQ119017	2010-Jan
+PUBDATE	DQ981474	2006-Dec
+PUBDATE	KU131379	2016-Mar
+PUBDATE	KU131380	2016-Mar
+PUBDATE	KU131387	2016-Mar
+PUBDATE	KU521478	2016-Apr
+PUBDATE	KU131388	2016-Mar
+PUBDATE	EF185793	2008-Jun
+PUBDATE	KU131389	2016-Mar
+PUBDATE	DQ981475	2006-Dec
+PUBDATE	KU131381	2016-Mar
+PUBDATE	KU131382	2016-Mar
+PUBDATE	KU131383	2016-Mar
+PUBDATE	KU131384	2016-Mar
+PUBDATE	KU521434	2016-Apr
+PUBDATE	HQ873489	2011-Feb-11
+PUBDATE	KU131385	2016-Mar
+PUBDATE	KU131390	2016-Mar
+PUBDATE	KU131386	2016-Mar
+PUBDATE	KY686211	2017-Mar-23
+PUBDATE	GU592217	2010-Oct
